@@ -18,7 +18,7 @@ export default function Nav() {
   const [activeSection, setActiveSection] = useState('home');
   const [menuOpen, setMenuOpen] = useState(false);
 
-  const sectionOrder = useMemo(() => (['services', 'partners', 'news', 'about']), []);
+  const sectionOrder = useMemo(() => (['services', 'partners', 'about']), []);
 
   useEffect(() => {
     if (!onHome) return;
@@ -83,7 +83,6 @@ export default function Nav() {
             <li className={homeIsActive ? 'active' : ''}><a href={pathname === '/' ? '#' : '/'} onClick={closeMenu}>Home</a></li>
             <li className={sectionIsActive('services') ? 'active' : ''}><a href={sectionHref(pathname, 'services')} onClick={closeMenu}>Services</a></li>
             <li className={sectionIsActive('partners') ? 'active' : ''}><a href={sectionHref(pathname, 'partners')} onClick={closeMenu}>Partners</a></li>
-            <li className={sectionIsActive('news') ? 'active' : ''}><a href={sectionHref(pathname, 'news')} onClick={closeMenu}>News</a></li>
             <li className={sectionIsActive('about') ? 'active' : ''}><a href={sectionHref(pathname, 'about')} onClick={closeMenu}>About</a></li>
             <li className={membersIsActive ? 'active' : ''}><a href="/members/" onClick={closeMenu}>Members</a></li>
             <li className={contactIsActive ? 'active' : ''}><a href="/contact/" onClick={closeMenu}>Contact</a></li>

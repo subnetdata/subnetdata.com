@@ -2,7 +2,6 @@ import Nav from '../components/Nav';
 import Footer from '../components/Footer';
 import services from '../data/services';
 import partners from '../data/partners';
-import news from '../data/news.json';
 
 function Masthead() {
   return (
@@ -63,42 +62,6 @@ function Partners() {
   );
 }
 
-function News() {
-  return (
-    <div id="news" className="container wb">
-      <br />
-      <br />
-      <div>
-        <h2 className="centered">News</h2>
-        <br />
-        <br />
-        {news.generatedAt ? (
-          <p className="centered">Last updated: {new Date(news.generatedAt).toLocaleString()}</p>
-        ) : null}
-        {news.sources.map((source) => (
-          <div className="news-item row equalize-rows" key={source.name}>
-            <h3 className="news-header">
-              <a href={source.humanUrl} target="_blank" rel="noreferrer">{source.name}</a>
-            </h3>
-            {source.items.length === 0 ? (
-              <div className="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <p>No stories available.</p>
-              </div>
-            ) : (
-              source.items.map((item) => (
-                <div key={item.link} className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                  <b><a href={item.link} target="_blank" rel="noreferrer">{item.title}</a></b>
-                  <p>{item.content}</p>
-                </div>
-              ))
-            )}
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-}
-
 function About() {
   return (
     <div id="about" className="portfolio">
@@ -141,7 +104,6 @@ export default function HomePage() {
       <Masthead />
       <Services />
       <Partners />
-      <News />
       <About />
       <Footer />
     </>

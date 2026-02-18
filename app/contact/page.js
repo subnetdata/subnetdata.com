@@ -20,7 +20,7 @@ export default function ContactPage() {
               <b>Subnet Data Services, LLC</b> <br />
               1775 W. State Street, #321 <br />
               Boise, ID 83702 <br />
-              (208) 918-1999
+              <a href="mailto:info@subnetdata.com">info@subnetdata.com</a>
             </div>
           </div>
         </div>
