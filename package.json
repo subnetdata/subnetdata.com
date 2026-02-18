@@ -1,0 +1,19 @@
+{
+  "name": "subnetdata-com",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "update-news": "node scripts/update-news.mjs",
+    "build:static": "npm run update-news && next build"
+  },
+  "dependencies": {
+    "next": "14.2.32",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "rss-parser": "3.13.0"
+  }
+}

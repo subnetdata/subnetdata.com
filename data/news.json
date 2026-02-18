@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-02-18T02:50:26.334Z",
+  "sources": [
+    {
+      "name": "Apple",
+      "humanUrl": "https://techcrunch.com/tag/apple/",
+      "items": []
+    },
+    {
+      "name": "Microsoft",
+      "humanUrl": "https://techcrunch.com/tag/microsoft/",
+      "items": []
+    },
+    {
+      "name": "Business",
+      "humanUrl": "https://www.yahoo.com/news/business",
+      "items": []
+    }
+  ]
+}

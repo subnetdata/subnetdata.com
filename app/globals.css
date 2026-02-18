@@ -1,0 +1,4 @@
+/* Keep global overrides minimal; legacy look is driven by /assets/css/main.css */
+html, body {
+  min-height: 100%;
+}
