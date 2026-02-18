@@ -8,18 +8,18 @@ const dataPath = path.resolve('data/news.json');
 const sourceConfigs = [
   {
     name: 'Apple',
-    feedUrl: 'https://feeds.feedburner.com/techcrunch/apple?format=xml',
+    feedUrl: 'https://techcrunch.com/tag/apple/feed/',
     humanUrl: 'https://techcrunch.com/tag/apple/'
   },
   {
     name: 'Microsoft',
-    feedUrl: 'https://feeds.feedburner.com/TechCrunch/Microsoft?format=xml',
+    feedUrl: 'https://techcrunch.com/tag/microsoft/feed/',
     humanUrl: 'https://techcrunch.com/tag/microsoft/'
   },
   {
     name: 'Business',
-    feedUrl: 'https://www.yahoo.com/news/rss/business',
-    humanUrl: 'https://www.yahoo.com/news/business'
+    feedUrl: 'https://rss.nytimes.com/services/xml/rss/nyt/Business.xml',
+    humanUrl: 'https://www.nytimes.com/section/business'
   }
 ];
 

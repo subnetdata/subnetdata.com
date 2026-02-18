@@ -2,3 +2,35 @@
 html, body {
   min-height: 100%;
 }
+
+@media (max-width: 767px) {
+  #topnav .main-nav-wrap {
+    display: none;
+    clear: both;
+    border-top: 1px solid #e7e7e7;
+  }
+
+  #topnav .main-nav-wrap.open {
+    display: block;
+  }
+
+  #topnav .main-nav-wrap .navbar-nav {
+    float: none !important;
+    margin: 7.5px -15px;
+  }
+
+  #topnav .main-nav-wrap .navbar-nav > li {
+    float: none;
+  }
+
+  #topnav .main-nav-wrap .navbar-nav > li > a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  #topnav .main-nav-wrap {
+    display: block !important;
+  }
+}
