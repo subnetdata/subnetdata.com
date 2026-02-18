@@ -46,7 +46,12 @@ jobs:
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Trigger deploy hook
-        if: steps.commit.outputs.changed == 'true' && secrets.DEPLOY_HOOK_URL != ''
-        run: curl -X POST "$DEPLOY_HOOK_URL"
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          if [[ -z "$DEPLOY_HOOK_URL" ]]; then
+            echo "DEPLOY_HOOK_URL is not set; skipping deploy hook."
+            exit 0
+          fi
+          curl -X POST "$DEPLOY_HOOK_URL"
         env:
           DEPLOY_HOOK_URL: ${{ secrets.DEPLOY_HOOK_URL }}
