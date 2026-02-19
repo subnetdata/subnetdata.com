@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-18T15:38:08.500Z",
+  "generatedAt": "2026-02-19T15:33:32.574Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Rivian owners will soon be able to access vehicle controls using their Apple Watch",
+          "link": "https://techcrunch.com/2026/02/19/rivian-owners-will-be-able-to-access-vehicle-controls-through-their-apple-watch/",
+          "content": "Rivian is launching a companion app that pairs with Apple Watch in the coming week."
+        },
         {
           "title": "Apple is reportedly cooking up a trio of AI wearables",
           "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
@@ -19,11 +24,6 @@
           "title": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
           "link": "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/",
           "content": "The show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions."
-        },
-        {
-          "title": "US FTC airs concerns over allegations that Apple News suppresses right-wing content",
-          "link": "https://techcrunch.com/2026/02/12/us-ftc-airs-concerns-over-allegations-that-apple-suppresses-right-wing-content-on-apple-news/",
-          "content": "In a letter to Apple CEO Tim Cook, FTC chair Andrew Ferguson cited reports from Media Research Center, a right-leaning think tank, which accused Apple of excluding right-leani"
         }
       ]
     },
@@ -34,7 +34,7 @@
         {
           "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
           "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-          "content": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data protection policies."
+          "content": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies."
         },
         {
           "title": "All the important news from the ongoing India AI Impact Summit",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The New York Times Wins 3 Polk Awards",
-          "link": "https://www.nytimes.com/2026/02/18/business/media/george-polk-awards.html",
-          "content": "The Times was honored for its coverage of President Trump, the abuse of housekeepers and nannies in Saudi Arabia and brutality in New York prisons."
+          "title": "U.S. Imports Grew in 2025, as Trump’s Tariffs Reshuffled Global Trade",
+          "link": "https://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html",
+          "content": "Data released Thursday by the Census Bureau showed the overall trade deficit with the world narrowed, the result of an expanding trade surplus in services. The trade deficit i"
         },
         {
-          "title": "Kentucky Derby Operator Accused of Regulatory ‘Freeloading’",
-          "link": "https://www.nytimes.com/2026/02/18/business/churchill-downs-hisa-fees.html",
-          "content": "The Horseracing Integrity and Safety Authority filed a complaint saying Churchill Downs Inc. is not paying its fair share to support inspections and testing."
+          "title": "Jittery Markets Seek an Iran ‘Off-Ramp’",
+          "link": "https://www.nytimes.com/2026/02/19/business/dealbook/markets-oil-iran.html",
+          "content": "Oil prices spiked and stocks fell as tensions between Washington and Tehran unnerved investors."
         },
         {
-          "title": "Elon Musk’s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
-          "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
-          "content": "Humain, which was created by Crown Prince Mohammed bin Salman last year, said it made the investment just before xAI was acquired by SpaceX, Mr. Musk’s rocket company."
+          "title": "Walmart Expects Growth Streak to Continue as New Chief Takes Over",
+          "link": "https://www.nytimes.com/2026/02/19/business/walmart-earnings-profit-ceo.html",
+          "content": "Shoppers are turning to Walmart to stretch their dollars, but an uncertain economy and trade tensions will test the retailer’s new executive team."
         },
         {
-          "title": "F.D.A. Reverses Decision and Agrees to Review Moderna’s Flu Vaccine",
-          "link": "https://www.nytimes.com/2026/02/18/health/fda-moderna-flu-vaccine-mrna.html",
-          "content": "Moderna said it had held further discussions with regulators and announced that the agency would accept the company’s application for approval of its flu vaccine that uses mRN"
+          "title": "Uber Moves to Enact Stricter Background Checks for Drivers",
+          "link": "https://www.nytimes.com/2026/02/19/business/uber-moves-to-enact-stricter-background-checks-for-drivers.html",
+          "content": "The New York Times revealed in December that the ride-hailing giant approved drivers with many types of criminal convictions, including violent felonies."
         }
       ]
     }
