@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-19T15:33:32.574Z",
+  "generatedAt": "2026-02-20T15:07:22.665Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,14 +32,14 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "All the important news from the ongoing India AI Impact Summit",
+          "link": "https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/",
+          "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, an"
+        },
+        {
           "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
           "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
           "content": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies."
-        },
-        {
-          "title": "All the important news from the ongoing India AI Impact Summit",
-          "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
-          "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, an"
         },
         {
           "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "U.S. Imports Grew in 2025, as Trump’s Tariffs Reshuffled Global Trade",
-          "link": "https://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html",
-          "content": "Data released Thursday by the Census Bureau showed the overall trade deficit with the world narrowed, the result of an expanding trade surplus in services. The trade deficit i"
+          "title": "A Cancer Detection Test Fails in Major Study",
+          "link": "https://www.nytimes.com/2026/02/20/health/cancer-detection-test-grail.html",
+          "content": "A closely watched clinical trial in Britain that screened blood for early detection of cancer did not show a reduction in later stages of the disease."
         },
         {
-          "title": "Jittery Markets Seek an Iran ‘Off-Ramp’",
-          "link": "https://www.nytimes.com/2026/02/19/business/dealbook/markets-oil-iran.html",
-          "content": "Oil prices spiked and stocks fell as tensions between Washington and Tehran unnerved investors."
+          "title": "U.S. Economy Grew Modestly at End of 2025",
+          "link": "https://www.nytimes.com/2026/02/20/business/economy/us-economy-gdp.html",
+          "content": "Gross domestic product expanded at a 1.4 percent annual rate in the last quarter of the year, hit by the effects of the government shutdown."
         },
         {
-          "title": "Walmart Expects Growth Streak to Continue as New Chief Takes Over",
-          "link": "https://www.nytimes.com/2026/02/19/business/walmart-earnings-profit-ceo.html",
-          "content": "Shoppers are turning to Walmart to stretch their dollars, but an uncertain economy and trade tensions will test the retailer’s new executive team."
+          "title": "Is Blue Owl Private Credit’s ‘Canary in the Coal Mine’?",
+          "link": "https://www.nytimes.com/2026/02/20/business/dealbook/private-credit-blue-owl.html",
+          "content": "Steep declines in the shares of private lenders, after a major fund changed how investors can withdraw money, have sparked worries about more trouble to come."
         },
         {
-          "title": "Uber Moves to Enact Stricter Background Checks for Drivers",
-          "link": "https://www.nytimes.com/2026/02/19/business/uber-moves-to-enact-stricter-background-checks-for-drivers.html",
-          "content": "The New York Times revealed in December that the ride-hailing giant approved drivers with many types of criminal convictions, including violent felonies."
+          "title": "Mixed Signals Churn Stock Market Despite Recent Highs",
+          "link": "https://www.nytimes.com/2026/02/20/business/stocks-markets-mixed-signals.html",
+          "content": "Major indexes have mostly been treading water for months, as investors’ exuberance for artificial intelligence wears off."
         }
       ]
     }
