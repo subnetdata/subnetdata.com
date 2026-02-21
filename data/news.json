@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-20T15:07:22.665Z",
+  "generatedAt": "2026-02-21T14:02:06.640Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
+          "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
+          "content": "Several updates are introduced in iOS 26.4, including an AI-powered playlist-generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encry"
+        },
         {
           "title": "Rivian owners will soon be able to access vehicle controls using their Apple Watch",
           "link": "https://techcrunch.com/2026/02/19/rivian-owners-will-be-able-to-access-vehicle-controls-through-their-apple-watch/",
@@ -19,11 +24,6 @@
           "title": "Apple Podcasts is getting an enhanced video experience this spring",
           "link": "https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/",
           "content": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows."
-        },
-        {
-          "title": "Apple acquires all rights to ‘Severance,’ will produce future seasons in-house",
-          "link": "https://techcrunch.com/2026/02/12/apple-acquires-all-rights-to-severance-will-produce-future-seasons-in-house/",
-          "content": "The show is expected to run for four seasons, with the possibility of spin-offs, a prequel, and foreign versions."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "A Cancer Detection Test Fails in Major Study",
-          "link": "https://www.nytimes.com/2026/02/20/health/cancer-detection-test-grail.html",
-          "content": "A closely watched clinical trial in Britain that screened blood for early detection of cancer did not show a reduction in later stages of the disease."
+          "title": "Inside the Big Tech Lobbying Machine Aiming to Halt Social Media Bans",
+          "link": "https://www.nytimes.com/2026/02/21/business/dealbook/big-tech-lobbying-social-media-bans.html",
+          "content": "Tech giants, including Meta and Alphabet, are spending lavishly on splashy billboard ads, courting on-the-fence politicians and bulking up their ranks of lobbyists."
         },
         {
-          "title": "U.S. Economy Grew Modestly at End of 2025",
-          "link": "https://www.nytimes.com/2026/02/20/business/economy/us-economy-gdp.html",
-          "content": "Gross domestic product expanded at a 1.4 percent annual rate in the last quarter of the year, hit by the effects of the government shutdown."
+          "title": "For India, Buying Russian Oil Just Got More Complicated",
+          "link": "https://www.nytimes.com/2026/02/21/business/india-russia-oil-trump-tariffs.html",
+          "content": "India’s prime minister acceded to many of President Trump’s demands under pressure of heavy tariffs. It would be awkward to reject them now."
         },
         {
-          "title": "Is Blue Owl Private Credit’s ‘Canary in the Coal Mine’?",
-          "link": "https://www.nytimes.com/2026/02/20/business/dealbook/private-credit-blue-owl.html",
-          "content": "Steep declines in the shares of private lenders, after a major fund changed how investors can withdraw money, have sparked worries about more trouble to come."
+          "title": "Fred Segal Has a New Owner. This Time It’s Aritzia.",
+          "link": "https://www.nytimes.com/2026/02/21/style/fred-segal-has-a-new-owner-again.html",
+          "content": "The storied Los Angeles retailer, once recognized as an arbiter of West Coast style, has been acquired by the mass-market brand Aritzia."
         },
         {
-          "title": "Mixed Signals Churn Stock Market Despite Recent Highs",
-          "link": "https://www.nytimes.com/2026/02/20/business/stocks-markets-mixed-signals.html",
-          "content": "Major indexes have mostly been treading water for months, as investors’ exuberance for artificial intelligence wears off."
+          "title": "He Researched Dishonesty. He Got Friendly With Jeffrey Epstein.",
+          "link": "https://www.nytimes.com/2026/02/21/business/jeffrey-epstein-dan-ariely-dishonesty.html",
+          "content": "Dan Ariely, a behavioral scientist at Duke, sought out the convicted sex offender for his research. Their yearslong correspondence suggests it wasn’t all business."
         }
       ]
     }
