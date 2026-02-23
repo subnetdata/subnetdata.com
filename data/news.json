@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-02-22T14:03:09.920Z",
+  "generatedAt": "2026-02-23T15:34:15.924Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple might take a new approach to announcing its next products",
+          "link": "https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/",
+          "content": "Apple has invited the tech press to a “special Apple experience” on March 4, but it might unfold a bit differently than the company's standard press event."
+        },
         {
           "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
           "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
@@ -19,11 +24,6 @@
           "title": "Apple is reportedly cooking up a trio of AI wearables",
           "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
           "content": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development."
-        },
-        {
-          "title": "Apple Podcasts is getting an enhanced video experience this spring",
-          "link": "https://techcrunch.com/2026/02/17/apple-podcasts-is-getting-an-enhanced-video-experience-this-spring/",
-          "content": "By bringing an enhanced video podcast viewing experience to its app, Apple is aiming to keep users from turning to rival platforms to watch their favorite shows."
         }
       ]
     },
@@ -32,14 +32,14 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "All the important news from the ongoing India AI Impact Summit",
+          "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+          "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, an"
+        },
+        {
           "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
           "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
           "content": "Is Microsoft's gaming division doubling down on AI?"
-        },
-        {
-          "title": "All the important news from the ongoing India AI Impact Summit",
-          "link": "https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/",
-          "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, an"
         },
         {
           "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.",
-          "link": "https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html",
-          "content": "Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they may have been better off waiting."
+          "title": "Tariff Turmoil Returns to Global Markets",
+          "link": "https://www.nytimes.com/2026/02/23/business/dealbook/tariffs-trump-markets.html",
+          "content": "Businesses and U.S. trade partners are again grappling with the uncertainty of President Trump’s trade war, even as he imposes new levies."
         },
         {
-          "title": "Should I Tell My Housekeeper, ‘I’m Here for You’?",
-          "link": "https://www.nytimes.com/2026/02/22/business/should-i-tell-my-housekeeper-im-here-for-you.html",
-          "content": "Plus, what to do when your job interviewer spouts off on things better left unsaid."
+          "title": "Top Fed Official Sees Little Effect on Rate Outlook From Supreme Court’s Tariff Ruling",
+          "link": "https://www.nytimes.com/2026/02/23/business/economy/waller-fed-supreme-court-tariffs-rates.html",
+          "content": "Christopher J. Waller, a Federal Reserve governor, said he would support a pause in rate cuts in March if the labor market continued to show signs of stabilizing."
         },
         {
-          "title": "Trump’s Challenge to Free Market Capitalism",
-          "link": "https://www.nytimes.com/2026/02/22/business/economy/trump-republicans-economy-capitalism.html",
-          "content": "Stakes in private companies. Handshake deals with chief executives. The president’s economic policy has drifted far from principles that long defined the Republican Party. Is "
+          "title": "U.K., Australia and Others Worse Off Under Trump’s New Tariffs",
+          "link": "https://www.nytimes.com/2026/02/23/business/uk-australia-trump-tariffs.html",
+          "content": "Many important U.S. trading partners are facing higher duties after President Trump, reacting to a Supreme Court setback, set the rate on a new set of global tariffs at 15 per"
         },
         {
-          "title": "A Roving Reporter on the Future of Transit in New York City",
-          "link": "https://www.nytimes.com/2026/02/22/insider/stefanos-chen-new-york-times.html",
-          "content": "“A lot of interesting things happening in the city involve how people get around,” said Stefanos Chen, a Metro reporter and lifelong bus aficionado."
+          "title": "What’s Happened Since the Supreme Court’s Tariff Ruling",
+          "link": "https://www.nytimes.com/2026/02/23/business/supreme-court-trump-tariffs-updates.html",
+          "content": "After the Trump administration’s punishing tariffs were invalidated, the president said he would impose new tariffs using a different authority. It’s been a whirlwind."
         }
       ]
     }
