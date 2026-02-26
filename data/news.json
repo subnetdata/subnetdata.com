@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-25T16:50:37.592Z",
+  "generatedAt": "2026-02-26T15:40:31.788Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,16 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
+          "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
+          "content": "Many hyperscalers have already made public commitments to cover electricity cost increases."
+        },
+        {
+          "title": "The public opposition to AI infrastructure is heating up",
+          "link": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
+          "content": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction."
+        },
+        {
           "title": "All the important news from the ongoing India AI Impact Summit",
           "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
           "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, an"
@@ -40,16 +50,6 @@
           "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
           "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
           "content": "Is Microsoft's gaming division doubling down on AI?"
-        },
-        {
-          "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
-          "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
-          "content": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies."
-        },
-        {
-          "title": "Microsoft says hackers are exploiting critical zero-day bugs to target Windows and Office users",
-          "link": "https://techcrunch.com/2026/02/11/microsoft-says-hackers-are-exploiting-critical-zero-day-bugs-to-target-windows-and-office-users/",
-          "content": "Critical security flaws targeting Windows and Office users allow hackers to take complete control of a victim's computer by clicking a malicious link or opening a file. Patch "
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Blaming Tariffs, Aston Martin to Trim 20% of Its Work Force",
-          "link": "https://www.nytimes.com/2026/02/25/business/tariffs-aston-martin.html",
-          "content": "The luxury automaker said losses for 2025 had increased from the year before, as tariffs and geopolitical uncertainty take a toll on its operations."
+          "title": "He Hopes to Turn the Island of Nevis Into a Libertarian Paradise, With Crypto",
+          "link": "https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html",
+          "content": "A Bitcoin baron wants to build a libertarian paradise on the island of Nevis. Democracy is getting in the way."
         },
         {
-          "title": "What Trump Did (and Didn’t) Say in the State of the Union Speech",
-          "link": "https://www.nytimes.com/2026/02/25/business/dealbook/trump-state-of-union.html",
-          "content": "The president boasted about a strong economy in his State of the Union address. But he spent less time on a potential weakness, affordability."
+          "title": "Why Nvidia’s Big Profits Aren’t Lifting Markets ",
+          "link": "https://www.nytimes.com/2026/02/26/business/dealbook/nvidia-ai-markets.html",
+          "content": "The chip giant at the center of the artificial intelligence boom again beat expectations. But it didn’t overcome investor jitters."
         },
         {
-          "title": "Bleak Research Report Stokes A.I. Debate on Wall St.",
-          "link": "https://www.nytimes.com/2026/02/25/business/citrini-ai-stock-market.html",
-          "content": "In a widely circulated note, Citrini Research painted a dire picture of job losses and stock market sell-offs, though many analysts and economists questioned its conclusions."
+          "title": "Revel, a Maker of Software for Running Hardware, Raises $150 Million",
+          "link": "https://www.nytimes.com/2026/02/26/business/dealbook/revel-software-hardware-fund-raise.html",
+          "content": "The start-up, founded by a former top SpaceX engineer, promises to help companies reduce their testing times and optimize systems."
         },
         {
-          "title": "From the French Riviera to Kyoto, Japan, 5 New Luxury Hotels",
-          "link": "https://www.nytimes.com/2026/02/25/travel/luxury-hotels.html",
-          "content": "From palatial to contemporary to luxuriously rustic, this collection of new resorts and inns offers spas, private gardens, fine restaurants and exquisite settings."
+          "title": "World Economic Forum Chief Resigns Over Epstein Ties",
+          "link": "https://www.nytimes.com/2026/02/26/business/world-economic-forum-davos-epstein-brende.html",
+          "content": "Borge Brende, a former foreign minister of Norway, had maintained contact with the convicted sex offender."
         }
       ]
     }
