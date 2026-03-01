@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-02-28T13:56:07.326Z",
+  "generatedAt": "2026-03-01T13:58:50.173Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "The billion-dollar infrastructure deals powering the AI boom",
+          "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+          "content": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI."
+        },
+        {
           "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
           "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
           "content": "Many hyperscalers have already made public commitments to cover electricity cost increases."
@@ -45,11 +50,6 @@
           "title": "All the important news from the ongoing India AI Impact Summit",
           "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
           "content": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, an"
-        },
-        {
-          "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
-          "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
-          "content": "Is Microsoft's gaming division doubling down on AI?"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Banks Are Becoming Bulwarks for Vulnerable Seniors",
-          "link": "https://www.nytimes.com/2026/02/28/health/scams-elderly-banks.html",
-          "content": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags and stop the transaction"
+          "title": "Are ‘Bossware’ Tools Tracking You?",
+          "link": "https://www.nytimes.com/2026/03/01/business/bossware-work-surveillance-tools.html",
+          "content": "In recent years, the technologies used to surveil workers have become more sophisticated and widespread."
         },
         {
-          "title": "Lloyd Blankfein on Trump, Epstein and Life After Goldman Sachs",
-          "link": "https://www.nytimes.com/2026/02/28/business/dealbook/lloyd-blankfein-book.html",
-          "content": "In a wide-ranging interview with Andrew Ross Sorkin, Goldman’s former C.E.O. discussed his life and new memoir."
+          "title": "Kickstarter’s C.E.O. on Running a Fully Remote Company With a Four-Day Workweek",
+          "link": "https://www.nytimes.com/2026/03/01/business/kickstarter-everette-taylor-interview-remote-four-day-workweek.html",
+          "content": "Everette Taylor took over Kickstarter at a low moment for the crowdfunding pioneer, which made its name with small projects but now attracts major multinationals and celebriti"
         },
         {
-          "title": "Netflix Lost Warner. Maybe That’s a Good Thing.",
-          "link": "https://www.nytimes.com/2026/02/28/business/media/netflix-lost-warner-maybe-thats-a-good-thing.html",
-          "content": "It is entirely possible, analysts say, that Netflix will be better off by bailing from its $83 billion deal with Warner Bros. Discovery."
+          "title": "40 Years and 10,000 Broadcasts In, They’re Still Live on Air",
+          "link": "https://www.nytimes.com/2026/03/01/business/media/anchors-rick-ardon-susannah-carr-perth-australia.html",
+          "content": "Rick Ardon and Susannah Carr have been delivering the news together in Western Australia since 1985 — a Guinness World Record."
         },
         {
-          "title": "Abrupt Change for Warner Bros. Prompts Many Grim Faces",
-          "link": "https://www.nytimes.com/2026/02/28/business/warner-bros-paramount-reaction.html",
-          "content": "Employees at the company had started to warm to the idea of Netflix as its corporate owner. Now they face the prospect of major cuts under Paramount."
+          "title": "Oil Shipments in Persian Gulf Already Disrupted by Iran Attack",
+          "link": "https://www.nytimes.com/2026/02/28/business/energy-environment/oil-gas-iran-attack.html",
+          "content": "Tankers have begun to steer clear of the region and the Strait of Hormuz, threatening to push up energy prices."
         }
       ]
     }
