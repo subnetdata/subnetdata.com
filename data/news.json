@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-01T13:58:50.173Z",
+  "generatedAt": "2026-03-02T15:06:21.510Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
+          "link": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
+          "content": "The base model comes with 256 GB of storage, which Apple says is twice the entry storage from the previous generation at the same starting price."
+        },
         {
           "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
           "link": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
@@ -19,11 +24,6 @@
           "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
           "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
           "content": "Several updates are introduced in iOS 26.4, including an AI-powered playlist-generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encry"
-        },
-        {
-          "title": "Rivian owners will soon be able to access vehicle controls using their Apple Watch",
-          "link": "https://techcrunch.com/2026/02/19/rivian-owners-will-be-able-to-access-vehicle-controls-through-their-apple-watch/",
-          "content": "Rivian is launching a companion app that pairs with Apple Watch in the coming week."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Are ‘Bossware’ Tools Tracking You?",
-          "link": "https://www.nytimes.com/2026/03/01/business/bossware-work-surveillance-tools.html",
-          "content": "In recent years, the technologies used to surveil workers have become more sophisticated and widespread."
+          "title": "States Move to Limit Access to H.I.V. Treatment",
+          "link": "https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html",
+          "content": "Citing shortfalls in federal support, about 20 states are toughening eligibility requirements for patients in drug assistance programs."
         },
         {
-          "title": "Kickstarter’s C.E.O. on Running a Fully Remote Company With a Four-Day Workweek",
-          "link": "https://www.nytimes.com/2026/03/01/business/kickstarter-everette-taylor-interview-remote-four-day-workweek.html",
-          "content": "Everette Taylor took over Kickstarter at a low moment for the crowdfunding pioneer, which made its name with small projects but now attracts major multinationals and celebriti"
+          "title": "Tariffs Force Down Heavy Equipment Sales and Jobs",
+          "link": "https://www.nytimes.com/2026/03/02/business/manufacturing-equipment-tariffs.html",
+          "content": "An industry report shows high interest rates, fewer infrastructure projects and tariffs pressures have slowed growth and decreased jobs in the sector."
         },
         {
-          "title": "40 Years and 10,000 Broadcasts In, They’re Still Live on Air",
-          "link": "https://www.nytimes.com/2026/03/01/business/media/anchors-rick-ardon-susannah-carr-perth-australia.html",
-          "content": "Rick Ardon and Susannah Carr have been delivering the news together in Western Australia since 1985 — a Guinness World Record."
+          "title": "Airline Stocks Tumble as Iran War Expands Across Middle East",
+          "link": "https://www.nytimes.com/2026/03/02/business/airline-stocks-iran-attacks.html",
+          "content": "Higher fuel prices and lower demand for international flights are eating into airlines’ profits."
         },
         {
-          "title": "Oil Shipments in Persian Gulf Already Disrupted by Iran Attack",
-          "link": "https://www.nytimes.com/2026/02/28/business/energy-environment/oil-gas-iran-attack.html",
-          "content": "Tankers have begun to steer clear of the region and the Strait of Hormuz, threatening to push up energy prices."
+          "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
+          "link": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
+          "content": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons."
         }
       ]
     }
