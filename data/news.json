@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-03-02T15:06:21.510Z",
+  "generatedAt": "2026-03-03T15:34:53.353Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Apple’s new Studio displays come with Thunderbolt 5",
+          "link": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
+          "content": "The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports."
+        },
+        {
+          "title": "Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’",
+          "link": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
+          "content": "The chips are engineered around Apple's new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip (SoC)."
+        },
+        {
+          "title": "Apple speeds up the iPad Air with an M4 upgrade, starting at $599",
+          "link": "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/",
+          "content": "Apple refreshes the iPad Air with the M4 chip and more memory to make it better for AI use cases."
+        },
+        {
           "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
           "link": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
           "content": "The base model comes with 256 GB of storage, which Apple says is twice the entry storage from the previous generation at the same starting price."
-        },
-        {
-          "title": "Apple rolls out age-verification tools worldwide to comply with growing web of child safety laws",
-          "link": "https://techcrunch.com/2026/02/24/apple-rolls-out-age-verification-tools-worldwide-to-comply-with-growing-web-of-child-safety-laws/",
-          "content": "Apple complies with new age-assurance laws in the U.S. and abroad, including those that block users from downloading apps aimed at adults."
-        },
-        {
-          "title": "Apple might take a new approach to announcing its next products",
-          "link": "https://techcrunch.com/2026/02/22/apple-might-take-a-new-approach-to-announcing-its-next-products/",
-          "content": "Apple has invited the tech press to a “special Apple experience” on March 4, but it might unfold a bit differently than the company's standard press event."
-        },
-        {
-          "title": "Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more",
-          "link": "https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/",
-          "content": "Several updates are introduced in iOS 26.4, including an AI-powered playlist-generation feature in Apple Music, support for video content in the Podcasts app, end-to-end encry"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "States Move to Limit Access to H.I.V. Treatment",
-          "link": "https://www.nytimes.com/2026/03/02/health/hiv-drugs-ryan-white.html",
-          "content": "Citing shortfalls in federal support, about 20 states are toughening eligibility requirements for patients in drug assistance programs."
+          "title": "Oil and Natural Gas Prices Extend Rally as Iran Attacks Escalates",
+          "link": "https://www.nytimes.com/2026/03/03/business/energy-environment/oil-natural-gas-iran-israel-united-states.html",
+          "content": "Energy prices continued to rise on Tuesday as attacks by the United States and Israel on Iran intensified, along with the country’s response."
         },
         {
-          "title": "Tariffs Force Down Heavy Equipment Sales and Jobs",
-          "link": "https://www.nytimes.com/2026/03/02/business/manufacturing-equipment-tariffs.html",
-          "content": "An industry report shows high interest rates, fewer infrastructure projects and tariffs pressures have slowed growth and decreased jobs in the sector."
+          "title": "Has Your Business Been Affected by Immigration Policies? We Want to Hear From You.",
+          "link": "https://www.nytimes.com/2026/03/03/us/politics/immigration-business-questions.html",
+          "content": "The New York Times is looking to talk to business owners whose work forces are changing because of immigration policies."
         },
         {
-          "title": "Airline Stocks Tumble as Iran War Expands Across Middle East",
-          "link": "https://www.nytimes.com/2026/03/02/business/airline-stocks-iran-attacks.html",
-          "content": "Higher fuel prices and lower demand for international flights are eating into airlines’ profits."
+          "title": "Trump’s ‘Whatever It Takes’ Rattles Global Markets",
+          "link": "https://www.nytimes.com/2026/03/03/business/dealbook/iran-markets-trump.html",
+          "content": "President Trump has signaled that he is open to the idea of a prolonged military conflict with Iran. Investors are spooked by that scenario."
         },
         {
-          "title": "The Pentagon’s Favorite Tech Guy Is This Hawaiian Shirt-Wearing Founder",
-          "link": "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
-          "content": "Palmer Luckey, who founded the defense tech start-up Anduril, has become the It Guy as President Trump aims to modernize the U.S. military with autonomous weapons."
+          "title": "Tariffs Confound Small Businesses Again",
+          "link": "https://www.nytimes.com/2026/03/03/business/economy/tariffs-small-business-confusion-refunds.html",
+          "content": "Chocolate makers and fig-paste importers are facing a tangle of unknowns, including whether to seek refunds for tariffs invalidated by the Supreme Court."
         }
       ]
     }
