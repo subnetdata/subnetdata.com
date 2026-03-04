@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-03-03T15:34:53.353Z",
+  "generatedAt": "2026-03-04T15:02:05.547Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "Apple’s new Studio displays come with Thunderbolt 5",
-          "link": "https://techcrunch.com/2026/03/03/apples-new-studio-displays-come-with-thunderbolt-5/",
-          "content": "The new displays come with better cameras, new sound systems, and Thunderbolt 5 ports."
+          "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
+          "link": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
+          "content": "Apple is offering the MacBook Neo at a more affordable price point by using an A18 Pro chip, which is used in the iPhone 16 Pro."
         },
         {
-          "title": "Apple unveils M5 Pro and M5 Max chips with new ‘Fusion Architecture’",
-          "link": "https://techcrunch.com/2026/03/03/apple-unveils-m5-pro-and-m5-max-chips-with-new-fusion-architecture/",
-          "content": "The chips are engineered around Apple's new Fusion Architecture, an advanced design that merges two dies into a single, high-performance system on a chip (SoC)."
+          "title": "The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.",
+          "link": "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/",
+          "content": "With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge."
         },
         {
-          "title": "Apple speeds up the iPad Air with an M4 upgrade, starting at $599",
-          "link": "https://techcrunch.com/2026/03/02/apple-speeds-up-the-ipad-air-with-an-m4-upgrade-starting-at-599/",
-          "content": "Apple refreshes the iPad Air with the M4 chip and more memory to make it better for AI use cases."
+          "title": "Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week",
+          "link": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/",
+          "content": "This would mark the first time Apple competes with cheaper hardware like the Chromebook."
         },
         {
-          "title": "Apple bakes in AI smarts into its new $599 iPhone 17e",
-          "link": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
-          "content": "The base model comes with 256 GB of storage, which Apple says is twice the entry storage from the previous generation at the same starting price."
+          "title": "Apple unveils new MacBook Air and MacBook Pro with M5",
+          "link": "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/",
+          "content": "These updated M5 chips were specifically designed to make the MacBook Air and MacBook Pro laptops better at handling intensive AI tasks."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Oil and Natural Gas Prices Extend Rally as Iran Attacks Escalates",
-          "link": "https://www.nytimes.com/2026/03/03/business/energy-environment/oil-natural-gas-iran-israel-united-states.html",
-          "content": "Energy prices continued to rise on Tuesday as attacks by the United States and Israel on Iran intensified, along with the country’s response."
+          "title": "All3Media and Banijay, 2 Big Production Houses, to Merge",
+          "link": "https://www.nytimes.com/2026/03/04/business/dealbook/all3media-banijay-merger-media.html",
+          "content": "The deal between All3Media and Banijay will bring together the companies behind the “Peaky Blinders” and the “Traitors” franchises."
         },
         {
-          "title": "Has Your Business Been Affected by Immigration Policies? We Want to Hear From You.",
-          "link": "https://www.nytimes.com/2026/03/03/us/politics/immigration-business-questions.html",
-          "content": "The New York Times is looking to talk to business owners whose work forces are changing because of immigration policies."
+          "title": "Bessent Says Global Tariffs Will Rise to 15% This Week",
+          "link": "https://www.nytimes.com/2026/03/04/business/economy/bessent-trump-tariffs-15-percent.html",
+          "content": "Treasury Secretary Scott Bessent predicted that overall tariff rates, which fell after a Supreme Court ruling last month, would be back to previous levels within five months."
         },
         {
-          "title": "Trump’s ‘Whatever It Takes’ Rattles Global Markets",
-          "link": "https://www.nytimes.com/2026/03/03/business/dealbook/iran-markets-trump.html",
-          "content": "President Trump has signaled that he is open to the idea of a prolonged military conflict with Iran. Investors are spooked by that scenario."
+          "title": "The High Stakes of Keeping the Strait of Hormuz Open",
+          "link": "https://www.nytimes.com/2026/03/04/business/dealbook/iran-hormuz-oil-trump.html",
+          "content": "The U.S.-Israeli war with Iran has paralyzed the strait, a vital shipping lane for energy and commerce, putting global investors on edge."
         },
         {
-          "title": "Tariffs Confound Small Businesses Again",
-          "link": "https://www.nytimes.com/2026/03/03/business/economy/tariffs-small-business-confusion-refunds.html",
-          "content": "Chocolate makers and fig-paste importers are facing a tangle of unknowns, including whether to seek refunds for tariffs invalidated by the Supreme Court."
+          "title": "Top Fed Official, Wary of Inflation, Calls for Extended Rate Pause",
+          "link": "https://www.nytimes.com/2026/03/04/business/fed-hammack-inflation-interest-rates.html",
+          "content": "Beth M. Hammack, head of the Federal Reserve Bank of Cleveland, says it is too early to gauge the economic impact of the Iran war and backs holding interest rates steady for “"
         }
       ]
     }
