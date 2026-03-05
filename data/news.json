@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-04T15:02:05.547Z",
+  "generatedAt": "2026-03-05T15:36:47.116Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
+          "link": "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+          "content": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week."
+        },
         {
           "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
           "link": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
@@ -19,11 +24,6 @@
           "title": "Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week",
           "link": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/",
           "content": "This would mark the first time Apple competes with cheaper hardware like the Chromebook."
-        },
-        {
-          "title": "Apple unveils new MacBook Air and MacBook Pro with M5",
-          "link": "https://techcrunch.com/2026/03/03/apple-unveils-new-macbook-air-and-macbook-pro-with-m5/",
-          "content": "These updated M5 chips were specifically designed to make the MacBook Air and MacBook Pro laptops better at handling intensive AI tasks."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "All3Media and Banijay, 2 Big Production Houses, to Merge",
-          "link": "https://www.nytimes.com/2026/03/04/business/dealbook/all3media-banijay-merger-media.html",
-          "content": "The deal between All3Media and Banijay will bring together the companies behind the “Peaky Blinders” and the “Traitors” franchises."
+          "title": "Iceland Defeats Iceland: A U.K. Supermarket Ends a Trademark Dispute",
+          "link": "https://www.nytimes.com/2026/03/05/world/europe/iceland-supermarket-trademark.html",
+          "content": "Can a company trademark the name of a country? In the case of Iceland, the British grocery store, the answer is no."
         },
         {
-          "title": "Bessent Says Global Tariffs Will Rise to 15% This Week",
-          "link": "https://www.nytimes.com/2026/03/04/business/economy/bessent-trump-tariffs-15-percent.html",
-          "content": "Treasury Secretary Scott Bessent predicted that overall tariff rates, which fell after a Supreme Court ruling last month, would be back to previous levels within five months."
+          "title": "Can Anthropic Make Peace With the Pentagon?",
+          "link": "https://www.nytimes.com/2026/03/05/business/dealbook/anthropic-pentagon-ai.html",
+          "content": "The artificial intelligence start-up has reportedly resumed talks with the Defense Department over use of its tools, with high stakes for both."
         },
         {
-          "title": "The High Stakes of Keeping the Strait of Hormuz Open",
-          "link": "https://www.nytimes.com/2026/03/04/business/dealbook/iran-hormuz-oil-trump.html",
-          "content": "The U.S.-Israeli war with Iran has paralyzed the strait, a vital shipping lane for energy and commerce, putting global investors on edge."
+          "title": "How War in the Persian Gulf Could Spill Into the U.S. Economy",
+          "link": "https://www.nytimes.com/2026/03/05/business/economy/iran-oil-economy-consumers.html",
+          "content": "Rising energy prices, snarled supply chains and higher government debt could all hurt American consumers."
         },
         {
-          "title": "Top Fed Official, Wary of Inflation, Calls for Extended Rate Pause",
-          "link": "https://www.nytimes.com/2026/03/04/business/fed-hammack-inflation-interest-rates.html",
-          "content": "Beth M. Hammack, head of the Federal Reserve Bank of Cleveland, says it is too early to gauge the economic impact of the Iran war and backs holding interest rates steady for “"
+          "title": "‘No Tax on Overtime’ Rule Isn’t What Some Workers Were Expecting",
+          "link": "https://www.nytimes.com/2026/03/05/business/no-tax-on-overtime-tax-returns.html",
+          "content": "President Trump’s simple campaign promise, now reality, includes lots of fine print that is confounding taxpayers and companies this filing season."
         }
       ]
     }
