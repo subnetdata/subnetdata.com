@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-05T15:36:47.116Z",
+  "generatedAt": "2026-03-06T15:01:41.435Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Italian prosecutors confirm journalist was hacked with Paragon spyware",
+          "link": "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/",
+          "content": "Italian authorities are making progress in their investigation into a wide-ranging spyware scandal in Italy involving Paragon spyware. But the mystery of who hacked two Italia"
+        },
         {
           "title": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
           "link": "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
@@ -19,11 +24,6 @@
           "title": "The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.",
           "link": "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/",
           "content": "With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge."
-        },
-        {
-          "title": "Apple’s rumored MacBook Neo, a lower-cost, colorful laptop, could launch this week",
-          "link": "https://techcrunch.com/2026/03/03/apple-macbook-neo-a-low-cost-colorful-laptop-could-launch-this-week/",
-          "content": "This would mark the first time Apple competes with cheaper hardware like the Chromebook."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Iceland Defeats Iceland: A U.K. Supermarket Ends a Trademark Dispute",
-          "link": "https://www.nytimes.com/2026/03/05/world/europe/iceland-supermarket-trademark.html",
-          "content": "Can a company trademark the name of a country? In the case of Iceland, the British grocery store, the answer is no."
+          "title": "Iran’s Chokehold on Persian Gulf Waterway Strains Shipping",
+          "link": "https://www.nytimes.com/2026/03/06/business/iran-persian-gulf-hormuz-shipping.html",
+          "content": "The threat of prolonged attacks on oil tankers and other vessels is giving Iran an advantage, analysts say."
         },
         {
-          "title": "Can Anthropic Make Peace With the Pentagon?",
-          "link": "https://www.nytimes.com/2026/03/05/business/dealbook/anthropic-pentagon-ai.html",
-          "content": "The artificial intelligence start-up has reportedly resumed talks with the Defense Department over use of its tools, with high stakes for both."
+          "title": "Axel Springer Agrees to Buy U.K.’s Telegraph",
+          "link": "https://www.nytimes.com/2026/03/06/business/dealbook/axel-springer-telegraph.html",
+          "content": "The $766 million takeover is the latest twist for The Telegraph, an influential British newspaper whose ownership had been in limbo for years."
         },
         {
-          "title": "How War in the Persian Gulf Could Spill Into the U.S. Economy",
-          "link": "https://www.nytimes.com/2026/03/05/business/economy/iran-oil-economy-consumers.html",
-          "content": "Rising energy prices, snarled supply chains and higher government debt could all hurt American consumers."
+          "title": "A Vexing Problem for College Students: Course Availability",
+          "link": "https://www.nytimes.com/2026/03/06/your-money/college-students-course-availability.html",
+          "content": "A new report looks at course “shutouts,” which can add to the time and cost of getting a degree."
         },
         {
-          "title": "‘No Tax on Overtime’ Rule Isn’t What Some Workers Were Expecting",
-          "link": "https://www.nytimes.com/2026/03/05/business/no-tax-on-overtime-tax-returns.html",
-          "content": "President Trump’s simple campaign promise, now reality, includes lots of fine print that is confounding taxpayers and companies this filing season."
+          "title": "Trump’s Strait of Hormuz Problem",
+          "link": "https://www.nytimes.com/2026/03/06/business/dealbook/trump-strait-hormuz-iran-gasoline.html",
+          "content": "The president campaigned on lowering prices for Americans. That pledge has come under fire this week as the Iran war pushes up the cost of gasoline."
         }
       ]
     }
