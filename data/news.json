@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-03-09T16:15:59.573Z",
+  "generatedAt": "2026-03-10T16:16:54.217Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple now makes one in four iPhones in India: report",
+          "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
+          "content": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China."
+        },
+        {
+          "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+          "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+          "content": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor s"
+        },
         {
           "title": "Italian prosecutors confirm journalist was hacked with Paragon spyware",
           "link": "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/",
@@ -14,16 +24,6 @@
           "title": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
           "link": "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
           "content": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week."
-        },
-        {
-          "title": "Meet the MacBook Neo, Apple’s colorful answer to the Chromebook, starting at $599",
-          "link": "https://techcrunch.com/2026/03/04/meet-the-macbook-neo-apples-colorful-answer-to-the-chromebook-starting-at-599/",
-          "content": "Apple is offering the MacBook Neo at a more affordable price point by using an A18 Pro chip, which is used in the iPhone 16 Pro."
-        },
-        {
-          "title": "The new MacBook Pro laptops are as much as $400 more expensive than their predecessors. Thank the RAM shortage.",
-          "link": "https://techcrunch.com/2026/03/03/apple-new-macbook-pro-laptop-price-more-expensive-than-previous-models-ram-memory-shortage/",
-          "content": "With the demands for more computers and data centers to power AI, the market is experiencing a shortage of RAM, causing memory prices to surge."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Live Nation, Ticketmaster’s Owner, Settles Antitrust Case With Justice Dept.",
-          "link": "https://www.nytimes.com/2026/03/09/arts/music/live-nation-ticketmaster-antitrust-suit-settled.html",
-          "content": "The agreement, which requires a judicial sign-off, would avoid a breakup of the concert giant. But states who joined the suit object to the terms."
+          "title": "Elevated Energy Prices Add to Fed’s Dilemma on Interest Rates",
+          "link": "https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html",
+          "content": "Investors now expect that the Fed will delay a rate cut until September instead of July, as they had before the war in Iran began."
         },
         {
-          "title": "Countries in Asia Try to Contain the Economic Fallout of the Mideast Conflict",
-          "link": "https://www.nytimes.com/2026/03/09/business/iran-oil-gas-asia.html",
-          "content": "Across Asia, where countries are highly exposed to rising oil and gas costs and tightening supply, governments are acting to mitigate economic harm."
+          "title": "What to Know About the Rising Price of Oil and Its Effects on Airline Ticket Prices",
+          "link": "https://www.nytimes.com/2026/03/10/travel/airline-prices-mideast-war.html",
+          "content": "The Gulf conflict has led to higher fuel prices, and the cost of operating a plane has sharply increased. For travelers, that likely means higher fares."
         },
         {
-          "title": "Investors and Trump Face an Iran Dilemma",
-          "link": "https://www.nytimes.com/2026/03/09/business/dealbook/markets-trump-iran.html",
-          "content": "A spike in oil prices has roiled stocks and bonds again and threatens to accelerate inflation — adding pressure on the White House."
+          "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
+          "link": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
+          "content": "Social media companies are under pressure to crack down on so-called deepfake videos that use deceptive images of real people."
         },
         {
-          "title": "‘The Old Game Is Back’: Oil Is a Potent Geopolitical Tool Again",
-          "link": "https://www.nytimes.com/2026/03/09/business/energy-environment/oil-gas-iran-war.html",
-          "content": "The war in the Middle East has sent prices soaring, showing how much the world continues to depend on reliable supplies of oil and gas."
+          "title": "Rising Fuel Costs Pressure Airlines and Truckers",
+          "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/jet-fuel-diesel-airlines-truckers-iran.html",
+          "content": "The price of jet fuel and diesel has surged since the war in Iran began, which could force airlines and trucking companies to pass on higher costs to their customers."
         }
       ]
     }
