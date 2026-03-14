@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-13T15:11:39.152Z",
+  "generatedAt": "2026-03-14T14:04:49.312Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple drops commission rates in China without a fuss",
+          "link": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
+          "content": "Apple dropped its App Store commission rates to 25% in China, and commissions on auto-renewed subscriptions down to 12%."
+        },
         {
           "title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
           "link": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/",
@@ -19,11 +24,6 @@
           "title": "Apple now makes 1 in 4 iPhones in India: Report",
           "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
           "content": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China."
-        },
-        {
-          "title": "Italian prosecutors confirm journalist was hacked with Paragon spyware",
-          "link": "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/",
-          "content": "Italian authorities are making progress in their investigation into a wide-ranging spyware scandal in Italy involving Paragon spyware. But the mystery of who hacked two Italia"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The War in Iran Is Driving Costs Up. Here Are Some Ways to Save.",
-          "link": "https://www.nytimes.com/2026/03/13/business/iran-war-gas-prices-groceries.html",
-          "content": "The widening war in the Mideast is making life more expensive. Experts shared some simple cost-cutting tips."
+          "title": "California’s Billionaire Tax Battle",
+          "link": "https://www.nytimes.com/2026/03/14/business/dealbook/california-billionaire-tax.html",
+          "content": "Wealthy residents of the state have put millions of dollars toward stopping a proposed 5 percent tax on their assets."
         },
         {
-          "title": "What to Do if You’re a Data Breach Victim (and You Probably Are)",
-          "link": "https://www.nytimes.com/2026/03/13/your-money/data-breach-tips.html",
-          "content": "Data incidents have become so common that you may be tempted to throw away notification letters. Don’t do that, experts say."
+          "title": "Justice Dept. Legal Threat Complicates Trump’s Pick for Fed Chair",
+          "link": "https://www.nytimes.com/2026/03/14/business/federal-reserve-warsh-chair-investigation.html",
+          "content": "An investigation of the Federal Reserve was thwarted on Friday, but a department appeal could reimpose an obstacle in Kevin Warsh’s path."
         },
         {
-          "title": "Consumer Prices Rose in January, Before Iran War Added Price Pressures",
-          "link": "https://www.nytimes.com/2026/03/13/business/economy/consumer-prices-inflation-pce-february.html",
-          "content": "Economic growth at the end of 2025 was revised downward and consumer prices rose at the start of 2026."
+          "title": "When Changing Your Address Leads to Losing Your Medicare Coverage",
+          "link": "https://www.nytimes.com/2026/03/14/business/address-change-medicare-coverage.html",
+          "content": "Using a post office box shouldn’t cost you your health insurance. But in one woman’s case, it sure seemed to."
         },
         {
-          "title": "Kevin Warsh’s Dilemma as Fed Chair Nominee Amid Iran War",
-          "link": "https://www.nytimes.com/2026/03/13/business/dealbook/warsh-iran-fed-rates.html",
-          "content": "President Trump’s pick to lead the Federal Reserve could faces a tough road to confirmation if he seeks quick interest rate cuts. The war in Iran doesn’t help."
+          "title": "America Depends Less on Oil Than Ever",
+          "link": "https://www.nytimes.com/2026/03/14/business/economy/america-oil-gas-energy.html",
+          "content": "Gasoline still drives household budgets, but energy efficiency and renewables have reduced the economy’s overall reliance on petroleum."
         }
       ]
     }
