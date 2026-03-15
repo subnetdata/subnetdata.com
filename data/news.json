@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-14T14:04:49.312Z",
+  "generatedAt": "2026-03-15T14:18:46.849Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+          "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+          "content": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\""
+        },
         {
           "title": "Apple drops commission rates in China without a fuss",
           "link": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
@@ -19,11 +24,6 @@
           "title": "US military contractor likely built iPhone hacking tools used by Russian spies in Ukraine",
           "link": "https://techcrunch.com/2026/03/10/us-military-contractor-likely-built-iphone-hacking-tools-used-by-russian-spies-in-ukraine/",
           "content": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. government defense contractor s"
-        },
-        {
-          "title": "Apple now makes 1 in 4 iPhones in India: Report",
-          "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
-          "content": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "California’s Billionaire Tax Battle",
-          "link": "https://www.nytimes.com/2026/03/14/business/dealbook/california-billionaire-tax.html",
-          "content": "Wealthy residents of the state have put millions of dollars toward stopping a proposed 5 percent tax on their assets."
+          "title": "War in Iran Has Grounded Gulf Airlines Like Emirates",
+          "link": "https://www.nytimes.com/2026/03/15/business/iran-war-emirates-qatar-airways-etihad.html",
+          "content": "Emirates, Qatar Airways and Etihad Airways have become some of the world’s largest and most profitable thanks to their location at the center of busy travel routes."
         },
         {
-          "title": "Justice Dept. Legal Threat Complicates Trump’s Pick for Fed Chair",
-          "link": "https://www.nytimes.com/2026/03/14/business/federal-reserve-warsh-chair-investigation.html",
-          "content": "An investigation of the Federal Reserve was thwarted on Friday, but a department appeal could reimpose an obstacle in Kevin Warsh’s path."
+          "title": "It Was Going to Be Magic City Night at the Atlanta Hawks. Then the Outrage Poured In.",
+          "link": "https://www.nytimes.com/2026/03/15/business/magic-city-atlanta-hawks-strip-club.html",
+          "content": "The famous strip club is a symbol of the authentic city to many people in Atlanta. But others wondered whether the N.B.A. should be promoting it."
         },
         {
-          "title": "When Changing Your Address Leads to Losing Your Medicare Coverage",
-          "link": "https://www.nytimes.com/2026/03/14/business/address-change-medicare-coverage.html",
-          "content": "Using a post office box shouldn’t cost you your health insurance. But in one woman’s case, it sure seemed to."
+          "title": "Waymo Co-CEO Tries to Make a Case for the Safety of Driverless Cars",
+          "link": "https://www.nytimes.com/2026/03/15/business/waymo-ceo-robotaxi.html",
+          "content": "Waymo’s co-chief executive, Tekedra Mawakana, knows she needs to earn the public’s trust. It won’t be easy."
         },
         {
-          "title": "America Depends Less on Oil Than Ever",
-          "link": "https://www.nytimes.com/2026/03/14/business/economy/america-oil-gas-energy.html",
-          "content": "Gasoline still drives household budgets, but energy efficiency and renewables have reduced the economy’s overall reliance on petroleum."
+          "title": "It’s Good to Be a Billionaire, Even at Tax Time",
+          "link": "https://www.nytimes.com/2026/03/15/business/billionaire-income-tax-loopholes.html",
+          "content": "Paying taxes would feel better if the truly rich were bearing a fair share, our columnist says."
         }
       ]
     }
