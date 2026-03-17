@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-03-16T16:41:50.302Z",
+  "generatedAt": "2026-03-17T16:44:38.540Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "Apple quietly launches AirPods Max 2",
-          "link": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/",
-          "content": "The successor to its premium headphones cost $549 and are launching with enhanced active noise cancellation, the H2 chip, live translation, better sound quality, and more."
+          "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month",
+          "link": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+          "content": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week."
         },
         {
-          "title": "Netflix’s ‘Frankenstein’ wins three Oscars, ‘KPop Demon Hunters’ wins two",
-          "link": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
-          "content": "“Frankenstein” won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while “KPop Demon Hunters” won for Best Animated Feature and Best Original"
+          "title": "Apple acquires video editing software company MotionVFX",
+          "link": "https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/",
+          "content": "The move could help Apple better compete with Adobe Premiere Pro and the Adobe Creative Cloud suite."
         },
         {
           "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
-          "link": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+          "link": "https://techcrunch.com/2026/03/16/macbook-neo-ifixit-most-repairable-macbook-in-years-battery-replacement/",
           "content": "Apple’s new MacBook Neo isn’t just the most affordable MacBook — it’s also the company's most repairable laptop in “about fourteen years.\""
         },
         {
-          "title": "Apple drops commission rates in China without a fuss",
-          "link": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
-          "content": "Apple dropped its App Store commission rates to 25% in China, and commissions on auto-renewed subscriptions down to 12%."
+          "title": "Apple quietly launches AirPods Max 2",
+          "link": "https://techcrunch.com/2026/03/16/apple-quietly-launches-airpods-max-2/",
+          "content": "The successor to its premium headphones cost $549 and are launching with enhanced active noise cancellation, the H2 chip, live translation, better sound quality, and more."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "With Iran War, Trump Risks Stepping on Gains From His Own Tax Cuts",
-          "link": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html",
-          "content": "President Trump’s war in Iran has raised some costs just as many Americans are starting to see savings from last year’s tax cuts."
+          "title": "Christopher A. Sims, 83, Dies; Won Nobel for Modeling Economic Policy",
+          "link": "https://www.nytimes.com/2026/03/17/business/economy/christopher-a-sims-dead.html",
+          "content": "He and Thomas J. Sargent shared the prize in 2011 for devising statistical tools to help guide economic policymakers."
         },
         {
-          "title": "Why Trump’s Strait of Hormuz Problem Is Going Global",
-          "link": "https://www.nytimes.com/2026/03/16/business/dealbook/trump-hormuz-problem.html",
-          "content": "President Trump is getting little to no support so far for his call that other countries do their part to try to ease an energy crisis prompted by U.S.-Israeli attacks on Iran"
+          "title": "China Is Embracing OpenClaw, a New A.I. Agent, and the Government Is Wary",
+          "link": "https://www.nytimes.com/2026/03/17/business/china-ai-agent.html",
+          "content": "Excitement about A.I. assistant tools is running into growing concerns about the security risks of software that operates autonomously on user’s devices."
         },
         {
-          "title": "Iran War Risks Sharpening Fed Divisions Over Rate Cuts",
-          "link": "https://www.nytimes.com/2026/03/16/business/iran-war-fed-rate-cuts.html",
-          "content": "The Federal Reserve is set to hold interest rates steady this week as officials grapple with a host of new economic risks stemming from the conflict in the Middle East."
+          "title": "John Galliano Returns to Fashion With Zara Partnership",
+          "link": "https://www.nytimes.com/2026/03/17/style/john-galliano-zara.html",
+          "content": "The designer is embarking on a partnership with Zara."
         },
         {
-          "title": "Rising Prices and High Interest Rates Are Making Car Ownership Feel Impossible",
-          "link": "https://www.nytimes.com/2026/03/16/business/car-ownership-prices-interest-rates.html",
-          "content": "Rising vehicle prices, auto loan interest rates, and insurance and maintenance costs are making it harder for people to buy or keep cars."
+          "title": "Iran’s Hormuz Stranglehold Upends Markets and Geopolitics",
+          "link": "https://www.nytimes.com/2026/03/17/business/dealbook/iran-hormuz-markets-geopolitics.html",
+          "content": "Energy prices continued to climb around the world as war in the Middle East intensifies. That has scrambled President Trump’s foreign policy strategy."
         }
       ]
     }
