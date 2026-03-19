@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-18T16:39:31.862Z",
+  "generatedAt": "2026-03-19T15:38:54.545Z",
   "sources": [
     {
       "name": "Apple",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Trump Renews Demand for Rate Cuts as Fed Grapples With War in Iran",
-          "link": "https://www.nytimes.com/live/2026/03/18/business/federal-reserve-interest-rates/trump-rate-cuts-iran",
-          "content": "Oil prices are soaring, threatening a wider problem with inflation, but the president has insisted that borrowing costs must be lowered."
+          "title": "Extended Mideast Conflict Will Drag on Trade and Growth, W.T.O. Warns",
+          "link": "https://www.nytimes.com/2026/03/19/business/economy/mideast-conflict-trade-wto.html",
+          "content": "The trade organization said that a slowdown in trade in 2026 could become even more extreme if the war in the Middle East persists."
         },
         {
-          "title": "Two Measures, Two Stories About Inflation",
-          "link": "https://www.nytimes.com/live/2026/03/18/business/federal-reserve-interest-rates/two-measures-two-stories-about-inflation",
-          "content": "The Federal Reserve must contend with price readings that seem headed in opposite directions."
+          "title": "Iran War Narrows Fed’s Path to a Rate Cut",
+          "link": "https://www.nytimes.com/2026/03/19/business/fed-rate-cut-iran-war.html",
+          "content": "Jerome H. Powell, the Fed chair, wants to keep the central bank’s policy options open as officials stare down another economic shock that threatens to stoke inflation and crim"
         },
         {
-          "title": "How to read the Fed’s projections like a pro.",
-          "link": "https://www.nytimes.com/live/2026/03/18/business/federal-reserve-interest-rates/fed-dot-plot",
-          "content": ""
+          "title": "Central Banks Brace for Inflation as Energy Prices Surge",
+          "link": "https://www.nytimes.com/2026/03/19/business/economy/boe-ecb-interest-rates-inflation.html",
+          "content": "Traders now expect Europe’s central bankers to raise rates this year to address a sharp increase in inflation because of higher energy prices."
         },
         {
-          "title": "What the Fed’s rate decision means for your finances",
-          "link": "https://www.nytimes.com/live/2026/03/18/business/federal-reserve-interest-rates/what-the-feds-rate-decision-means-for-your-finances",
-          "content": "See how the central bank’s interest rate stance influences car loans, credit cards, mortgages, savings and student loans."
+          "title": "Attacks on Oil and Natural Gas Facilities Could Lead to Much Higher Prices",
+          "link": "https://www.nytimes.com/2026/03/19/business/energy-environment/iran-oil-natural-gas-attacks.html",
+          "content": "Attacks on oil and natural gas facilities this week could make it much harder for Persian Gulf countries to rebuild and restart production when the war eventually end."
         }
       ]
     }
