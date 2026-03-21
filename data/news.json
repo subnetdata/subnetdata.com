@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-20T15:28:18.337Z",
+  "generatedAt": "2026-03-21T13:38:11.194Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+          "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+          "content": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+        },
+        {
           "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
           "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
           "content": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion."
@@ -45,11 +50,6 @@
           "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
           "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
           "content": "Many hyperscalers have already made public commitments to cover electricity cost increases."
-        },
-        {
-          "title": "The public opposition to AI infrastructure is heating up",
-          "link": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
-          "content": "Public backlash over the data center boom is leading to a variety of draconian policies — including bans on new construction."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "CBS News Cuts 6% of Staff as Bari Weiss Reshapes the Division",
-          "link": "https://www.nytimes.com/2026/03/20/business/media/cbs-news-bari-weiss-layoffs.html",
-          "content": "The layoffs affected several dozen employees at the news division, which is owned by the technology heir David Ellison."
+          "title": "Not All Malls Are Struggling",
+          "link": "https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html",
+          "content": "A certain type of shopping mall has become a surprising bright spot for real estate investors."
         },
         {
-          "title": "Fed Official Urges Caution on Rate Cuts as Iran War Drags On",
-          "link": "https://www.nytimes.com/2026/03/20/business/economy/fed-waller-interest-rates.html",
-          "content": "Christopher J. Waller, a Federal Reserve governor, said he would support rate cuts later this year if the labor market continued to weaken."
+          "title": "What to Know About Electric Cars When Gas Prices Are Surging",
+          "link": "https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html",
+          "content": "War in Iran has disrupted global oil supplies, which is prompting some car shoppers to look for ways to climb off “the gas-price roller coaster.”"
         },
         {
-          "title": "The U.S. Economy Is Insulated From High Oil Prices. Americans Aren’t.",
-          "link": "https://www.nytimes.com/2026/03/20/business/us-economy-oil-prices-inflation-iran-war-americans.html",
-          "content": "The overall economy has proved resilient in recent years, even as many households have struggled. The war with Iran is following the same pattern."
+          "title": "War in Iran Reveals Strait of Hormuz’s Weakness as an Oil Bottleneck",
+          "link": "https://www.nytimes.com/2026/03/21/business/iran-strait-of-hormuz-oil-us-israel-choke-point.html",
+          "content": "But at just 35 miles wide, it did. It’s just the latest evidence of how dependent the global economy is on a handful of choke points."
         },
         {
-          "title": "The I.R.S. Is Phasing Out Paper Checks. Here’s How to Speed Your Refund.",
-          "link": "https://www.nytimes.com/2026/03/20/your-money/irs-paper-checks-end-tax-refund-direct-deposit.html",
-          "content": "President Trump has directed that most federal payments be issued electronically, including tax refunds. Last year nearly 10 million people got their refund via a paper check."
+          "title": "Vertical Farms Tried to Compete With Open Field Farming. It Isn’t Going Well.",
+          "link": "https://www.nytimes.com/2026/03/21/business/vertical-farms-tried-to-compete-with-open-field-farming-it-isnt-going-well.html",
+          "content": "The industry was a darling of the venture capital world 10 years ago. With many farms out of business, the remaining companies have scaled back."
         }
       ]
     }
