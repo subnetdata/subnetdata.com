@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-03-24T14:17:06.081Z",
+  "generatedAt": "2026-03-25T14:16:16.991Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Arm is releasing the first in-house chip in its 35-year history",
+          "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+          "content": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
+        },
+        {
+          "title": "Ads are coming to Apple Maps, as Apple expands its business offerings",
+          "link": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
+          "content": "Apple Maps will launch ads this summer in the U.S. and Canada. Plus, a new suite of Apple Business offerings arrives April 14."
+        },
         {
           "title": "Apple Maps may be about to get ads",
           "link": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
@@ -14,16 +24,6 @@
           "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones",
           "link": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
           "content": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity re"
-        },
-        {
-          "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
-          "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-          "content": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities."
-        },
-        {
-          "title": "Russians caught stealing personal data from Ukrainians with new advanced iPhone hacking tools",
-          "link": "https://techcrunch.com/2026/03/18/russians-caught-stealing-personal-data-from-ukrainians-with-new-advanced-iphone-hacking-tools/",
-          "content": "A suspected group of Russian government hackers was caught targeting Ukrainians with new iPhone hacking tools designed for espionage and potentially to steal crypto."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "War in Iran Is Disrupting Air Travel, Hitting Middle East Hardest",
-          "link": "https://www.nytimes.com/2026/03/24/business/iran-war-airlines-jet-fuel.html",
-          "content": "Some airlines and travelers, especially in the Middle East and elsewhere in Asia, are bearing the brunt of the pain, while others are doing better."
+          "title": "As Gas Prices Spike, California Is Hit Hardest",
+          "link": "https://www.nytimes.com/2026/03/25/business/energy-environment/iran-california-gas-prices.html",
+          "content": "A gallon has climbed to nearly $6 in the state, about $2 above the national average."
         },
         {
-          "title": "Investors Question Whether Quick Peace in Iran Is Possible",
-          "link": "https://www.nytimes.com/2026/03/24/business/dealbook/markets-tehran-trump.html",
-          "content": "Global markets are under pressure again amid doubts that the fighting in the Middle East can end anytime soon."
+          "title": "What Sora’s End Says About OpenAI’s Strategy",
+          "link": "https://www.nytimes.com/2026/03/25/business/dealbook/sora-openai-finances-ipo.html",
+          "content": "The artificial intelligence start-up has pulled the plug on the video-making tool as it rethinks spending ahead of a possible blockbuster I.P.O."
         },
         {
-          "title": "College Graduates Are Facing the Grimmest Job Market in Years",
-          "link": "https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html",
-          "content": "Artificial intelligence could reshape work, but for now a low-hire, low-fire labor market is the main impediment for young people seeking employment."
+          "title": "What Happened After a U.S. Warship Hit an Iranian Mine in 1988",
+          "link": "https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html",
+          "content": "President Trump has suggested providing escorts for stranded tankers. A mine strike on a U.S. frigate in the Persian Gulf shows the perils of doing so."
         },
         {
-          "title": "Reality TV Confronts a Harsh TV Reality",
-          "link": "https://www.nytimes.com/2026/03/24/business/media/reality-tv-era-ending.html",
-          "content": "The number of unscripted series has plummeted by a third since 2022. As the industry rapidly changes, an era is quietly vanishing."
+          "title": "Can Flights Get Any Worse? Travelers Deal With TSA Lines, High Ticket Prices and Anxiety.",
+          "link": "https://www.nytimes.com/2026/03/25/travel/airports-flights-security-ticket-prices.html",
+          "content": "Travelers are waiting hours at security checkpoints, paying top dollar for tickets and worrying about safety after a deadly crash at LaGuardia."
         }
       ]
     }
