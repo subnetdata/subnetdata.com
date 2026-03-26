@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-03-25T14:16:16.991Z",
+  "generatedAt": "2026-03-26T14:23:22.726Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know",
+          "link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
+          "content": "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked onli"
+        },
+        {
+          "title": "Apple overhauls its app developer platform with 100 new metrics, more tools",
+          "link": "https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/",
+          "content": "Apple is adding 100+ new App Store Connect metrics, giving developers deeper, first-party insights into monetization, subscriptions, and user behavior as it doubles down on it"
+        },
         {
           "title": "Arm is releasing the first in-house chip in its 35-year history",
           "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
@@ -14,16 +24,6 @@
           "title": "Ads are coming to Apple Maps, as Apple expands its business offerings",
           "link": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
           "content": "Apple Maps will launch ads this summer in the U.S. and Canada. Plus, a new suite of Apple Business offerings arrives April 14."
-        },
-        {
-          "title": "Apple Maps may be about to get ads",
-          "link": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
-          "content": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\""
-        },
-        {
-          "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones",
-          "link": "https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/",
-          "content": "Leaked \"DarkSword\" exploits published to GitHub allow hackers and cybercriminals to target iPhone users running old versions of iOS with spyware, according to cybersecurity re"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "As Gas Prices Spike, California Is Hit Hardest",
-          "link": "https://www.nytimes.com/2026/03/25/business/energy-environment/iran-california-gas-prices.html",
-          "content": "A gallon has climbed to nearly $6 in the state, about $2 above the national average."
+          "title": "How to Turn a Chicken Egg Into a Drug Factory",
+          "link": "https://www.nytimes.com/2026/03/26/science/biotechnology-pharmaceuticals-eggs.html",
+          "content": "A biotech start-up is testing a novel way of efficiently producing pharmaceutical drugs."
         },
         {
-          "title": "What Sora’s End Says About OpenAI’s Strategy",
-          "link": "https://www.nytimes.com/2026/03/25/business/dealbook/sora-openai-finances-ipo.html",
-          "content": "The artificial intelligence start-up has pulled the plug on the video-making tool as it rethinks spending ahead of a possible blockbuster I.P.O."
+          "title": "War in Iran Will Push U.S. Inflation Above 4 Percent, O.E.C.D. Forecast Says",
+          "link": "https://www.nytimes.com/2026/03/26/business/inflation-prices-energy-iran-oecd.html",
+          "content": "Higher energy prices and uncertainty over the war in the Middle East will boost inflation and weigh on economic growth, a new forecast says."
         },
         {
-          "title": "What Happened After a U.S. Warship Hit an Iranian Mine in 1988",
-          "link": "https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html",
-          "content": "President Trump has suggested providing escorts for stranded tankers. A mine strike on a U.S. frigate in the Persian Gulf shows the perils of doing so."
+          "title": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion",
+          "link": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
+          "content": "The company, which develops autonomous military technology, also plans to buy a maker of simulation software as interest in next-generation defense soars."
         },
         {
-          "title": "Can Flights Get Any Worse? Travelers Deal With TSA Lines, High Ticket Prices and Anxiety.",
-          "link": "https://www.nytimes.com/2026/03/25/travel/airports-flights-security-ticket-prices.html",
-          "content": "Travelers are waiting hours at security checkpoints, paying top dollar for tickets and worrying about safety after a deadly crash at LaGuardia."
+          "title": "Is Big Tech Facing a Big Tobacco Moment?",
+          "link": "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html",
+          "content": "Back-to-back courtroom losses have put technology giants, including Meta and Google, in uncertain territory as they face lawsuits and bans on teen users."
         }
       ]
     }
