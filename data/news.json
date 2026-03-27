@@ -1,12 +1,17 @@
 {
-  "generatedAt": "2026-03-26T14:23:22.726Z",
+  "generatedAt": "2026-03-27T14:08:20.570Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know",
+          "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
+          "link": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
+          "content": "Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in."
+        },
+        {
+          "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.",
           "link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
           "content": "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked onli"
         },
@@ -19,11 +24,6 @@
           "title": "Arm is releasing the first in-house chip in its 35-year history",
           "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
           "content": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
-        },
-        {
-          "title": "Ads are coming to Apple Maps, as Apple expands its business offerings",
-          "link": "https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/",
-          "content": "Apple Maps will launch ads this summer in the U.S. and Canada. Plus, a new suite of Apple Business offerings arrives April 14."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How to Turn a Chicken Egg Into a Drug Factory",
-          "link": "https://www.nytimes.com/2026/03/26/science/biotechnology-pharmaceuticals-eggs.html",
-          "content": "A biotech start-up is testing a novel way of efficiently producing pharmaceutical drugs."
+          "title": "Spiking Diesel Prices Mean Everything Will Get More Expensive",
+          "link": "https://www.nytimes.com/2026/03/27/business/diesel-prices-inflation-consumer-prices.html",
+          "content": "Diesel has climbed faster than gasoline this month, directly hitting businesses, from brewers to trucking companies. Those higher costs are likely to make their way into consu"
         },
         {
-          "title": "War in Iran Will Push U.S. Inflation Above 4 Percent, O.E.C.D. Forecast Says",
-          "link": "https://www.nytimes.com/2026/03/26/business/inflation-prices-energy-iran-oecd.html",
-          "content": "Higher energy prices and uncertainty over the war in the Middle East will boost inflation and weigh on economic growth, a new forecast says."
+          "title": "Many People Will Need Long-Term Care, but Most Don’t Have Insurance to Cover It",
+          "link": "https://www.nytimes.com/2026/03/27/your-money/long-term-care-insurance.html",
+          "content": "Care for people who can’t take care of themselves is expensive, and regular health insurance doesn’t cover the cost."
         },
         {
-          "title": "Shield AI, a Start-Up Making Military Drones, Raises $2 Billion",
-          "link": "https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html",
-          "content": "The company, which develops autonomous military technology, also plans to buy a maker of simulation software as interest in next-generation defense soars."
+          "title": "Savannah Guthrie Is Returning to ‘Today’",
+          "link": "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html",
+          "content": "NBC said that she would return as an anchor of the show on April 6, a little more than two months after the disappearance of her mother."
         },
         {
-          "title": "Is Big Tech Facing a Big Tobacco Moment?",
-          "link": "https://www.nytimes.com/2026/03/26/business/dealbook/meta-youtube-social-media-tobacco.html",
-          "content": "Back-to-back courtroom losses have put technology giants, including Meta and Google, in uncertain territory as they face lawsuits and bans on teen users."
+          "title": "How the Iran War Is Costing the Economy Its Buffers",
+          "link": "https://www.nytimes.com/2026/03/27/business/dealbook/iran-war-oil-markets.html",
+          "content": "As the U.S.-Israeli campaign enters a second month, analysts see a growing toll. One forecast predicts oil hitting $200 a barrel."
         }
       ]
     }
