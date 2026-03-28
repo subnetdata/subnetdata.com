@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-27T14:08:20.570Z",
+  "generatedAt": "2026-03-28T13:46:20.193Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
+          "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
+          "content": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting user"
+        },
         {
           "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
           "link": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
@@ -19,11 +24,6 @@
           "title": "Apple overhauls its app developer platform with 100 new metrics, more tools",
           "link": "https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/",
           "content": "Apple is adding 100+ new App Store Connect metrics, giving developers deeper, first-party insights into monetization, subscriptions, and user behavior as it doubles down on it"
-        },
-        {
-          "title": "Arm is releasing the first in-house chip in its 35-year history",
-          "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-          "content": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Spiking Diesel Prices Mean Everything Will Get More Expensive",
-          "link": "https://www.nytimes.com/2026/03/27/business/diesel-prices-inflation-consumer-prices.html",
-          "content": "Diesel has climbed faster than gasoline this month, directly hitting businesses, from brewers to trucking companies. Those higher costs are likely to make their way into consu"
+          "title": "The Biggest Names in Fine Dining Now Have Rock-Star Residencies",
+          "link": "https://www.nytimes.com/2026/03/28/business/dealbook/chef-restaurant-residencies.html",
+          "content": "From Las Vegas to the Côte d’Azur, high-profile chefs are taking their cuisine on the road."
         },
         {
-          "title": "Many People Will Need Long-Term Care, but Most Don’t Have Insurance to Cover It",
-          "link": "https://www.nytimes.com/2026/03/27/your-money/long-term-care-insurance.html",
-          "content": "Care for people who can’t take care of themselves is expensive, and regular health insurance doesn’t cover the cost."
+          "title": "In an Asymmetrical War, Iran Seeks an Edge With Its Information War",
+          "link": "https://www.nytimes.com/2026/03/28/business/iran-propaganda-war-ai.html",
+          "content": "Propaganda and disinformation have flooded the internet in a sophisticated effort to undermine support for U.S. and Israeli attacks."
         },
         {
-          "title": "Savannah Guthrie Is Returning to ‘Today’",
-          "link": "https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html",
-          "content": "NBC said that she would return as an anchor of the show on April 6, a little more than two months after the disappearance of her mother."
+          "title": "The Oil Shocks of the ’70s Changed the World. Will the Iran War Do the Same?",
+          "link": "https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html",
+          "content": "Gas lines and quadrupling oil prices freaked out American consumers. But the oil crises also transformed global finance."
         },
         {
-          "title": "How the Iran War Is Costing the Economy Its Buffers",
-          "link": "https://www.nytimes.com/2026/03/27/business/dealbook/iran-war-oil-markets.html",
-          "content": "As the U.S.-Israeli campaign enters a second month, analysts see a growing toll. One forecast predicts oil hitting $200 a barrel."
+          "title": "Smaller Is Better in Silicon Valley’s ‘Tiny Team’ Moment",
+          "link": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
+          "content": "As artificial intelligence takes on more and more tasks, tech executives are embracing teams as small as two: one person plus A.I."
         }
       ]
     }
