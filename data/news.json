@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-28T13:46:20.193Z",
+  "generatedAt": "2026-03-29T13:49:02.029Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "These iPad apps will make you wish you had more free time",
+          "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
+          "content": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store."
+        },
         {
           "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
           "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
@@ -19,11 +24,6 @@
           "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.",
           "link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
           "content": "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked onli"
-        },
-        {
-          "title": "Apple overhauls its app developer platform with 100 new metrics, more tools",
-          "link": "https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/",
-          "content": "Apple is adding 100+ new App Store Connect metrics, giving developers deeper, first-party insights into monetization, subscriptions, and user behavior as it doubles down on it"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The Biggest Names in Fine Dining Now Have Rock-Star Residencies",
-          "link": "https://www.nytimes.com/2026/03/28/business/dealbook/chef-restaurant-residencies.html",
-          "content": "From Las Vegas to the Côte d’Azur, high-profile chefs are taking their cuisine on the road."
+          "title": "Why the Iran War May Force Countries to Rely Less on Natural Gas",
+          "link": "https://www.nytimes.com/2026/03/29/business/energy-environment/iran-war-natural-gas.html",
+          "content": "The U.S. and other exporters are poised for a windfall, but disruptions to Persian Gulf supplies are also pushing gas-buying countries to consider alternatives like coal, sola"
         },
         {
-          "title": "In an Asymmetrical War, Iran Seeks an Edge With Its Information War",
-          "link": "https://www.nytimes.com/2026/03/28/business/iran-propaganda-war-ai.html",
-          "content": "Propaganda and disinformation have flooded the internet in a sophisticated effort to undermine support for U.S. and Israeli attacks."
+          "title": "He Was Supposed to Break Up Kraft and Heinz. He Changed His Mind.",
+          "link": "https://www.nytimes.com/2026/03/29/business/kraft-heinz-steve-cahillane.html",
+          "content": "Steve Cahillane, a food industry veteran, is trying to revive the company behind Kool-Aid, Oscar Mayer and many other brands."
         },
         {
-          "title": "The Oil Shocks of the ’70s Changed the World. Will the Iran War Do the Same?",
-          "link": "https://www.nytimes.com/2026/03/28/business/oil-shocks-1970s-iran-war.html",
-          "content": "Gas lines and quadrupling oil prices freaked out American consumers. But the oil crises also transformed global finance."
+          "title": "The Fragile Hope for Salmon Recovery in Maine",
+          "link": "https://www.nytimes.com/2026/03/29/science/atlantic-salmon-endangered-maine-climate.html",
+          "content": "A long-term project to remove or modify dams may clear the way for endangered wild Atlantic salmon to swim freely up to the Sandy River. But it faces opposition from business "
         },
         {
-          "title": "Smaller Is Better in Silicon Valley’s ‘Tiny Team’ Moment",
-          "link": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
-          "content": "As artificial intelligence takes on more and more tasks, tech executives are embracing teams as small as two: one person plus A.I."
+          "title": "Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones",
+          "link": "https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html",
+          "content": "No more YouTube or video games on school laptops. Textbooks and pencils are back. Some seventh graders say they prefer learning offline."
         }
       ]
     }
