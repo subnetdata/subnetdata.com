@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-03-30T14:23:56.229Z",
+  "generatedAt": "2026-03-31T14:24:25.537Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple will hide your email address from apps and websites, but not cops",
+          "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
+          "content": "Demands for Apple customer records by federal agents in recent months underscore the privacy limitations of email."
+        },
         {
           "title": "These iPad apps will make you wish you had more free time",
           "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
@@ -19,11 +24,6 @@
           "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
           "link": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
           "content": "Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in."
-        },
-        {
-          "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know.",
-          "link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
-          "content": "Here’s what we know, and what you need to know, about Coruna and DarkSword, two advanced iPhone hacking tools discovered by security researchers. DarkSword has now leaked onli"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Michael Rousseau, Air Canada’s CEO, to Step Down Amid Backlash Over Comments After Crash",
-          "link": "https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html",
-          "content": "Michael Rousseau’s mostly English statement after a fatal runway collision drew sharp criticism. The airline said it would emphasize French fluency in its search for a success"
+          "title": "FDA Is Expected to Lift Restriction on Peptides, Heeding RFK Jr.’s Wishes",
+          "link": "https://www.nytimes.com/2026/03/31/health/peptide-ban-fda-rfk-jr.html",
+          "content": "The peptides, which are increasingly marketed as providing longevity and health benefits, were removed in 2023 from the agency’s list of products that compounding pharmacies c"
         },
         {
-          "title": "Iran War’s Latest Economic Toll: Oil at $115 a Barrel",
-          "link": "https://www.nytimes.com/2026/03/30/business/dealbook/iran-war-oil-economy.html",
-          "content": "Economists and investors are increasingly pricing in a slowdown, or even a global recession, if the fighting drags on."
+          "title": "The Trump Effect at the Pump as Gas Hits $4 a Gallon",
+          "link": "https://www.nytimes.com/2026/03/31/business/dealbook/trump-war-gas-prices.html",
+          "content": "The average price of gasoline in the U.S. has topped $4 a gallon, a multiyear high, as war in the Middle East roils the oil market and slams drivers."
         },
         {
-          "title": "Private-Credit Wobbles Could Prove Perilous for Trump",
-          "link": "https://www.nytimes.com/2026/03/30/business/private-credit-risks-trump-administration.html",
-          "content": "The Trump administration is poised to broaden access to risky investments that are showing signs of strain."
+          "title": "Oil and Gas Prices Continue to Rise in Choppy Trade",
+          "link": "https://www.nytimes.com/2026/03/31/business/oil-stocks-gas-prices-iran.html",
+          "content": "Investors weighed the news that the owner of a Kuwaiti tanker loaded with oil said it had been hit in an Iranian attack near Dubai."
         },
         {
-          "title": "How Bard College Became a Major Real Estate Player 20 Miles Away",
-          "link": "https://www.nytimes.com/2026/03/30/business/bard-college-hudson-ny.html",
-          "content": "A nonprofit foundation donated $82 million worth of properties in Hudson, N.Y., to the school, which has provided few details about its plans."
+          "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
+          "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+          "content": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts."
         }
       ]
     }
