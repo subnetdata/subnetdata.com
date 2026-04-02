@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-01T14:26:39.619Z",
+  "generatedAt": "2026-04-02T14:20:04.056Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
+          "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
+          "content": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword."
+        },
         {
           "title": "Apple will hide your email address from apps and websites, but not cops",
           "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
@@ -19,11 +24,6 @@
           "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
           "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
           "content": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting user"
-        },
-        {
-          "title": "Apple made strides with iOS 26 security, but leaked hacking tools still leave millions exposed to spyware attacks",
-          "link": "https://techcrunch.com/2026/03/26/apple-made-strides-with-ios-26-security-but-leaked-hacking-tools-still-leave-millions-exposed-to-spyware-attacks/",
-          "content": "Leaked hacking tools threaten the security of millions of older iPhones. Cybersecurity experts weigh in."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Markets Bet Big on a Quick End to the Iran War",
-          "link": "https://www.nytimes.com/2026/04/01/business/dealbook/markets-war-iran-trump.html",
-          "content": "Global markets rallied as President Trump signaled that the United States may stop fighting soon. But big questions remain about lingering damage."
+          "title": "Investigators Said to Look at Whether LaGuardia Controller Stepped Away",
+          "link": "https://www.nytimes.com/2026/04/02/nyregion/laguardia-air-canada-investigation.html",
+          "content": "Officials are said to be examining whether a controller had to use an emergency phone just before the crash at LaGuardia. They have yet to determine the cause of the crash and"
         },
         {
-          "title": "Robot Taxis Stop in Traffic in Chinese City, Stranding Travelers",
-          "link": "https://www.nytimes.com/2026/04/01/business/baidu-robotaxi-wuhan-china.html",
-          "content": "The authorities in Wuhan, the site of one of the world’s largest experiments in self-driving cars, cited a “system failure” after widespread reports on Tuesday evening."
+          "title": "Bad, Very Bad and Much Worse: Pick a Forecast for the War and Economy",
+          "link": "https://www.nytimes.com/2026/04/02/business/iran-war-economy-stocks-bonds.html",
+          "content": "A merely bad outlook might be good enough for the markets, our columnist says."
         },
         {
-          "title": "Stocks Extend Rally and Oil Prices Drop",
-          "link": "https://www.nytimes.com/2026/04/01/business/stocks-oil-gasoline-prices-iran.html",
-          "content": "President Trump said the U.S. military would wrap up its campaign in Iran in two or three weeks."
+          "title": "Tesla Sales Rise as $4-a-Gallon Gas Revives Interest in E.V.s",
+          "link": "https://www.nytimes.com/2026/04/02/business/tesla-sales-electric-vehicles.html",
+          "content": "The repeal of tax credits last year sent electric vehicle sales plummeting. But with gas prices soaring, consumers are taking another, cautious, look."
         },
         {
-          "title": "Judge Blocks Trump’s Order to End Funding for NPR and PBS",
-          "link": "https://www.nytimes.com/2026/03/31/business/media/trump-npr-pbs-executive-order-ruling.html",
-          "content": "The ruling will have minimal effect on the federal money going to public media because Congress voted to claw back funding. But it could have implications for any future fundi"
+          "title": "Why Trump’s Iran Address Failed to Soothe Markets",
+          "link": "https://www.nytimes.com/2026/04/02/business/dealbook/trump-iran-war-markets.html",
+          "content": "Oil surged and stocks sold off after the president delivered an unclear case for continuing the war in the Middle East."
         }
       ]
     }
