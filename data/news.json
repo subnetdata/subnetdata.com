@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T14:20:04.056Z",
+  "generatedAt": "2026-04-03T13:59:49.760Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft takes on AI rivals with three new foundational models",
+          "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+          "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
+        },
+        {
           "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
           "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
           "content": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
@@ -45,11 +50,6 @@
           "title": "The billion-dollar infrastructure deals powering the AI boom",
           "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
           "content": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI."
-        },
-        {
-          "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-          "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-          "content": "Many hyperscalers have already made public commitments to cover electricity cost increases."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Investigators Said to Look at Whether LaGuardia Controller Stepped Away",
-          "link": "https://www.nytimes.com/2026/04/02/nyregion/laguardia-air-canada-investigation.html",
-          "content": "Officials are said to be examining whether a controller had to use an emergency phone just before the crash at LaGuardia. They have yet to determine the cause of the crash and"
+          "title": "Parents Who Borrowed for Children’s College Face Looming Deadline",
+          "link": "https://www.nytimes.com/2026/04/03/your-money/parent-plus-college-loans-deadline.html",
+          "content": "New rules mean that parent PLUS loans have to be consolidated into a new loan by June 30 for parents to keep affordable payments. But the deadline is really earlier to allow t"
         },
         {
-          "title": "Bad, Very Bad and Much Worse: Pick a Forecast for the War and Economy",
-          "link": "https://www.nytimes.com/2026/04/02/business/iran-war-economy-stocks-bonds.html",
-          "content": "A merely bad outlook might be good enough for the markets, our columnist says."
+          "title": "Trump Requests $1.5 Trillion for Military Spending",
+          "link": "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html",
+          "content": "The huge proposed increase would be partly offset by steep cuts to domestic programs, some of which the Trump administration describes as wasteful."
         },
         {
-          "title": "Tesla Sales Rise as $4-a-Gallon Gas Revives Interest in E.V.s",
-          "link": "https://www.nytimes.com/2026/04/02/business/tesla-sales-electric-vehicles.html",
-          "content": "The repeal of tax credits last year sent electric vehicle sales plummeting. But with gas prices soaring, consumers are taking another, cautious, look."
+          "title": "Strong Jobs Numbers Make the Fed’s Job Easier",
+          "link": "https://www.nytimes.com/2026/04/03/business/economy/jobs-unemployment-inflation-fed-rates.html",
+          "content": "Robust job growth in March suggests that the labor market remains relatively healthy, allowing officials at the central bank to focus on fighting inflation."
         },
         {
-          "title": "Why Trump’s Iran Address Failed to Soothe Markets",
-          "link": "https://www.nytimes.com/2026/04/02/business/dealbook/trump-iran-war-markets.html",
-          "content": "Oil surged and stocks sold off after the president delivered an unclear case for continuing the war in the Middle East."
+          "title": "The White House is readying a budget for the statistics agency that compiles the jobs report.",
+          "link": "https://www.nytimes.com/live/2026/04/03/business/jobs-report-economy/the-white-house-is-readying-a-budget-for-the-statistics-agency-that-compiles-the-jobs-report",
+          "content": "President Trump is set to release his new spending plan on Friday, after trying last year to cut funding for the federal bureau tasked with measuring the economy."
         }
       ]
     }
