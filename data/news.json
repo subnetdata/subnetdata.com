@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T13:59:49.760Z",
+  "generatedAt": "2026-04-04T13:48:54.696Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+          "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+          "content": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
+        },
+        {
           "title": "Microsoft takes on AI rivals with three new foundational models",
           "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
           "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
@@ -45,11 +50,6 @@
           "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
           "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
           "content": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion."
-        },
-        {
-          "title": "The billion-dollar infrastructure deals powering the AI boom",
-          "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-          "content": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Parents Who Borrowed for Children’s College Face Looming Deadline",
-          "link": "https://www.nytimes.com/2026/04/03/your-money/parent-plus-college-loans-deadline.html",
-          "content": "New rules mean that parent PLUS loans have to be consolidated into a new loan by June 30 for parents to keep affordable payments. But the deadline is really earlier to allow t"
+          "title": "Trump Slashed Science Funding. Now the U.S. Could Face a Costly Brain Drain.",
+          "link": "https://www.nytimes.com/2026/04/04/business/dealbook/trump-brain-drain-academia.html",
+          "content": "The White House’s attacks on academia and budget cuts for research have provided an opening for other countries to poach leading scientists."
         },
         {
-          "title": "Trump Requests $1.5 Trillion for Military Spending",
-          "link": "https://www.nytimes.com/2026/04/03/us/politics/white-house-defense-budget.html",
-          "content": "The huge proposed increase would be partly offset by steep cuts to domestic programs, some of which the Trump administration describes as wasteful."
+          "title": "My Husband Can’t Get a Job. Should I Divorce Him?",
+          "link": "https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html",
+          "content": "Plus, whether to use A.I. to get ahead at work — if you think the technology is evil."
         },
         {
-          "title": "Strong Jobs Numbers Make the Fed’s Job Easier",
-          "link": "https://www.nytimes.com/2026/04/03/business/economy/jobs-unemployment-inflation-fed-rates.html",
-          "content": "Robust job growth in March suggests that the labor market remains relatively healthy, allowing officials at the central bank to focus on fighting inflation."
+          "title": "Trump Budget Does Little to Address Nation’s Fiscal Challenges",
+          "link": "https://www.nytimes.com/2026/04/04/business/trump-budget-federal-deficit.html",
+          "content": "While the federal deficit has started to shrink under President Trump, his plans could make the long-term situation worse."
         },
         {
-          "title": "The White House is readying a budget for the statistics agency that compiles the jobs report.",
-          "link": "https://www.nytimes.com/live/2026/04/03/business/jobs-report-economy/the-white-house-is-readying-a-budget-for-the-statistics-agency-that-compiles-the-jobs-report",
-          "content": "President Trump is set to release his new spending plan on Friday, after trying last year to cut funding for the federal bureau tasked with measuring the economy."
+          "title": "Some Borrowers Are Moving Abroad and Abandoning Their Student Loans",
+          "link": "https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html",
+          "content": "A record number of student loan borrowers are in delinquency and default. Some are making the drastic decision to leave the country and abandon their loans."
         }
       ]
     }
