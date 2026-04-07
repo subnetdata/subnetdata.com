@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-06T14:08:26.741Z",
+  "generatedAt": "2026-04-07T14:28:01.094Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple moves to take its App Store fight back to the Supreme Court",
+          "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
+          "content": "Apple plans to ask the Supreme Court to review its App Store fight with Epic Games, as it challenges a ruling limiting its ability to charge fees on external payments."
+        },
         {
           "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
           "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
@@ -19,11 +24,6 @@
           "title": "These iPad apps will make you wish you had more free time",
           "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
           "content": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store."
-        },
-        {
-          "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
-          "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
-          "content": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting user"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Jamie Dimon Cites Risks From War, Private Credit, Inflation and More",
-          "link": "https://www.nytimes.com/2026/04/06/business/dealbook/jamie-dimon-war-private-credit.html",
-          "content": "In his annual letter to shareholders, Jamie Dimon, the chief executive of JPMorgan Chase, said investors and businesses faced a series of challenges."
+          "title": "Markets on Edge as Trump’s Iran Ultimatum Looms",
+          "link": "https://www.nytimes.com/2026/04/07/business/dealbook/markets-trump-iran-threats.html",
+          "content": "Oil prices are rising and stocks are selling off as investors fret that the president will carry out his threats to “decimate” Iran."
         },
         {
-          "title": "‘Good to be Home’: Savannah Guthrie Returns to ‘Today’",
-          "link": "https://www.nytimes.com/2026/04/06/business/media/savannah-guthrie-return-today-show.html",
-          "content": "The anchor joined the show’s cast on Monday for the first time since the disappearance of her 84-year-old mother, Nancy, who remains missing."
+          "title": "Bill Ackman’s Pershing Square Bids to Buy Universal Music Group",
+          "link": "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html",
+          "content": "The complex transaction pitched by the billionaire hedge fund manager would need to pass muster with the music label’s shareholders."
         },
         {
-          "title": "What Does an Ultra-Luxury First Class Ticket Get You? Flying in a Frictionless Bubble.",
-          "link": "https://www.nytimes.com/2026/04/06/travel/first-class-luxury-flight-air-france-la-premiere.html",
-          "content": "A writer reports from inside the premium bubble, where there’s no such thing as too much, petty annoyances are nonexistent and the real world never intrudes."
+          "title": "Justice Dept. Resolves Broadway Touring Company Investigation",
+          "link": "https://www.nytimes.com/2026/04/07/business/broadway-across-america-tours-justice-department.html",
+          "content": "Broadway Across America will not be prosecuted after acknowledging it signed a noncompete agreement with another presenter, the agency said."
         },
         {
-          "title": "Oil Seesaws After Trump’s Latest Threats on Iran",
-          "link": "https://www.nytimes.com/2026/04/06/business/oil-stocks-gas-prices-iran.html",
-          "content": "President Trump taunted Iranian leaders on Sunday, threatening to escalate attacks if the Strait of Hormuz was not reopened."
+          "title": "Presto! In Chicago, a High-End Magic Palace Appears",
+          "link": "https://www.nytimes.com/2026/04/07/arts/magic-hand-eye-glen-tullman.html",
+          "content": "The entrepreneur Glen Tullman is betting people want to dress up and watch magicians in a luxury setting. Either it will work or $50 million will go poof."
         }
       ]
     }
