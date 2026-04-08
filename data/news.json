@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-07T14:28:01.094Z",
+  "generatedAt": "2026-04-08T14:29:18.585Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s foldable iPhone is on track to launch in September, report says",
+          "link": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
+          "content": "The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test"
+        },
         {
           "title": "Apple moves to take its App Store fight back to the Supreme Court",
           "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
@@ -19,11 +24,6 @@
           "title": "Apple will hide your email address from apps and websites, but not cops",
           "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
           "content": "Demands for Apple customer records by federal agents in recent months underscore the privacy limitations of email."
-        },
-        {
-          "title": "These iPad apps will make you wish you had more free time",
-          "link": "https://techcrunch.com/2026/03/28/best-ipad-apps-for-unleashing-and-exploring-your-creativity/",
-          "content": "We’ve compiled a list of some of the best iPad apps for creativity that are available on the App Store."
         }
       ]
     },
@@ -31,6 +31,16 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+          "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+          "content": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
+        },
+        {
+          "title": "Russian government hackers broke into thousands of home routers to steal passwords",
+          "link": "https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/",
+          "content": "Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation."
+        },
         {
           "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
           "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
@@ -40,16 +50,6 @@
           "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
           "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
           "content": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
-        },
-        {
-          "title": "Microsoft takes on AI rivals with three new foundational models",
-          "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-          "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
-        },
-        {
-          "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-          "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-          "content": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Markets on Edge as Trump’s Iran Ultimatum Looms",
-          "link": "https://www.nytimes.com/2026/04/07/business/dealbook/markets-trump-iran-threats.html",
-          "content": "Oil prices are rising and stocks are selling off as investors fret that the president will carry out his threats to “decimate” Iran."
+          "title": "ProPublica Journalists Strike for a Day, Partly Over A.I.",
+          "link": "https://www.nytimes.com/2026/04/08/business/media/propublica-strike-artificial-intelligence.html",
+          "content": "Other sticking points for journalists at the investigative nonprofit included demands for wage increases and layoff protections."
         },
         {
-          "title": "Bill Ackman’s Pershing Square Bids to Buy Universal Music Group",
-          "link": "https://www.nytimes.com/2026/04/07/business/dealbook/bill-ackman-universal-music-merger.html",
-          "content": "The complex transaction pitched by the billionaire hedge fund manager would need to pass muster with the music label’s shareholders."
+          "title": "After Iran Cease-Fire, Ship Traffic in Strait of Hormuz Remains Throttled",
+          "link": "https://www.nytimes.com/2026/04/08/business/strait-hormuz-ships-traffic-iran-ceasefire.html",
+          "content": "A handful of vessels have crossed the crucial waterway since the U.S.-Iran truce began, but shipowners, insurers and others are wary of safe passage."
         },
         {
-          "title": "Justice Dept. Resolves Broadway Touring Company Investigation",
-          "link": "https://www.nytimes.com/2026/04/07/business/broadway-across-america-tours-justice-department.html",
-          "content": "Broadway Across America will not be prosecuted after acknowledging it signed a noncompete agreement with another presenter, the agency said."
+          "title": "Investors Still Have Questions About the Cease-Fire",
+          "link": "https://www.nytimes.com/2026/04/08/business/dealbook/market-rally-iran-cease-fire.html",
+          "content": "Analysts and traders are anxiously watching the Strait of Hormuz and whether peace talks can resolve big differences between the United States and Iran."
         },
         {
-          "title": "Presto! In Chicago, a High-End Magic Palace Appears",
-          "link": "https://www.nytimes.com/2026/04/07/arts/magic-hand-eye-glen-tullman.html",
-          "content": "The entrepreneur Glen Tullman is betting people want to dress up and watch magicians in a luxury setting. Either it will work or $50 million will go poof."
+          "title": "Delta Expects Strong Profit Despite Higher Fuel Costs",
+          "link": "https://www.nytimes.com/2026/04/08/business/delta-air-lines-earnings.html",
+          "content": "The airline said demand for tickets remained very strong despite the effects of the war in Iran."
         }
       ]
     }
