@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T14:29:18.585Z",
+  "generatedAt": "2026-04-09T14:51:29.605Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,16 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
+          "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
+          "content": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software"
+        },
+        {
+          "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
+          "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
+          "content": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their compute"
+        },
+        {
           "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
           "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
           "content": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
@@ -40,16 +50,6 @@
           "title": "Russian government hackers broke into thousands of home routers to steal passwords",
           "link": "https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/",
           "content": "Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation."
-        },
-        {
-          "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-          "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-          "content": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service."
-        },
-        {
-          "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-          "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-          "content": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "ProPublica Journalists Strike for a Day, Partly Over A.I.",
-          "link": "https://www.nytimes.com/2026/04/08/business/media/propublica-strike-artificial-intelligence.html",
-          "content": "Other sticking points for journalists at the investigative nonprofit included demands for wage increases and layoff protections."
+          "title": "How the Strait of Hormuz Stifled a Market Rally",
+          "link": "https://www.nytimes.com/2026/04/09/business/dealbook/strait-hormuz-cease-fire-markets.html",
+          "content": "Questions about how freely ships can pass through the waterway have pushed up oil prices and weighed on stocks."
         },
         {
-          "title": "After Iran Cease-Fire, Ship Traffic in Strait of Hormuz Remains Throttled",
-          "link": "https://www.nytimes.com/2026/04/08/business/strait-hormuz-ships-traffic-iran-ceasefire.html",
-          "content": "A handful of vessels have crossed the crucial waterway since the U.S.-Iran truce began, but shipowners, insurers and others are wary of safe passage."
+          "title": "Fed’s Inflation Woes Preceded the War With Iran",
+          "link": "https://www.nytimes.com/2026/04/09/business/federal-reserve-inflation.html",
+          "content": "An energy shock stemming from the fighting has added a layer of complexity to the Federal Reserve’s decision-making around interest rates."
         },
         {
-          "title": "Investors Still Have Questions About the Cease-Fire",
-          "link": "https://www.nytimes.com/2026/04/08/business/dealbook/market-rally-iran-cease-fire.html",
-          "content": "Analysts and traders are anxiously watching the Strait of Hormuz and whether peace talks can resolve big differences between the United States and Iran."
+          "title": "Markets Have Faced a Year of Chaos and Still Done Awfully Well",
+          "link": "https://www.nytimes.com/2026/04/09/business/iran-war-markets-stocks-bonds.html",
+          "content": "Most stock investors have lost money during the Iran war, but returns have been splendid for the year since the “Liberation Day” tariff announcement."
         },
         {
-          "title": "Delta Expects Strong Profit Despite Higher Fuel Costs",
-          "link": "https://www.nytimes.com/2026/04/08/business/delta-air-lines-earnings.html",
-          "content": "The airline said demand for tickets remained very strong despite the effects of the war in Iran."
+          "title": "A Must for the Next Food Craze? Be ‘Social Media Gorgeous.’",
+          "link": "https://www.nytimes.com/2026/04/09/business/ube-flavor.html",
+          "content": "The ascent of ube has little to do with the purple yam’s taste or Filipino origins. It’s the color, flavor experts say."
         }
       ]
     }
