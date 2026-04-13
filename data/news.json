@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-12T13:56:51.263Z",
+  "generatedAt": "2026-04-13T14:29:15.180Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple reportedly testing four designs for upcoming smart glasses",
+          "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+          "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
+        },
         {
           "title": "Apple’s foldable iPhone is on track to launch in September, report says",
           "link": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
@@ -19,11 +24,6 @@
           "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
           "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
           "content": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword."
-        },
-        {
-          "title": "Apple will hide your email address from apps and websites, but not cops",
-          "link": "https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/",
-          "content": "Demands for Apple customer records by federal agents in recent months underscore the privacy limitations of email."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The ‘Annoyance Economy’ Is More Than Just Annoying",
-          "link": "https://www.nytimes.com/2026/04/12/business/annoyance-economy-costs.html",
-          "content": "A new estimate puts the cost of dealing with robocalls, hidden fees and customer service chatbots that can’t solve most problems at $165 billion."
+          "title": "Judge Dismisses Trump’s Suit Against The Wall Street Journal",
+          "link": "https://www.nytimes.com/2026/04/13/business/media/trump-wall-street-journal-lawsuit-dismissed-epstein.html",
+          "content": "The judge said President Trump had not “plausibly alleged” that The Journal published the article with actual malice."
         },
         {
-          "title": "Peloton’s Latest Leader Thinks He Can Coach It Back to Health",
-          "link": "https://www.nytimes.com/2026/04/12/business/peloton-peter-stern.html",
-          "content": "The fitness company has fallen to a small fraction of its value at its pandemic peak, but Peter Stern says Peloton is headed in the right direction."
+          "title": "Iran Blockade Sets Up a Test of Which Side Can Endure More Pain",
+          "link": "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html",
+          "content": "President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is li"
         },
         {
-          "title": "The Escalating Global A.I. Arms Race",
-          "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-          "content": "China, the U.S., Russia and others have ramped up their contest over artificial-intelligence-backed weapons and military systems. The buildup has been compared to the dawn of "
+          "title": "Hollywood Heavyweights Sign Letter Opposing Paramount’s Deal for Warner Bros.",
+          "link": "https://www.nytimes.com/2026/04/13/business/media/hollywood-letter-opposing-paramount-warner-bros-deal.html",
+          "content": "The letter warns that the deal will result in fewer jobs for creatives, along with higher costs and less choice for audiences."
         },
         {
-          "title": "Southwest Airlines Imposes Further Limits on Portable Chargers on Flights",
-          "link": "https://www.nytimes.com/2026/04/11/travel/southwest-airlines-portable-chargers.html",
-          "content": "Starting on April 20, the airline will limit passengers to one lithium battery-powered portable charger per person."
+          "title": "Goldman Sachs Earnings Show Effects of Iran War",
+          "link": "https://www.nytimes.com/2026/04/13/business/goldman-sachs-earnings.html",
+          "content": "It will be a tricky earnings season, as the investment banking giant became the first to show on Monday."
         }
       ]
     }
