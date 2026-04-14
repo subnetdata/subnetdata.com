@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-13T14:29:15.180Z",
+  "generatedAt": "2026-04-14T14:46:49.771Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+          "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+          "content": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal."
+        },
+        {
+          "title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
+          "link": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+          "content": "Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash."
+        },
         {
           "title": "Apple reportedly testing four designs for upcoming smart glasses",
           "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
@@ -14,16 +24,6 @@
           "title": "Apple’s foldable iPhone is on track to launch in September, report says",
           "link": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
           "content": "The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test"
-        },
-        {
-          "title": "Apple moves to take its App Store fight back to the Supreme Court",
-          "link": "https://techcrunch.com/2026/04/06/apple-epic-games-lawsuit-supreme-court-appeal-app-store-commission/",
-          "content": "Apple plans to ask the Supreme Court to review its App Store fight with Epic Games, as it challenges a ruling limiting its ability to charge fees on external payments."
-        },
-        {
-          "title": "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks",
-          "link": "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/",
-          "content": "The security update protects a raft of older iPhones and iPads from attacks linked to leaked hacking tools called DarkSword."
         }
       ]
     },
@@ -31,6 +31,16 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft is officially killing its Outlook Lite app next month",
+          "link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
+          "content": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connectio"
+        },
+        {
+          "title": "Microsoft is working on yet another OpenClaw-like agent",
+          "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+          "content": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+        },
         {
           "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
           "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
@@ -40,16 +50,6 @@
           "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
           "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
           "content": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their compute"
-        },
-        {
-          "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-          "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-          "content": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
-        },
-        {
-          "title": "Russian government hackers broke into thousands of home routers to steal passwords",
-          "link": "https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/",
-          "content": "Fancy Bear, also known as APT28, has taken over thousands of residential home routers to steal passwords and authentication tokens in a wide-ranging espionage operation."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Judge Dismisses Trump’s Suit Against The Wall Street Journal",
-          "link": "https://www.nytimes.com/2026/04/13/business/media/trump-wall-street-journal-lawsuit-dismissed-epstein.html",
-          "content": "The judge said President Trump had not “plausibly alleged” that The Journal published the article with actual malice."
+          "title": "Ricky Cobb Has Built a Mini-Empire Through ’70s Nostalgia",
+          "link": "https://www.nytimes.com/2026/04/14/business/ricky-cobb-1970s-super70ssports.html",
+          "content": "Ricky Cobb has built a big online following with his irreverent postings about the absurdities of the 1970s."
         },
         {
-          "title": "Iran Blockade Sets Up a Test of Which Side Can Endure More Pain",
-          "link": "https://www.nytimes.com/2026/04/13/us/politics/iran-war-strait-of-hormuz-blockade-economy.html",
-          "content": "President Trump is trying to choke off the country’s lifeline with a blockade of the Strait of Hormuz. But the Iranians are betting that his tolerance for political pain is li"
+          "title": "J.P. Morgan Sees Resiliency in U.S. Economy Despite Iran War",
+          "link": "https://www.nytimes.com/2026/04/14/business/jpmorgan-wells-fargo-citi-earnings.html",
+          "content": "The nation’s largest bank said it earned record trading profits in the first quarter but tempered expectations overall for its business."
         },
         {
-          "title": "Hollywood Heavyweights Sign Letter Opposing Paramount’s Deal for Warner Bros.",
-          "link": "https://www.nytimes.com/2026/04/13/business/media/hollywood-letter-opposing-paramount-warner-bros-deal.html",
-          "content": "The letter warns that the deal will result in fewer jobs for creatives, along with higher costs and less choice for audiences."
+          "title": "Kevin Warsh, Trump’s Pick for Fed Chair, Discloses Vast Wealth Ahead of Confirmation Hearing",
+          "link": "https://www.nytimes.com/2026/04/14/business/trump-federal-reserve-warsh.html",
+          "content": "Kevin M. Warsh vowed to divest a substantial amount of his more than $100 million in assets as he faces a complicated path to becoming the next chair of the Federal Reserve."
         },
         {
-          "title": "Goldman Sachs Earnings Show Effects of Iran War",
-          "link": "https://www.nytimes.com/2026/04/13/business/goldman-sachs-earnings.html",
-          "content": "It will be a tricky earnings season, as the investment banking giant became the first to show on Monday."
+          "title": "Middle East War Will Slow Global Economic Growth, I.M.F. Warns",
+          "link": "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html",
+          "content": "The conflict could also fuel another bout of inflation, according to the International Monetary Fund."
         }
       ]
     }
