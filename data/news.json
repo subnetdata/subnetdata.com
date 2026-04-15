@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-14T14:46:49.771Z",
+  "generatedAt": "2026-04-15T14:27:37.097Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+          "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
           "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
           "content": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal."
         },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Ricky Cobb Has Built a Mini-Empire Through ’70s Nostalgia",
-          "link": "https://www.nytimes.com/2026/04/14/business/ricky-cobb-1970s-super70ssports.html",
-          "content": "Ricky Cobb has built a big online following with his irreverent postings about the absurdities of the 1970s."
+          "title": "Trump Threatens to Fire Powell if He Does Not Resign From Fed",
+          "link": "https://www.nytimes.com/2026/04/15/business/trump-powell-fed-fire.html",
+          "content": "Although Jerome H. Powell’s term as Fed chair officially ends on May 15, he can stay on as a governor until 2028 and said he would not leave until a criminal investigation was"
         },
         {
-          "title": "J.P. Morgan Sees Resiliency in U.S. Economy Despite Iran War",
-          "link": "https://www.nytimes.com/2026/04/14/business/jpmorgan-wells-fargo-citi-earnings.html",
-          "content": "The nation’s largest bank said it earned record trading profits in the first quarter but tempered expectations overall for its business."
+          "title": "Trump Threatens to Fire Powell, Again",
+          "link": "https://www.nytimes.com/2026/04/15/business/dealbook/trump-fire-powell-fed.html",
+          "content": "The new threat against the Fed chair comes ahead of a Senate confirmation hearing for Kevin Warsh, President Trump’s pick to lead the central bank."
         },
         {
-          "title": "Kevin Warsh, Trump’s Pick for Fed Chair, Discloses Vast Wealth Ahead of Confirmation Hearing",
-          "link": "https://www.nytimes.com/2026/04/14/business/trump-federal-reserve-warsh.html",
-          "content": "Kevin M. Warsh vowed to divest a substantial amount of his more than $100 million in assets as he faces a complicated path to becoming the next chair of the Federal Reserve."
+          "title": "Trump Increased Tax Refunds, but a Political Challenge Still Looms",
+          "link": "https://www.nytimes.com/2026/04/15/business/trump-tax-law-refunds-voters.html",
+          "content": "While last year’s tax law has raised the average I.R.S. refund, the boost is less than the White House expected — and may not have much impact on voters."
         },
         {
-          "title": "Middle East War Will Slow Global Economic Growth, I.M.F. Warns",
-          "link": "https://www.nytimes.com/2026/04/14/business/iran-war-imf-economic-growth.html",
-          "content": "The conflict could also fuel another bout of inflation, according to the International Monetary Fund."
+          "title": "Japan Pledges $10 Billion to Help Countries Cope With Oil Prices",
+          "link": "https://www.nytimes.com/2026/04/15/business/japan-aid-asia-oil.html",
+          "content": "With supply chains at risk, the aid to Southeast Asian nations is aimed at securing the availability of oil-based products, including medical equipment."
         }
       ]
     }
