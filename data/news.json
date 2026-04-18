@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-17T14:18:24.430Z",
+  "generatedAt": "2026-04-18T13:58:07.458Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "The App Store is booming again, and AI may be why",
+          "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+          "content": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
+        },
         {
           "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
           "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
@@ -19,11 +24,6 @@
           "title": "Apple reportedly testing four designs for upcoming smart glasses",
           "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
           "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
-        },
-        {
-          "title": "Apple’s foldable iPhone is on track to launch in September, report says",
-          "link": "https://techcrunch.com/2026/04/07/apples-foldable-iphone-is-on-track-to-launch-in-september-report-says/",
-          "content": "The news follows a report from Nikkei Asia on Tuesday that raised concerns the company’s foldable iPhone could be delayed due to challenges during the phone’s engineering test"
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
+          "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
+          "content": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vuln"
+        },
         {
           "title": "Microsoft is officially killing its Outlook Lite app next month",
           "link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
@@ -45,11 +50,6 @@
           "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
           "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
           "content": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software"
-        },
-        {
-          "title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
-          "link": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
-          "content": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their compute"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "You Have Some Options for Dealing With Rising Property Taxes",
-          "link": "https://www.nytimes.com/2026/04/17/your-money/property-taxes-appeals.html",
-          "content": "The average bill rose 3 percent last year, in part because of higher tax rates. There are ways to try to reduce what you owe, experts say."
+          "title": "Corporate Profits Are at Record Highs. These 4 Factors Could Sink Them.",
+          "link": "https://www.nytimes.com/2026/04/18/business/dealbook/corporate-profits-record.html",
+          "content": "Experts have different theories about what’s driving steep gains. But many agree the window for growth is shrinking."
         },
         {
-          "title": "Washington’s Scramble to Get Mythos, Anthropic’s Powerful New Model",
-          "link": "https://www.nytimes.com/2026/04/17/business/dealbook/washington-anthropic-mythos.html",
-          "content": "Federal agencies have requested access to Claude Mythos Preview, which Anthropic says can rapidly identify — and potentially create — new cyberthreats."
+          "title": "Reopening Strait of Hormuz Would Ease Oil Crisis but Only So Much",
+          "link": "https://www.nytimes.com/2026/04/18/business/energy-environment/starit-hormuz-oil-natural-gas-supplies-prices.html",
+          "content": "Analysts said energy and shipping companies would be reluctant to fully restore operations until they were confident that hostilities were over."
         },
         {
-          "title": "The Only Thing N.B.A. Players Love More Than Basketball Is Starting Podcasts",
-          "link": "https://www.nytimes.com/2026/04/17/business/nba-players-podcasts.html",
-          "content": "Bench players and stars alike see fun and career possibilities behind the mic."
+          "title": "More Americans Taking 401(k) Hardship Withdrawals",
+          "link": "https://www.nytimes.com/2026/04/18/business/401k-hardship-withdrawals-retirement.html",
+          "content": "More Americans are taking hardship withdrawals from workplace retirement accounts, prompted by rising costs — and looser rules."
         },
         {
-          "title": "Ellison Pledges at Least 30 Paramount-Warner Movies a Year",
-          "link": "https://www.nytimes.com/2026/04/16/business/media/david-ellison-paramount-warner-movies-theaters.html",
-          "content": "His remarks at a movie theater convention were part of a campaign to win Hollywood support for his bid to buy Warner Bros. Discovery."
+          "title": "The Mighty Engine That Jaguar Built, and Built Jaguar",
+          "link": "https://www.nytimes.com/2026/04/18/business/jaguar-xk-engine-formula-e.html",
+          "content": "For 42 years, the XK was Jaguar’s secret weapon. It proved its worth on the racetrack and powered generations of cars. The company’s leap into electrics could take a similar p"
         }
       ]
     }
