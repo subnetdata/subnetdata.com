@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-20T14:47:16.595Z",
+  "generatedAt": "2026-04-21T14:44:43.869Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Who is John Ternus, the incoming Apple CEO?",
+          "link": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
+          "content": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, "
+        },
+        {
+          "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
+          "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
+          "content": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry"
+        },
         {
           "title": "The App Store is booming again, and AI may be why",
           "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
@@ -14,16 +24,6 @@
           "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
           "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
           "content": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal."
-        },
-        {
-          "title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
-          "link": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
-          "content": "Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash."
-        },
-        {
-          "title": "Apple reportedly testing four designs for upcoming smart glasses",
-          "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-          "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The Peace Rally Gets Derailed",
-          "link": "https://www.nytimes.com/2026/04/20/business/dealbook/iran-peace-rally-stocks.html",
-          "content": "Oil prices are climbing and global stocks are falling as investors worry about the prospects for a speedy end to the war in the Middle East."
+          "title": "A criminal inquiry into the Fed looms large over the Warsh hearing.",
+          "link": "https://www.nytimes.com/live/2026/04/21/business/kevin-warsh-fed-chair-hearing/criminal-inquiry-into-fed-looms-large-over-warsh-hearing",
+          "content": ""
         },
         {
-          "title": "The President Is Coming to the White House Correspondent’s Dinner",
-          "link": "https://www.nytimes.com/2026/04/20/business/media/white-house-correspondents-dinner-trump.html",
-          "content": "A president who relishes attacking the news media is set to break his boycott of an event celebrating the news media. What could go wrong?"
+          "title": "Trump Dismisses a Merger While Seeking Suitors for Spirit Airlines",
+          "link": "https://www.nytimes.com/2026/04/21/business/trump-spirit-airlines-united-american.html",
+          "content": "As he rejected the idea of a merger of United Airlines and American Airlines, President Trump said someone, including possibly the federal government, should buy or help Spiri"
         },
         {
-          "title": "Trump Administration to Begin Refunding $166 Billion in Tariffs",
-          "link": "https://www.nytimes.com/2026/04/20/business/trump-administration-tariff-refunds.html",
-          "content": "The government will debut a system to repay importers two months after the Supreme Court struck down tariffs at the heart of the president’s trade policy."
+          "title": "A Year After U.S.A.I.D.’s Death, Fired Workers Find Few Jobs and Much Loss",
+          "link": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html",
+          "content": "People have plowed through savings, cashed out retirement funds and moved in with relatives. Former U.S.A.I.D. workers estimate that less than half have found full-time work."
         },
         {
-          "title": "Why Gas Prices Go Up Fast and Take So Long to Fall",
-          "link": "https://www.nytimes.com/2026/04/20/business/economy/gas-stations-pricing.html",
-          "content": "Fuel station owners take some of the hit for consumers when oil prices surge. On the way down, they try to get their money back."
+          "title": "Here’s the latest.",
+          "link": "https://www.nytimes.com/live/2026/04/21/business/kevin-warsh-fed-chair-hearing/heres-the-latest",
+          "content": ""
         }
       ]
     }
