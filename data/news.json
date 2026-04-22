@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-04-21T14:44:43.869Z",
+  "generatedAt": "2026-04-22T14:43:26.060Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
+          "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
+          "content": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse."
+        },
+        {
+          "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
+          "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+          "content": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
+        },
+        {
+          "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
+          "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
+          "content": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations."
+        },
+        {
           "title": "Who is John Ternus, the incoming Apple CEO?",
           "link": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
           "content": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, "
-        },
-        {
-          "title": "Tim Cook stepping down as Apple CEO, John Ternus taking over",
-          "link": "https://techcrunch.com/2026/04/20/tim-cook-stepping-down-as-apple-ceo-john-ternus-taking-over/",
-          "content": "The transition has been expected for some time and ends one of the longer and more impactful runs a CEO has had at any company. Cook had inherited a company that many industry"
-        },
-        {
-          "title": "The App Store is booming again, and AI may be why",
-          "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
-          "content": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
-        },
-        {
-          "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-          "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-          "content": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "A criminal inquiry into the Fed looms large over the Warsh hearing.",
-          "link": "https://www.nytimes.com/live/2026/04/21/business/kevin-warsh-fed-chair-hearing/criminal-inquiry-into-fed-looms-large-over-warsh-hearing",
-          "content": ""
+          "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
+          "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+          "content": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model."
         },
         {
-          "title": "Trump Dismisses a Merger While Seeking Suitors for Spirit Airlines",
-          "link": "https://www.nytimes.com/2026/04/21/business/trump-spirit-airlines-united-american.html",
-          "content": "As he rejected the idea of a merger of United Airlines and American Airlines, President Trump said someone, including possibly the federal government, should buy or help Spiri"
+          "title": "Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label",
+          "link": "https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html",
+          "content": "Kevin M. Warsh, at his confirmation hearing to be the next chair of the Federal Reserve, repeatedly sought to dispel doubts that he would be pliant to President Trump’s demand"
         },
         {
-          "title": "A Year After U.S.A.I.D.’s Death, Fired Workers Find Few Jobs and Much Loss",
-          "link": "https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html",
-          "content": "People have plowed through savings, cashed out retirement funds and moved in with relatives. Former U.S.A.I.D. workers estimate that less than half have found full-time work."
+          "title": "The Consequences of SpaceX’s Latest A.I. Moonshot",
+          "link": "https://www.nytimes.com/2026/04/22/business/dealbook/spacex-ai-cursor.html",
+          "content": "Elon Musk’s rocket and satellite internet titan may pay $60 billion for an A.I. coding start-up. It further clouds SpaceX’s once-simple business plan."
         },
         {
-          "title": "Here’s the latest.",
-          "link": "https://www.nytimes.com/live/2026/04/21/business/kevin-warsh-fed-chair-hearing/heres-the-latest",
-          "content": ""
+          "title": "Lufthansa Cuts 20,000 Flights to Save Fuel Amid Iran War Price Surge",
+          "link": "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html",
+          "content": "Global jet fuel prices have jumped more than 70 percent since the start of the war, pressuring airlines in Europe, the largest consumers of jet fuel shipped through the Strait"
         }
       ]
     }
