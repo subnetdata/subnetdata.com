@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-22T14:43:26.060Z",
+  "generatedAt": "2026-04-23T15:09:44.619Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+          "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+          "content": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app."
+        },
         {
           "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
           "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
@@ -19,11 +24,6 @@
           "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
           "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
           "content": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations."
-        },
-        {
-          "title": "Who is John Ternus, the incoming Apple CEO?",
-          "link": "https://techcrunch.com/2026/04/20/who-is-john-ternus-the-incoming-apple-ceo/",
-          "content": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, "
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
-          "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
-          "content": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model."
+          "title": "How We Cover the White House Correspondents’ Dinner",
+          "link": "https://www.nytimes.com/2026/04/23/insider/white-house-correspondents-dinner-trump.html",
+          "content": "The annual black-tie event attracts Hollywood stars, reporters and politicians for an irreverent night celebrating press freedom."
         },
         {
-          "title": "Trump’s Fed Pick Faces Tough Task Shedding ‘Sock Puppet’ Label",
-          "link": "https://www.nytimes.com/2026/04/22/business/trumps-warsh-fed-sock-puppet.html",
-          "content": "Kevin M. Warsh, at his confirmation hearing to be the next chair of the Federal Reserve, repeatedly sought to dispel doubts that he would be pliant to President Trump’s demand"
+          "title": "Warner Bros. Investors Approve Deal With Paramount",
+          "link": "https://www.nytimes.com/2026/04/23/business/media/warner-bros-investors-paramount-vote.html",
+          "content": "The vote brings the tech scion David Ellison one step closer to uniting some of the world’s biggest news and entertainment properties."
         },
         {
-          "title": "The Consequences of SpaceX’s Latest A.I. Moonshot",
-          "link": "https://www.nytimes.com/2026/04/22/business/dealbook/spacex-ai-cursor.html",
-          "content": "Elon Musk’s rocket and satellite internet titan may pay $60 billion for an A.I. coding start-up. It further clouds SpaceX’s once-simple business plan."
+          "title": "Investors Fret Over Tesla’s $25 Billion A.I. Bet",
+          "link": "https://www.nytimes.com/2026/04/23/business/dealbook/tesla-musk-ai-bet.html",
+          "content": "Elon Musk’s electric vehicle company said that it needs to spend big on artificial intelligence and robots. Wall Street is worried about the bill."
         },
         {
-          "title": "Lufthansa Cuts 20,000 Flights to Save Fuel Amid Iran War Price Surge",
-          "link": "https://www.nytimes.com/2026/04/22/business/lufthansa-cancels-flights-iran-jet-fuel.html",
-          "content": "Global jet fuel prices have jumped more than 70 percent since the start of the war, pressuring airlines in Europe, the largest consumers of jet fuel shipped through the Strait"
+          "title": "Why Diesel Has Become a Much Bigger Economic Problem Than Gasoline",
+          "link": "https://www.nytimes.com/2026/04/23/business/energy-environment/iran-war-diesel-prices-gasoline.html",
+          "content": "The war in Iran has disrupted supplies of diesel, used to power trucks and heavy equipment, much more than gasoline, which is primarily used in passenger cars."
         }
       ]
     }
