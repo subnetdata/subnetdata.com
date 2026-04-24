@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T15:09:44.619Z",
+  "generatedAt": "2026-04-24T14:29:44.865Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft offers buyout for up to 7% of US employees",
+          "link": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
+          "content": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout."
+        },
+        {
           "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
           "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
           "content": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vuln"
@@ -45,11 +50,6 @@
           "title": "Microsoft is working on yet another OpenClaw-like agent",
           "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
           "content": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
-        },
-        {
-          "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account",
-          "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
-          "content": "The popular open source VPN maker is the second high-profile developer to say Microsoft locked his account without notifying him and is blocking their ability to send software"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How We Cover the White House Correspondents’ Dinner",
-          "link": "https://www.nytimes.com/2026/04/23/insider/white-house-correspondents-dinner-trump.html",
-          "content": "The annual black-tie event attracts Hollywood stars, reporters and politicians for an irreverent night celebrating press freedom."
+          "title": "How Kevin Warsh Could Shrink the Fed’s Footprint in Financial Markets",
+          "link": "https://www.nytimes.com/2026/04/24/us/politics/kevin-warsh-fed-rates-balance-sheet.html",
+          "content": "President Trump’s nominee to become the next chair of the Federal Reserve wants to overhaul the central bank, including its more than $6 trillion balance sheet."
         },
         {
-          "title": "Warner Bros. Investors Approve Deal With Paramount",
-          "link": "https://www.nytimes.com/2026/04/23/business/media/warner-bros-investors-paramount-vote.html",
-          "content": "The vote brings the tech scion David Ellison one step closer to uniting some of the world’s biggest news and entertainment properties."
+          "title": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
+          "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
+          "content": "A few carriers are making a lot of money while many are struggling. President Trump and industry executives seem to think mergers may be the answer."
         },
         {
-          "title": "Investors Fret Over Tesla’s $25 Billion A.I. Bet",
-          "link": "https://www.nytimes.com/2026/04/23/business/dealbook/tesla-musk-ai-bet.html",
-          "content": "Elon Musk’s electric vehicle company said that it needs to spend big on artificial intelligence and robots. Wall Street is worried about the bill."
+          "title": "Ignoring the War Has Been Working for Long-Term Investors",
+          "link": "https://www.nytimes.com/2026/04/24/business/iran-war-stocks-bonds-investing.html",
+          "content": "The U.S. stock market’s quick rebound this month may be fragile, but riding out the market’s disconcerting waves has been a sound strategy."
         },
         {
-          "title": "Why Diesel Has Become a Much Bigger Economic Problem Than Gasoline",
-          "link": "https://www.nytimes.com/2026/04/23/business/energy-environment/iran-war-diesel-prices-gasoline.html",
-          "content": "The war in Iran has disrupted supplies of diesel, used to power trucks and heavy equipment, much more than gasoline, which is primarily used in passenger cars."
+          "title": "A.I. Is Forcing More Belt-Tightening at Big Tech",
+          "link": "https://www.nytimes.com/2026/04/24/business/dealbook/ai-tech-cost-cuts.html",
+          "content": "The growing expense of keeping up in the artificial intelligence race is driving technology companies, young and old, to cut costs."
         }
       ]
     }
