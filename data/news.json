@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-04-24T14:29:44.865Z",
+  "generatedAt": "2026-04-25T14:00:24.627Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+          "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+          "content": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one "
+        },
+        {
+          "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+          "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+          "content": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools."
+        },
+        {
+          "title": "Tim Cook is stepping down. What happens to Apple now?",
+          "link": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+          "content": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tec"
+        },
+        {
           "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
           "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
           "content": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app."
-        },
-        {
-          "title": "Tim Cook is stepping down as CEO of Apple: Here’s a look at his 15-year legacy, from new products and services to China expansion",
-          "link": "https://techcrunch.com/2026/04/21/apple-tim-cook-ceo-15-year-legacy-takeaways-ios-silicon-china-trillion-ai/",
-          "content": "Cook, who joined Apple in 1998, succeeded Steve Jobs as CEO in 2011 and went on to transform Apple into a $4 trillion powerhouse."
-        },
-        {
-          "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-          "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-          "content": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
-        },
-        {
-          "title": "Apple’s Cal AI crackdown signals it’s still policing the App Store",
-          "link": "https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/",
-          "content": "Apple tells TechCrunch Cal AI was removed not for web payments alone, but for deceptive billing, manipulative tactics, and App Store rule violations."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How Kevin Warsh Could Shrink the Fed’s Footprint in Financial Markets",
-          "link": "https://www.nytimes.com/2026/04/24/us/politics/kevin-warsh-fed-rates-balance-sheet.html",
-          "content": "President Trump’s nominee to become the next chair of the Federal Reserve wants to overhaul the central bank, including its more than $6 trillion balance sheet."
+          "title": "In Wine Country, Sales Are Down and Fraud is Rampant",
+          "link": "https://www.nytimes.com/2026/04/25/business/dealbook/wine-fraud.html",
+          "content": "The industry’s murky supply chain has long attracted scammers and con artists. In the words of one expert, “Wine and fraud go hand in hand.”"
         },
         {
-          "title": "Why Everyone, Including Trump, Is Talking About Airline Mergers",
-          "link": "https://www.nytimes.com/2026/04/24/business/trump-airline-mergers-bailouts.html",
-          "content": "A few carriers are making a lot of money while many are struggling. President Trump and industry executives seem to think mergers may be the answer."
+          "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
+          "link": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+          "content": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots."
         },
         {
-          "title": "Ignoring the War Has Been Working for Long-Term Investors",
-          "link": "https://www.nytimes.com/2026/04/24/business/iran-war-stocks-bonds-investing.html",
-          "content": "The U.S. stock market’s quick rebound this month may be fragile, but riding out the market’s disconcerting waves has been a sound strategy."
+          "title": "If On Shoes Are for Everyone, Are They Still Ons?",
+          "link": "https://www.nytimes.com/2026/04/25/business/on-running-shoes-expansion.html",
+          "content": "The company finds itself at a critical juncture that others have botched: How does it stay a brand for serious athletes while keeping up its breakneck growth?"
         },
         {
-          "title": "A.I. Is Forcing More Belt-Tightening at Big Tech",
-          "link": "https://www.nytimes.com/2026/04/24/business/dealbook/ai-tech-cost-cuts.html",
-          "content": "The growing expense of keeping up in the artificial intelligence race is driving technology companies, young and old, to cut costs."
+          "title": "SiriusXM Said to Be in Early Talks to Acquire iHeartMedia",
+          "link": "https://www.nytimes.com/2026/04/24/business/media/siriusxm-iheart-radio.html",
+          "content": "A deal, which was described by two people familiar with the discussions, would unite two major providers of traditional and satellite radio."
         }
       ]
     }
