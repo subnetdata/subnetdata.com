@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-25T14:00:24.627Z",
+  "generatedAt": "2026-04-26T14:02:11.133Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+          "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+          "content": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
+        },
         {
           "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
           "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
@@ -19,11 +24,6 @@
           "title": "Tim Cook is stepping down. What happens to Apple now?",
           "link": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
           "content": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tec"
-        },
-        {
-          "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-          "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
-          "content": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "In Wine Country, Sales Are Down and Fraud is Rampant",
-          "link": "https://www.nytimes.com/2026/04/25/business/dealbook/wine-fraud.html",
-          "content": "The industry’s murky supply chain has long attracted scammers and con artists. In the words of one expert, “Wine and fraud go hand in hand.”"
+          "title": "Tillis Prepared to Advance Fed Nominee after Justice Dropped Probe",
+          "link": "https://www.nytimes.com/2026/04/26/business/economy/tillis-federal-reserve-nomination.html",
+          "content": "Senator Thom Tillis said he had received assurances from federal prosecutors that eased his concerns, setting the stage for a key committee vote on Kevin Warsh."
         },
         {
-          "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
-          "link": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
-          "content": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots."
+          "title": "U.S. Sanctions Zigzag in New World of Economic Warfare",
+          "link": "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html",
+          "content": "With oil prices in mind, the Trump administration has deployed a haphazard approach to sanctions on Russia and Iran."
         },
         {
-          "title": "If On Shoes Are for Everyone, Are They Still Ons?",
-          "link": "https://www.nytimes.com/2026/04/25/business/on-running-shoes-expansion.html",
-          "content": "The company finds itself at a critical juncture that others have botched: How does it stay a brand for serious athletes while keeping up its breakneck growth?"
+          "title": "Dwarkesh Patel’s Podcast Lets You Eavesdrop on the A.I. Elite",
+          "link": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html",
+          "content": "Dwarkesh Patel was a bored college sophomore looking for intellectual stimulation. Now he commands interviews with Jensen Huang and Mark Zuckerberg and holds his own with deep"
         },
         {
-          "title": "SiriusXM Said to Be in Early Talks to Acquire iHeartMedia",
-          "link": "https://www.nytimes.com/2026/04/24/business/media/siriusxm-iheart-radio.html",
-          "content": "A deal, which was described by two people familiar with the discussions, would unite two major providers of traditional and satellite radio."
+          "title": "How We Traced U.S. Government Gold to a Drug Cartel",
+          "link": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
+          "content": "Three reporters followed supply chains to reveal that the U.S. Mint buys gold that comes from foreign pawn shops and drug dealers, then claims it is from the United States."
         }
       ]
     }
