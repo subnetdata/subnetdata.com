@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-04-26T14:02:11.133Z",
+  "generatedAt": "2026-04-27T15:02:10.894Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "What Tim Cook built",
+          "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
+          "content": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing."
+        },
         {
           "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
           "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
@@ -19,11 +24,6 @@
           "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
           "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
           "content": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools."
-        },
-        {
-          "title": "Tim Cook is stepping down. What happens to Apple now?",
-          "link": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-          "content": "Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one of the most durable businesses in tec"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Tillis Prepared to Advance Fed Nominee after Justice Dropped Probe",
-          "link": "https://www.nytimes.com/2026/04/26/business/economy/tillis-federal-reserve-nomination.html",
-          "content": "Senator Thom Tillis said he had received assurances from federal prosecutors that eased his concerns, setting the stage for a key committee vote on Kevin Warsh."
+          "title": "United Airlines Says It Pitched American on Merger but Was Rebuffed",
+          "link": "https://www.nytimes.com/2026/04/27/business/united-airlines-american-merger.html",
+          "content": "United’s chief acknowledged for the first time that he had broached the idea of a merger with American, which was unwilling to consider it."
         },
         {
-          "title": "U.S. Sanctions Zigzag in New World of Economic Warfare",
-          "link": "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html",
-          "content": "With oil prices in mind, the Trump administration has deployed a haphazard approach to sanctions on Russia and Iran."
+          "title": "Musk vs. Altman: A High-Stakes A.I. Clash Goes to Court on Monday",
+          "link": "https://www.nytimes.com/2026/04/27/business/dealbook/musk-altman-ai-trial.html",
+          "content": "Elon Musk is seeking more than $150 billion in damages and a complete shake-up of OpenAI. The outcome could have big consequences for the artificial intelligence industry."
         },
         {
-          "title": "Dwarkesh Patel’s Podcast Lets You Eavesdrop on the A.I. Elite",
-          "link": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html",
-          "content": "Dwarkesh Patel was a bored college sophomore looking for intellectual stimulation. Now he commands interviews with Jensen Huang and Mark Zuckerberg and holds his own with deep"
+          "title": "China’s Economy Starts to Show Cracks From Iran War",
+          "link": "https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html",
+          "content": "China’s strategic reserves of oil and natural gas have insulated it somewhat, but its manufacturing-based economy is beginning to falter."
         },
         {
-          "title": "How We Traced U.S. Government Gold to a Drug Cartel",
-          "link": "https://www.nytimes.com/2026/04/26/insider/gold-us-mint-drug-cartel.html",
-          "content": "Three reporters followed supply chains to reveal that the U.S. Mint buys gold that comes from foreign pawn shops and drug dealers, then claims it is from the United States."
+          "title": "China Will Require Meta to Unwind Acquisition of AI Start-Up Manus",
+          "link": "https://www.nytimes.com/2026/04/27/business/china-meta-manus-ai-deal.html",
+          "content": "The impact of the ruling was not immediately clear, but it could send a chilling signal to Chinese tech founders seeking to team up with foreign companies."
         }
       ]
     }
