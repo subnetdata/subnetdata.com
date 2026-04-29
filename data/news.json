@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-28T15:23:27.441Z",
+  "generatedAt": "2026-04-29T15:06:48.099Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
+          "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
+          "content": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court."
+        },
+        {
+          "title": "Paragon is not collaborating with Italian authorities probing spyware attacks, report says",
+          "link": "https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/",
+          "content": "Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not respon"
+        },
         {
           "title": "Apple introduces a cheaper option for App Store subscriptions",
           "link": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
@@ -14,16 +24,6 @@
           "title": "What Tim Cook built",
           "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
           "content": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing."
-        },
-        {
-          "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-          "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-          "content": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
-        },
-        {
-          "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-          "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-          "content": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus. Ternus may be inheriting one "
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "G.M.’s Profit Bolstered by a $500 Million Tariff Refund",
-          "link": "https://www.nytimes.com/2026/04/28/business/general-motors-trump-tariffs.html",
-          "content": "Because of a February Supreme Court decision, General Motors said it would receive refunds on some of the tariffs it had paid."
+          "title": "United Airlines CEO, Rebuffed by American, Says He’s Skeptical of Other Deals",
+          "link": "https://www.nytimes.com/2026/04/29/business/united-airlines-american-scott-kirby.html",
+          "content": "The chief executive, Scott Kirby, said that buying a smaller airline might not be worth the effort."
         },
         {
-          "title": "Is OpenAI Falling Further Behind in the A.I. Race?",
-          "link": "https://www.nytimes.com/2026/04/28/business/dealbook/openai-misses-targets.html",
-          "content": "The artificial intelligence giant has reportedly fallen behind on its own user and revenue targets, raising questions about its data center and I.P.O. plans"
+          "title": "Warsh Clears an Early Hurdle on Path to Fed Chair",
+          "link": "https://www.nytimes.com/2026/04/29/business/economy/warsh-federal-reserve-chair.html",
+          "content": "The Senate Banking Committee advanced Kevin Warsh’s nomination as Fed chair on Wednesday, teeing up the full chamber to hold a vote soon."
         },
         {
-          "title": "Despite Trump’s Demands, His Fed Pick Is Unlikely to Get a Quick Rate Cut",
-          "link": "https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html",
-          "content": "The Federal Reserve is expected to hold interest rates steady this week as Jerome H. Powell presides over what is likely to be his last meeting as chair."
+          "title": "Uber Expands to Hotel Bookings With Expedia Partnership",
+          "link": "https://www.nytimes.com/2026/04/29/travel/uber-hotel-booking-expedia.html",
+          "content": "In partnership with Expedia, the ride-booking, food-delivering, package-transporting service takes another step toward becoming a super app."
         },
         {
-          "title": "Stephen Colbert Gets Ready to Hang It Up",
-          "link": "https://www.nytimes.com/2026/04/28/business/media/stephen-colbert-late-night-show.html",
-          "content": "His late-night show ends next month after 11 seasons. He has lots of feelings."
+          "title": "What’s happening at the Federal Reserve today.",
+          "link": "https://www.nytimes.com/live/2026/04/29/business/federal-reserve-interest-rates/whats-happening-at-the-federal-reserve-today",
+          "content": ""
         }
       ]
     }
