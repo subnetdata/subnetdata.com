@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T15:06:48.099Z",
+  "generatedAt": "2026-04-30T15:03:40.972Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,16 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+          "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+          "content": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
+        },
+        {
+          "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+          "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+          "content": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing."
+        },
+        {
           "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
           "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
           "content": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreeme"
@@ -40,16 +50,6 @@
           "title": "Microsoft offers buyout for up to 7% of US employees",
           "link": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
           "content": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout."
-        },
-        {
-          "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
-          "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
-          "content": "A security researcher published details of three security vulnerabilities in Windows Defender, and the code used to exploit them. Now, hackers are taking advantage of the vuln"
-        },
-        {
-          "title": "Microsoft is officially killing its Outlook Lite app next month",
-          "link": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month/",
-          "content": "Launched in 2022, Outlook Lite is a lightweight version of the regular Outlook app, designed for Android phones with limited storage and regions with slower internet connectio"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "United Airlines CEO, Rebuffed by American, Says He’s Skeptical of Other Deals",
-          "link": "https://www.nytimes.com/2026/04/29/business/united-airlines-american-scott-kirby.html",
-          "content": "The chief executive, Scott Kirby, said that buying a smaller airline might not be worth the effort."
+          "title": "Behind Powell’s High-Stakes Decision to Stay at the Fed",
+          "link": "https://www.nytimes.com/2026/04/30/business/powell-fed-trump.html",
+          "content": "Jerome H. Powell will remain a governor at the Federal Reserve after his term as chair ends, in a bid to guard against a further incursion by the Trump administration on the c"
         },
         {
-          "title": "Warsh Clears an Early Hurdle on Path to Fed Chair",
-          "link": "https://www.nytimes.com/2026/04/29/business/economy/warsh-federal-reserve-chair.html",
-          "content": "The Senate Banking Committee advanced Kevin Warsh’s nomination as Fed chair on Wednesday, teeing up the full chamber to hold a vote soon."
+          "title": "U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices",
+          "link": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
+          "content": "Gross domestic product expanded at a 2 percent annual rate in the first three months of the year, a period including first weeks of conflict in the Middle East."
         },
         {
-          "title": "Uber Expands to Hotel Bookings With Expedia Partnership",
-          "link": "https://www.nytimes.com/2026/04/29/travel/uber-hotel-booking-expedia.html",
-          "content": "In partnership with Expedia, the ride-booking, food-delivering, package-transporting service takes another step toward becoming a super app."
+          "title": "How Powell Just Complicated Trump’s Fed Plans",
+          "link": "https://www.nytimes.com/2026/04/30/business/dealbook/powell-fed-trump-warsh.html",
+          "content": "Traders now think the Federal Reserve will keep steady interest rates, or perhaps even increase them, amid succession intrigue at the central bank."
         },
         {
-          "title": "What’s happening at the Federal Reserve today.",
-          "link": "https://www.nytimes.com/live/2026/04/29/business/federal-reserve-interest-rates/whats-happening-at-the-federal-reserve-today",
-          "content": ""
+          "title": "Casa, a Handyman Start-Up, Aims to Automate Home Maintenance",
+          "link": "https://www.nytimes.com/2026/04/30/business/dealbook/casa-handyman-start-up.html",
+          "content": "Casa, a company founded by former Uber executives, says it uses artificial intelligence and a stable of handymen to take care of members’ homes."
         }
       ]
     }
