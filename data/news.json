@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-04-30T15:03:40.972Z",
+  "generatedAt": "2026-05-01T14:14:35.860Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
+          "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
+          "content": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business."
+        },
+        {
+          "title": "Apple was surprised by AI-driven demand for Macs",
+          "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+          "content": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too."
+        },
         {
           "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
           "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
@@ -14,16 +24,6 @@
           "title": "Paragon is not collaborating with Italian authorities probing spyware attacks, report says",
           "link": "https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/",
           "content": "Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not respon"
-        },
-        {
-          "title": "Apple introduces a cheaper option for App Store subscriptions",
-          "link": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
-          "content": "Apple is adding a new subscription option that lets app developers offer lower monthly pricing in exchange for a 12-month commitment."
-        },
-        {
-          "title": "What Tim Cook built",
-          "link": "https://techcrunch.com/2026/04/26/what-tim-cook-built/",
-          "content": "On the latest episode of Equity, we discuss how Apple has changed since Cook became CEO in 2011, and what challenges incoming CEO John Ternus will be facing."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Behind Powell’s High-Stakes Decision to Stay at the Fed",
-          "link": "https://www.nytimes.com/2026/04/30/business/powell-fed-trump.html",
-          "content": "Jerome H. Powell will remain a governor at the Federal Reserve after his term as chair ends, in a bid to guard against a further incursion by the Trump administration on the c"
+          "title": "Stocks and Oil Prices Sent Conflicting Signals in April Amid Havoc of Iran War",
+          "link": "https://www.nytimes.com/2026/05/01/business/stocks-oil-prices-iran-war-april.html",
+          "content": "Energy markets remained disrupted by turmoil in the Middle East, while the S&P 500 posted its best month since November 2020."
         },
         {
-          "title": "U.S. Economy Grew 2 Percent in Early 2026 Even as War in Iran Began to Hit Energy Prices",
-          "link": "https://www.nytimes.com/2026/04/30/business/us-economy-gdp-oil-war.html",
-          "content": "Gross domestic product expanded at a 2 percent annual rate in the first three months of the year, a period including first weeks of conflict in the Middle East."
+          "title": "Trump’s Tariff Reversal Reopens a Major Market for Scotch Whisky",
+          "link": "https://www.nytimes.com/2026/05/01/business/trump-scotch-whisky-tariffs.html",
+          "content": "A 10 percent tax on American imports was hurting British sales, even though exporters had increased sales in India, China and other countries."
         },
         {
-          "title": "How Powell Just Complicated Trump’s Fed Plans",
-          "link": "https://www.nytimes.com/2026/04/30/business/dealbook/powell-fed-trump-warsh.html",
-          "content": "Traders now think the Federal Reserve will keep steady interest rates, or perhaps even increase them, amid succession intrigue at the central bank."
+          "title": "Utility Bills Are Likely to Be Higher This Summer. Here’s What You Can Do.",
+          "link": "https://www.nytimes.com/2026/05/01/your-money/electricity-costs-summer.html",
+          "content": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked."
         },
         {
-          "title": "Casa, a Handyman Start-Up, Aims to Automate Home Maintenance",
-          "link": "https://www.nytimes.com/2026/04/30/business/dealbook/casa-handyman-start-up.html",
-          "content": "Casa, a company founded by former Uber executives, says it uses artificial intelligence and a stable of handymen to take care of members’ homes."
+          "title": "OpenAI’s New Model Spurs Debate Over Computing Power",
+          "link": "https://www.nytimes.com/2026/05/01/business/dealbook/openai-anthropic-compute.html",
+          "content": "Sam Altman suggested it would be released more widely than a rival offering from Anthropic. Some are suggesting it’s because OpenAI has more computing power."
         }
       ]
     }
