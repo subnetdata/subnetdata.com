@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T14:14:35.860Z",
+  "generatedAt": "2026-05-02T14:08:02.541Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,16 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+          "content": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models"
+        },
+        {
+          "title": "Musk v. Altman is just getting started",
+          "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+          "content": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets a"
+        },
+        {
           "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
           "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
           "content": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
@@ -40,16 +50,6 @@
           "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
           "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
           "content": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing."
-        },
-        {
-          "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-          "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-          "content": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreeme"
-        },
-        {
-          "title": "Microsoft offers buyout for up to 7% of US employees",
-          "link": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
-          "content": "If a worker's years of service at Microsoft plus their age equals 70 or more, they will be eligible for a voluntary retirement buyout."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Stocks and Oil Prices Sent Conflicting Signals in April Amid Havoc of Iran War",
-          "link": "https://www.nytimes.com/2026/05/01/business/stocks-oil-prices-iran-war-april.html",
-          "content": "Energy markets remained disrupted by turmoil in the Middle East, while the S&P 500 posted its best month since November 2020."
+          "title": "The Cannabis Industry’s New Best Friend? President Trump",
+          "link": "https://www.nytimes.com/2026/05/02/business/dealbook/cannabis-industry-trump.html",
+          "content": "The administration’s decision to relax federal regulations on medical marijuana comes with big tax breaks for many cannabis companies, and could drive new investment in the bu"
         },
         {
-          "title": "Trump’s Tariff Reversal Reopens a Major Market for Scotch Whisky",
-          "link": "https://www.nytimes.com/2026/05/01/business/trump-scotch-whisky-tariffs.html",
-          "content": "A 10 percent tax on American imports was hurting British sales, even though exporters had increased sales in India, China and other countries."
+          "title": "Is Tooth Brushing at Work Gross?",
+          "link": "https://www.nytimes.com/2026/05/02/business/flossing-brushing-work-gross.html",
+          "content": "Plus: Is it insane to refuse a raise?"
         },
         {
-          "title": "Utility Bills Are Likely to Be Higher This Summer. Here’s What You Can Do.",
-          "link": "https://www.nytimes.com/2026/05/01/your-money/electricity-costs-summer.html",
-          "content": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked."
+          "title": "5 Money Lessons From People Caring for Their Elderly Parents",
+          "link": "https://www.nytimes.com/2026/05/02/business/aging-parents-money-finances-retirement.html",
+          "content": "Generation X-ers and others shared stories of family crises, and we asked experts how to think about living longer than you expect."
         },
         {
-          "title": "OpenAI’s New Model Spurs Debate Over Computing Power",
-          "link": "https://www.nytimes.com/2026/05/01/business/dealbook/openai-anthropic-compute.html",
-          "content": "Sam Altman suggested it would be released more widely than a rival offering from Anthropic. Some are suggesting it’s because OpenAI has more computing power."
+          "title": "Spirit Airlines Shuts Down After Years of Struggle",
+          "link": "https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html",
+          "content": "Spirit once upended the industry by offering very low fares but was in its second bankruptcy in two years after years of struggle."
         }
       ]
     }
