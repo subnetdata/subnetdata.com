@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-05-04T15:07:38.136Z",
+  "generatedAt": "2026-05-06T15:25:00.099Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+          "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+          "content": "Apple has agreed to pay $250 million to settle a class-action lawsuit for overpromising the arrival of Siri's AI features."
+        },
+        {
+          "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+          "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+          "content": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks."
+        },
         {
           "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
           "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
@@ -14,16 +24,6 @@
           "title": "Apple was surprised by AI-driven demand for Macs",
           "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
           "content": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too."
-        },
-        {
-          "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court",
-          "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
-          "content": "Apple lost its bid to pause court-ordered App Store payment changes, keeping external purchase links in place as its case with Epic heads toward the Supreme Court."
-        },
-        {
-          "title": "Paragon is not collaborating with Italian authorities probing spyware attacks, report says",
-          "link": "https://techcrunch.com/2026/04/28/paragon-is-not-collaborating-with-italian-authorities-probing-spyware-attacks-report-says/",
-          "content": "Despite promising to help determine what happened with the hacks targeting journalists and activists in Italy, Israeli American spyware maker Paragon has reportedly not respon"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Confusion in Strait of Hormuz Leaves Shipping Firms Guessing",
-          "link": "https://www.nytimes.com/2026/05/04/business/trump-hormuz-shipping-companies.html",
-          "content": "The United States vowed to help tankers navigate the perilous conditions that have kept them stranded in the Persian Gulf, but it remained unclear if companies would try to ge"
+          "title": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
+          "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
+          "content": "As one of the most important figures in media history, he oversaw a vast cable empire of news, sports and entertainment channels."
         },
         {
-          "title": "What Was Discussed at Google’s White House Meeting About A.I.",
-          "link": "https://www.nytimes.com/2026/05/04/business/dealbook/google-ai-white-house.html",
-          "content": "The technology giant met with administration officials last week to address a growing concern in Washington: insufficient computing power for artificial intelligence."
+          "title": "Why Is Gas So Much More Expensive in Some States Than Others?",
+          "link": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html",
+          "content": "Shipping, taxes, competition and environmental regulations all play a part in the cost of gasoline. That can lead to stark differences in pump prices."
         },
         {
-          "title": "GameStop Proposes Acquiring eBay for $55 Billion",
-          "link": "https://www.nytimes.com/2026/05/04/business/gamestop-ebay-acquisition-offer.html",
-          "content": "Analysts question the feasibility of this long-shot bid by the video game retailer to acquire the much larger online marketplace."
+          "title": "Howard Lutnick Faces Questions From Congress About Epstein Ties",
+          "link": "https://www.nytimes.com/2026/05/06/business/economy/howard-lutnick-jeffrey-epstein-house-oversight.html",
+          "content": "The commerce secretary was in a closed-door session on Wednesday with the House Oversight Committee"
         },
         {
-          "title": "A 22,000-Home Community Is Being Built in a 5,000-Person Town",
-          "link": "https://www.nytimes.com/2026/05/04/business/pittsboro-north-carolina-master-planned-development.html",
-          "content": "Chatham Park, a master-planned community in Pittsboro, N.C., is expected to expand the town to 60,000 people when completed."
+          "title": "Inside the Debate About Adding Stocks to Trump Accounts ",
+          "link": "https://www.nytimes.com/2026/05/06/business/dealbook/stocks-trump-accounts.html",
+          "content": "Trump administration officials are weighing a plan that would allow wealthy individuals to donate shares in their companies to the investment accounts."
         }
       ]
     }
