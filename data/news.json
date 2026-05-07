@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T15:25:00.099Z",
+  "generatedAt": "2026-05-07T15:25:59.003Z",
   "sources": [
     {
       "name": "Apple",
@@ -8,7 +8,7 @@
         {
           "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
           "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-          "content": "Apple has agreed to pay $250 million to settle a class-action lawsuit for overpromising the arrival of Siri's AI features."
+          "content": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
         },
         {
           "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft’s AI data center push is colliding with its clean power goals",
+          "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
+          "content": "The push for new data centers at Microsoft is putting its key clean power goals at risk."
+        },
+        {
           "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
           "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
           "content": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models"
@@ -45,11 +50,6 @@
           "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
           "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
           "content": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
-        },
-        {
-          "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-          "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-          "content": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87",
-          "link": "https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html",
-          "content": "As one of the most important figures in media history, he oversaw a vast cable empire of news, sports and entertainment channels."
+          "title": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
+          "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html",
+          "content": "The oil giant’s earnings in the first three months of the year were more than double the previous quarter’s and follow similarly strong results of European rivals."
         },
         {
-          "title": "Why Is Gas So Much More Expensive in Some States Than Others?",
-          "link": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html",
-          "content": "Shipping, taxes, competition and environmental regulations all play a part in the cost of gasoline. That can lead to stark differences in pump prices."
+          "title": "Why Investors Are Still Betting Big on Kalshi",
+          "link": "https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-funding-prediction-market.html",
+          "content": "The popular prediction market platform has just raised a new funding round that values it at $22 billion, double what it was worth in December."
         },
         {
-          "title": "Howard Lutnick Faces Questions From Congress About Epstein Ties",
-          "link": "https://www.nytimes.com/2026/05/06/business/economy/howard-lutnick-jeffrey-epstein-house-oversight.html",
-          "content": "The commerce secretary was in a closed-door session on Wednesday with the House Oversight Committee"
+          "title": "Kalshi, the Prediction Market, Raises $1 Billion at a $22 Billion Valuation",
+          "link": "https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-fundraise-22-billion.html",
+          "content": "The platform for betting on sports, politics, the weather and more has raised $1 billion and sees big financial firms as a key source of growth."
         },
         {
-          "title": "Inside the Debate About Adding Stocks to Trump Accounts ",
-          "link": "https://www.nytimes.com/2026/05/06/business/dealbook/stocks-trump-accounts.html",
-          "content": "Trump administration officials are weighing a plan that would allow wealthy individuals to donate shares in their companies to the investment accounts."
+          "title": "Fast-Food Sales Rise Despite Higher Gas Prices",
+          "link": "https://www.nytimes.com/2026/05/07/business/mcdonalds-earnings.html",
+          "content": "Fallout from the war in Iran didn’t dampen quarterly results at McDonald’s, Burger King and Taco Bell."
         }
       ]
     }
