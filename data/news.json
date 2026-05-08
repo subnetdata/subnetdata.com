@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T15:25:59.003Z",
+  "generatedAt": "2026-05-08T14:47:51.135Z",
   "sources": [
     {
       "name": "Apple",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Shell Reports Nearly $7 Billion Profit After Oil Prices Surged Amid U.S.-Iran War",
-          "link": "https://www.nytimes.com/2026/05/07/business/shell-profit-oil-iran-war.html",
-          "content": "The oil giant’s earnings in the first three months of the year were more than double the previous quarter’s and follow similarly strong results of European rivals."
+          "title": "Meta’s Embrace of A.I. Is Making Its Employees Miserable",
+          "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+          "content": "As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off."
         },
         {
-          "title": "Why Investors Are Still Betting Big on Kalshi",
-          "link": "https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-funding-prediction-market.html",
-          "content": "The popular prediction market platform has just raised a new funding round that values it at $22 billion, double what it was worth in December."
+          "title": "You May Be Owed a Tax Refund From the Covid Era",
+          "link": "https://www.nytimes.com/2026/05/08/your-money/tax-refund-penalties-pandemic.html",
+          "content": "A court ruling found that the I.R.S. shouldn’t have charged penalties and interest during the pandemic. But the government may appeal the decision."
         },
         {
-          "title": "Kalshi, the Prediction Market, Raises $1 Billion at a $22 Billion Valuation",
-          "link": "https://www.nytimes.com/2026/05/07/business/dealbook/kalshi-fundraise-22-billion.html",
-          "content": "The platform for betting on sports, politics, the weather and more has raised $1 billion and sees big financial firms as a key source of growth."
+          "title": "What’s Happened So Far at the Musk v. OpenAI Trial",
+          "link": "https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html",
+          "content": "Elon Musk’s court battle against OpenAI has laid bare tensions between the start-up's leaders and raised questions about the billionaire’s motivations."
         },
         {
-          "title": "Fast-Food Sales Rise Despite Higher Gas Prices",
-          "link": "https://www.nytimes.com/2026/05/07/business/mcdonalds-earnings.html",
-          "content": "Fallout from the war in Iran didn’t dampen quarterly results at McDonald’s, Burger King and Taco Bell."
+          "title": "Fed officials weigh stable jobs backdrop against rising inflation risks.",
+          "link": "https://www.nytimes.com/2026/05/08/business/economy/jobs-report-inflation-federal-reserve.html",
+          "content": "April’s report showed employers added more jobs than expected, supporting the central bank’s view that it can afford to hold interest rates steady."
         }
       ]
     }
