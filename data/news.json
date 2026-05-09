@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-08T14:47:51.135Z",
+  "generatedAt": "2026-05-09T14:14:56.091Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Intel’s comeback story is even wilder than it seems",
+          "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+          "content": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround."
+        },
         {
           "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
           "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
@@ -19,11 +24,6 @@
           "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
           "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
           "content": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business."
-        },
-        {
-          "title": "Apple was surprised by AI-driven demand for Macs",
-          "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-          "content": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Meta’s Embrace of A.I. Is Making Its Employees Miserable",
-          "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-          "content": "As it adapts to the artificial intelligence era, the company is pushing many of its 78,000 workers to use the technology, and preparing to lay some of them off."
+          "title": "All Those A.I. Note Takers? They’re Making Lawyers Very Nervous.",
+          "link": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+          "content": "A trendy productivity hack, A.I. note takers are capturing every joke and offhand comment in many meetings. They could also potentially waive attorney-client privilege."
         },
         {
-          "title": "You May Be Owed a Tax Refund From the Covid Era",
-          "link": "https://www.nytimes.com/2026/05/08/your-money/tax-refund-penalties-pandemic.html",
-          "content": "A court ruling found that the I.R.S. shouldn’t have charged penalties and interest during the pandemic. But the government may appeal the decision."
+          "title": "Frontier Jet Hits Person on Runway During Takeoff at Denver Airport",
+          "link": "https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html",
+          "content": "The plane reported an engine fire and aborted its takeoff. Those on board were safely evacuated."
         },
         {
-          "title": "What’s Happened So Far at the Musk v. OpenAI Trial",
-          "link": "https://www.nytimes.com/2026/05/08/business/dealbook/musk-openai-trial.html",
-          "content": "Elon Musk’s court battle against OpenAI has laid bare tensions between the start-up's leaders and raised questions about the billionaire’s motivations."
+          "title": "Which Trump Tariffs Are in Place, in the Works or Ruled Illegal",
+          "link": "https://www.nytimes.com/2026/05/09/business/economy/trump-tariff-timeline.html",
+          "content": "The president has reworked his tariffs repeatedly — sometimes because they have been declared illegal — with more updates still to come."
         },
         {
-          "title": "Fed officials weigh stable jobs backdrop against rising inflation risks.",
-          "link": "https://www.nytimes.com/2026/05/08/business/economy/jobs-report-inflation-federal-reserve.html",
-          "content": "April’s report showed employers added more jobs than expected, supporting the central bank’s view that it can afford to hold interest rates steady."
+          "title": "How ‘The View’ Landed at the Center of a Free Speech Battle",
+          "link": "https://www.nytimes.com/2026/05/09/business/media/the-view-fcc-trump.html",
+          "content": "The Trump administration’s focus on the show is testament to the enduring influence of an old-fashioned broadcast TV program started 29 years ago."
         }
       ]
     }
