@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-11T15:53:00.606Z",
+  "generatedAt": "2026-05-12T15:37:00.161Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
+          "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
+          "content": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless."
+        },
         {
           "title": "Intel’s comeback story is even wilder than it seems",
           "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
@@ -19,11 +24,6 @@
           "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
           "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
           "content": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks."
-        },
-        {
-          "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
-          "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-          "content": "Cook warned that Apple is facing supply-chain headwinds from RAMageddon that could impact its business."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Britain Will Nationalize Its Last Major Steel Mill, Prime Minister Says",
-          "link": "https://www.nytimes.com/2026/05/11/business/british-steel-nationalize-keir-starmer.html",
-          "content": "Keir Starmer, with thousands of jobs at stake, vowed to take full control of British Steel, a year after the government first intervened to keep its operations going."
+          "title": "What to know about the report.",
+          "link": "https://www.nytimes.com/live/2026/05/12/business/inflation-report-cpi/what-to-know-about-the-report",
+          "content": ""
         },
         {
-          "title": "Private Equity Lashes Out at New Research on Carried Interest",
-          "link": "https://www.nytimes.com/2026/05/11/business/dealbook/carried-interest-tax-private-equity.html",
-          "content": "Estimates by researchers at Yale found that closing the carried interest loophole could lead to billions more in tax revenues than previously estimated."
+          "title": "UK Bond Yields Rise With Starmer’s Future as Prime Minister in Doubt",
+          "link": "https://www.nytimes.com/2026/05/12/business/britain-bonds-gilts-keir-starmer.html",
+          "content": "The yields on British debt pushed higher as the country’s prime minister, Keir Starmer, confronted a rebellion from members of his party."
         },
         {
-          "title": "Dua Lipa Sues Samsung Over Use of Her Image on TV Packaging",
-          "link": "https://www.nytimes.com/2026/05/11/us/dua-lipa-samsung-lawsuit.html",
-          "content": "The pop star is suing the electronics giant for more than $15 million, accusing it of using her image without authorization."
+          "title": "Tomato Prices Soar as War, Tariffs and Weather Affect a Popular Crop",
+          "link": "https://www.nytimes.com/2026/05/12/business/inflation-tomatoes-prices.html",
+          "content": "Tomato prices surged nearly 40 percent in April, the Consumer Price Index showed."
         },
         {
-          "title": "NBC to Turn Wordle Into a TV Game Show, With Savannah Guthrie as Host",
-          "link": "https://www.nytimes.com/2026/05/11/business/media/wordle-nbc-savannah-guthrie.html",
-          "content": "The word puzzle published by The New York Times is the inspiration for a game show that will begin airing next year. Jimmy Fallon is a producer."
+          "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
+          "link": "https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html",
+          "content": "The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans."
         }
       ]
     }
