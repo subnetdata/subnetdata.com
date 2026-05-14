@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T15:40:14.394Z",
+  "generatedAt": "2026-05-14T15:14:44.053Z",
   "sources": [
     {
       "name": "Apple",
@@ -8,7 +8,7 @@
         {
           "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
           "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
-          "content": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn, and is attempting to extort the company."
+          "content": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn and is attempting to extort the company."
         },
         {
           "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Perfect Timing, Big Payouts: Insider Trading Red Flags Emerge on Polymarket",
-          "link": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
-          "content": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination."
+          "title": "Consumers Spent More in April Despite High Gas Prices",
+          "link": "https://www.nytimes.com/2026/05/14/business/retail-sales-consumer-spending-april.html",
+          "content": "Retail sales rose 0.5 percent despite higher prices for gas, food and other goods. But there are signs consumers are under some strain."
         },
         {
-          "title": "Fuel Prices Drive Sales of E.V.s, Just Not in the U.S.",
-          "link": "https://www.nytimes.com/2026/05/13/business/iran-gas-prices-electric-vehicles.html",
-          "content": "Electric vehicle sales have soared in Europe and much of the rest of the world, but Americans are still hesitant."
+          "title": "Trump Might Welcome Chinese Investment, but America Is Wary",
+          "link": "https://www.nytimes.com/2026/05/14/business/trump-china-xi-investment.html",
+          "content": "A pledge for more Chinese investment could face backlash given longstanding national security concerns in the United States."
         },
         {
-          "title": "With a Friend in Trump, the Tobacco Industry Secures a Lucrative Win",
-          "link": "https://www.nytimes.com/2026/05/13/us/trump-vapes-cigarettes-big-tobacco.html",
-          "content": "In a dispute over vapes, the president sided with tobacco companies that filled his groups’ coffers over his own F.D.A. commissioner, who resigned in protest."
+          "title": "The Met Will Expand by Merging With the Nearby Neue Galerie",
+          "link": "https://www.nytimes.com/2026/05/14/arts/design/met-museum-neue-galerie-merger-lauder.html",
+          "content": "Beginning in 2028, the Metropolitan Museum of Art will own the Neue’s Fifth Avenue home and the prestige collection of 20th-century Austrian and German art built by Ronald S. "
         },
         {
-          "title": "Wholesale Prices Jumped in April, in Latest Sign of War’s Economic Ripples",
-          "link": "https://www.nytimes.com/2026/05/13/business/ppi-inflation-report-wholesale-prices.html",
-          "content": "The Producer Price Index rose in April at its fastest pace in four years, government data showed, a day after consumer prices showed inflation was surging."
+          "title": "In Qatar, Energy Sector Damage Is Severe, and the Way Back Will Be Long",
+          "link": "https://www.nytimes.com/2026/05/14/business/qatar-lng-iran.html",
+          "content": "Iranian strikes and a blockade have paralyzed Qatar’s gas engine, creating a technical bottleneck likely to stall exports for years."
         }
       ]
     }
