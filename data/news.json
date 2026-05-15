@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-14T15:14:44.053Z",
+  "generatedAt": "2026-05-15T15:10:24.386Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
+          "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
+          "content": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows."
+        },
         {
           "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
           "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
@@ -19,11 +24,6 @@
           "title": "Intel’s comeback story is even wilder than it seems",
           "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
           "content": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround."
-        },
-        {
-          "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-          "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-          "content": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Consumers Spent More in April Despite High Gas Prices",
-          "link": "https://www.nytimes.com/2026/05/14/business/retail-sales-consumer-spending-april.html",
-          "content": "Retail sales rose 0.5 percent despite higher prices for gas, food and other goods. But there are signs consumers are under some strain."
+          "title": "Some Medicare Patients Can Now Get Free CBD",
+          "link": "https://www.nytimes.com/2026/05/15/health/medicare-cbd.html",
+          "content": "The Trump administration has authorized a test program to see if the cannabis compound can ease some symptoms and reduce health care costs among older patients."
         },
         {
-          "title": "Trump Might Welcome Chinese Investment, but America Is Wary",
-          "link": "https://www.nytimes.com/2026/05/14/business/trump-china-xi-investment.html",
-          "content": "A pledge for more Chinese investment could face backlash given longstanding national security concerns in the United States."
+          "title": "Starbucks to Layoff 300 Corporate Workers",
+          "link": "https://www.nytimes.com/2026/05/15/business/starbucks-layoffs-office-closures.html",
+          "content": "The company said it would close four regional offices and take a $400 million charge related to the changes."
         },
         {
-          "title": "The Met Will Expand by Merging With the Nearby Neue Galerie",
-          "link": "https://www.nytimes.com/2026/05/14/arts/design/met-museum-neue-galerie-merger-lauder.html",
-          "content": "Beginning in 2028, the Metropolitan Museum of Art will own the Neue’s Fifth Avenue home and the prestige collection of 20th-century Austrian and German art built by Ronald S. "
+          "title": "‘No Essay’ College Scholarships May Have Unseen Strings Attached",
+          "link": "https://www.nytimes.com/2026/05/15/your-money/no-essay-college-scholarships.html",
+          "content": "Unlike traditional financial aid, the prizes are awarded by random drawings. The websites, in turn, gain access to applicants’ personal information."
         },
         {
-          "title": "In Qatar, Energy Sector Damage Is Severe, and the Way Back Will Be Long",
-          "link": "https://www.nytimes.com/2026/05/14/business/qatar-lng-iran.html",
-          "content": "Iranian strikes and a blockade have paralyzed Qatar’s gas engine, creating a technical bottleneck likely to stall exports for years."
+          "title": "What Trump Gained, and Didn’t, From China",
+          "link": "https://www.nytimes.com/2026/05/15/business/dealbook/trump-china-summit-report-card.html",
+          "content": "President Trump is returning home from Beijing after a two-day summit that achieved a few deals but left investors and analysts underwhelmed."
         }
       ]
     }
