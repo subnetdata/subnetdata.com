@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-17T14:23:03.612Z",
+  "generatedAt": "2026-05-18T16:19:03.669Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s Siri revamp could include auto-deleting chats",
+          "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "content": "Privacy will be a major theme when Apple unveils a new version of Siri."
+        },
         {
           "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
           "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
@@ -19,11 +24,6 @@
           "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
           "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
           "content": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless."
-        },
-        {
-          "title": "Intel’s comeback story is even wilder than it seems",
-          "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-          "content": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Straus Family Creamery Issues Voluntary Ice Cream Recall",
-          "link": "https://www.nytimes.com/2026/05/17/health/ice-cream-recall-straus-family-creamery.html",
-          "content": "Straus Family Creamery asked customers to throw out some tubs sold in May across 17 states. No injuries have been reported, the company said."
+          "title": "Edmund Phelps, Who Upended the Way We View Inflation, Dies at 92",
+          "link": "https://www.nytimes.com/2026/05/18/business/economy/edmund-phelps-dead.html",
+          "content": "He won a Nobel in 2006 for challenging the conventional wisdom among economists that higher inflation was a necessary price to pay for low unemployment."
         },
         {
-          "title": "For Trump, Soaring Prices Test Voters’ Finances and Patience",
-          "link": "https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html",
-          "content": "Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring."
+          "title": "Shakira Is Found Not Guilty of Tax Fraud in Spain",
+          "link": "https://www.nytimes.com/2026/05/18/world/europe/shakira-tax-fraud-spain.html",
+          "content": "A Spanish court ruled that the pop star was not a tax resident of Spain in 2011 and ordered the country’s tax authorities to return tens of millions of dollars to her."
         },
         {
-          "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
-          "link": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
-          "content": "Iranian attacks have paralyzed Qatar’s vital gas exports and are stalling the tourism and business pivots that were intended to anchor its future growth."
+          "title": "Bobby Darin Musical Reaches a Rare Broadway Milestone: Profit",
+          "link": "https://www.nytimes.com/2026/05/18/theater/just-in-time-broadway-profit.html",
+          "content": "“Just in Time,” which for a year starred Jonathan Groff, is the first new musical from last season to make money for investors."
         },
         {
-          "title": "Senate Ruling Threatens Ballroom Funding in G.O.P. Budget Bill",
-          "link": "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html",
-          "content": "Democrats announced Saturday night that the Senate’s top parliamentary referee had determined that the $1 billion provision did not comply with budget rules."
+          "title": "The Villain of This Year’s Commencement Speeches: A.I.",
+          "link": "https://www.nytimes.com/2026/05/18/business/dealbook/university-commencement-speech-ai.html",
+          "content": "College students have interrupted graduation ceremonies to voice their fears about artificial intelligence. They’re not the only ones who are worried."
         }
       ]
     }
