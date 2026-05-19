@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-18T16:19:03.669Z",
+  "generatedAt": "2026-05-19T16:14:57.184Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple announces Apple Intelligence powered accessibility feature updates",
+          "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
+          "content": "Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes"
+        },
         {
           "title": "Apple’s Siri revamp could include auto-deleting chats",
           "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
@@ -19,11 +24,6 @@
           "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
           "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
           "content": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn and is attempting to extort the company."
-        },
-        {
-          "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-          "link": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-          "content": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+          "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+          "content": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late"
+        },
         {
           "title": "Microsoft’s AI data center push is colliding with its clean power goals",
           "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
@@ -45,11 +50,6 @@
           "title": "Musk v. Altman is just getting started",
           "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
           "content": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets a"
-        },
-        {
-          "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-          "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-          "content": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Edmund Phelps, Who Upended the Way We View Inflation, Dies at 92",
-          "link": "https://www.nytimes.com/2026/05/18/business/economy/edmund-phelps-dead.html",
-          "content": "He won a Nobel in 2006 for challenging the conventional wisdom among economists that higher inflation was a necessary price to pay for low unemployment."
+          "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
+          "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
+          "content": "NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities."
         },
         {
-          "title": "Shakira Is Found Not Guilty of Tax Fraud in Spain",
-          "link": "https://www.nytimes.com/2026/05/18/world/europe/shakira-tax-fraud-spain.html",
-          "content": "A Spanish court ruled that the pop star was not a tax resident of Spain in 2011 and ordered the country’s tax authorities to return tens of millions of dollars to her."
+          "title": "Amazon E-Bikes Take Root in Manhattan and Brooklyn",
+          "link": "https://www.nytimes.com/2026/05/19/business/amazon-cargo-bikes-delivery.html",
+          "content": "Small companies that handle the final delivery are relying on them to skirt New York City traffic. Amazon plans to try the bikes elsewhere, too."
         },
         {
-          "title": "Bobby Darin Musical Reaches a Rare Broadway Milestone: Profit",
-          "link": "https://www.nytimes.com/2026/05/18/theater/just-in-time-broadway-profit.html",
-          "content": "“Just in Time,” which for a year starred Jonathan Groff, is the first new musical from last season to make money for investors."
+          "title": "China Wants A.I. to Flourish, but Not at the Expense of Jobs",
+          "link": "https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html",
+          "content": "A series of precedent-setting rulings signals that Chinese courts are being enlisted to shield workers from displacement by artificial intelligence."
         },
         {
-          "title": "The Villain of This Year’s Commencement Speeches: A.I.",
-          "link": "https://www.nytimes.com/2026/05/18/business/dealbook/university-commencement-speech-ai.html",
-          "content": "College students have interrupted graduation ceremonies to voice their fears about artificial intelligence. They’re not the only ones who are worried."
+          "title": "Tesla’s Semi Truck could Jolt the Trucking Industry",
+          "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html",
+          "content": "California truckers have expressed strong interest in the Tesla Semi because it costs much less and can travel further on a charge than electric trucks sold by established man"
         }
       ]
     }
