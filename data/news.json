@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-19T16:14:57.184Z",
+  "generatedAt": "2026-05-20T16:21:43.170Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "Apple announces Apple Intelligence powered accessibility feature updates",
+          "title": "Apple announces Apple Intelligence-powered accessibility feature updates",
           "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
-          "content": "Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes"
+          "content": "Apple announced several new accessibility updates to features like VoiceOver, voice control, live recognition, and real-time caption generation for videos that will be powered"
         },
         {
           "title": "Apple’s Siri revamp could include auto-deleting chats",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "GitHub says hackers stole data from thousands of internal repositories",
+          "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
+          "content": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft."
+        },
+        {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
           "content": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late"
@@ -45,11 +50,6 @@
           "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
           "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
           "content": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models"
-        },
-        {
-          "title": "Musk v. Altman is just getting started",
-          "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-          "content": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets a"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
-          "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
-          "content": "NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities."
+          "title": "Barney Frank, Gay Pioneer and Liberal Stalwart in Congress, Dies at 86",
+          "link": "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html",
+          "content": "Often voted the “brainiest,” “funniest” and “most eloquent” member of the House, he was also the first to come out voluntarily and helped normalize being openly gay in public "
         },
         {
-          "title": "Amazon E-Bikes Take Root in Manhattan and Brooklyn",
-          "link": "https://www.nytimes.com/2026/05/19/business/amazon-cargo-bikes-delivery.html",
-          "content": "Small companies that handle the final delivery are relying on them to skirt New York City traffic. Amazon plans to try the bikes elsewhere, too."
+          "title": "They Graduated Into the ‘Bleakest Job Market.’ Now It’s Their Children’s Turn.",
+          "link": "https://www.nytimes.com/2026/05/20/business/economy/1991-graduates-job-hunting-advice-children.html",
+          "content": "The New York Times profiled young job seekers in 1991. Today, their own children are entering a work force in flux."
         },
         {
-          "title": "China Wants A.I. to Flourish, but Not at the Expense of Jobs",
-          "link": "https://www.nytimes.com/2026/05/19/business/china-ai-unemployment.html",
-          "content": "A series of precedent-setting rulings signals that Chinese courts are being enlisted to shield workers from displacement by artificial intelligence."
+          "title": "James Murdoch Buys Half of Vox Media",
+          "link": "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html",
+          "content": "The media scion is buying Vox Media’s podcast network, New York magazine and Vox.com for more than $300 million."
         },
         {
-          "title": "Tesla’s Semi Truck could Jolt the Trucking Industry",
-          "link": "https://www.nytimes.com/2026/05/19/business/energy-environment/teslas-semi-truck.html",
-          "content": "California truckers have expressed strong interest in the Tesla Semi because it costs much less and can travel further on a charge than electric trucks sold by established man"
+          "title": "The Growing Anxiety Over AI, Jobs and the Future",
+          "link": "https://www.nytimes.com/2026/05/20/business/dealbook/ai-jobs-layoffs-meta.html",
+          "content": "Layoffs linked to artificial intelligence are rattling workers and college graduates, stoking concerns worldwide that are showing up in polls."
         }
       ]
     }
