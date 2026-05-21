@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T16:21:43.170Z",
+  "generatedAt": "2026-05-21T16:13:02.035Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,24 +32,24 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Scammers are abusing an internal Microsoft account to send spam links",
+          "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+          "content": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts."
+        },
+        {
+          "title": "Microsoft’s carbon-removal plans aren’t dead after all",
+          "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
+          "content": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fea"
+        },
+        {
           "title": "GitHub says hackers stole data from thousands of internal repositories",
           "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
-          "content": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft."
+          "content": "The code hosting giant GitHub said it was investigating a breach but said there was no evidence of customer data theft."
         },
         {
           "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
           "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
           "content": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late"
-        },
-        {
-          "title": "Microsoft’s AI data center push is colliding with its clean power goals",
-          "link": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
-          "content": "The push for new data centers at Microsoft is putting its key clean power goals at risk."
-        },
-        {
-          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-          "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-          "content": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Barney Frank, Gay Pioneer and Liberal Stalwart in Congress, Dies at 86",
-          "link": "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html",
-          "content": "Often voted the “brainiest,” “funniest” and “most eloquent” member of the House, he was also the first to come out voluntarily and helped normalize being openly gay in public "
+          "title": "French Court Says Air France and Airbus Are Guilty in 2009 Crash Case",
+          "link": "https://www.nytimes.com/2026/05/21/business/air-france-airbus-af447-guilty-verdict.html",
+          "content": "An appeals court in Paris said the airline and airplane manufacturer were guilty of involuntary manslaughter for their role in a plane crash over the Atlantic Ocean."
         },
         {
-          "title": "They Graduated Into the ‘Bleakest Job Market.’ Now It’s Their Children’s Turn.",
-          "link": "https://www.nytimes.com/2026/05/20/business/economy/1991-graduates-job-hunting-advice-children.html",
-          "content": "The New York Times profiled young job seekers in 1991. Today, their own children are entering a work force in flux."
+          "title": "2 Minnesota Autism Therapy Providers to Be Charged in $46 Million Medicaid Fraud Case",
+          "link": "https://www.nytimes.com/2026/05/21/us/politics/medicaid-fraud-minnesota-autism.html",
+          "content": "The Justice Department claims that clinics used fake diagnoses and kickbacks to parents to bring children into treatment."
         },
         {
-          "title": "James Murdoch Buys Half of Vox Media",
-          "link": "https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html",
-          "content": "The media scion is buying Vox Media’s podcast network, New York magazine and Vox.com for more than $300 million."
+          "title": "Trump Plans to Sign Executive Order Granting Oversight of A.I. Models",
+          "link": "https://www.nytimes.com/2026/05/21/technology/trump-ai-executive-order.html",
+          "content": "The executive order, which would signal a shift from the hands-off approach the White House previously took, follows debates over how to gain control over A.I. models without "
         },
         {
-          "title": "The Growing Anxiety Over AI, Jobs and the Future",
-          "link": "https://www.nytimes.com/2026/05/20/business/dealbook/ai-jobs-layoffs-meta.html",
-          "content": "Layoffs linked to artificial intelligence are rattling workers and college graduates, stoking concerns worldwide that are showing up in polls."
+          "title": "SpaceX, OpenAI and Anthropic Race to Go Public",
+          "link": "https://www.nytimes.com/2026/05/21/business/dealbook/spacex-openai-anthropic-ipo.html",
+          "content": "SpaceX, OpenAI, and Anthropic, giants of the artificial intelligence sector, are rushing to test investor appetite in the stock markets."
         }
       ]
     }
