@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-22T15:46:07.986Z",
+  "generatedAt": "2026-05-23T14:26:28.472Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+          "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+          "content": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees."
+        },
         {
           "title": "Apple announces Apple Intelligence-powered accessibility feature updates",
           "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
@@ -19,11 +24,6 @@
           "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
           "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
           "content": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows."
-        },
-        {
-          "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
-          "link": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/",
-          "content": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn and is attempting to extort the company."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "An Option That Can Help Cut Housing Prices Catches On",
-          "link": "https://www.nytimes.com/2026/05/22/your-money/preapproved-plans-houses-cost.html",
-          "content": "Preapproved plans trim weeks or months off the process of getting a building permit. “Every month of delay adds costs that ultimately land on the buyer,” one housing expert sa"
+          "title": "Should You Lend Money to Friends? More People Are Open to the Arrangement.",
+          "link": "https://www.nytimes.com/2026/05/23/business/loans-money-friends.html",
+          "content": "Friendship and money don’t always mix. But many Americans feel comfortable discussing financial issues with their friends and lending them money."
         },
         {
-          "title": "Giving Workers a Stake in A.I. Gains Traction",
-          "link": "https://www.nytimes.com/2026/05/22/business/dealbook/newsom-universal-basic-capital-ai.html",
-          "content": "Gov. Gavin Newsom of California has floated a policy idea that’s getting attention in Silicon Valley: let workers own a piece of technology disruption."
+          "title": "5 Takeaways From a Times Investigation on Autism Therapy Clinics",
+          "link": "https://www.nytimes.com/2026/05/23/health/autisim-clinics-investigation.html",
+          "content": "A rapidly growing industry often overprescribes treatment to young children with autism, who spend as many as 40 hours a week at the facilities."
         },
         {
-          "title": "Stocks Rise, Oil Prices Wobble on Impasse Over Reopening Strait of Hormuz",
-          "link": "https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html",
-          "content": "Nearly three months since the fighting began, disagreements remain over the fate of Iran’s uranium stockpile and transit fees for the Strait of Hormuz."
+          "title": "Short Naps, Long Hours: How Autism Clinics Squeeze Medicaid Dollars Out of Preschoolers",
+          "link": "https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html",
+          "content": "The industry has grown rapidly, straining state budgets. A focus on finances has led to overbilling, fraud and even harm."
         },
         {
-          "title": "StreetEasy’s ‘Reserve Your Future’ Is Taking Reservations for 2046",
-          "link": "https://www.nytimes.com/2026/05/22/dining/streeteasy-reserve-your-future.html",
-          "content": "To celebrate 20 years in business, a New York real-estate site is offering restaurant reservations two decades in the future, an unusual offer in a city of short shelf lives."
+          "title": "The Risks of Iran’s Threat to Control the Strait of Hormuz",
+          "link": "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html",
+          "content": "Iran is trying to assert its control over the strait by charging for passage. Experts say it is unlikely to happen, but the threat has unsettled the shipping industry."
         }
       ]
     }
