@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-23T14:26:28.472Z",
+  "generatedAt": "2026-05-24T14:21:34.413Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "These special phone and app features can help protect you from spyware",
+          "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+          "content": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and h"
+        },
         {
           "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
           "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
@@ -19,11 +24,6 @@
           "title": "Apple’s Siri revamp could include auto-deleting chats",
           "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
           "content": "Privacy will be a major theme when Apple unveils a new version of Siri."
-        },
-        {
-          "title": "Spotify to adopt Apple’s new video podcast tech, offering creators easier cross-platform distribution",
-          "link": "https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/",
-          "content": "Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple’s HLS streaming technology, without changing their existing workflows."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Should You Lend Money to Friends? More People Are Open to the Arrangement.",
-          "link": "https://www.nytimes.com/2026/05/23/business/loans-money-friends.html",
-          "content": "Friendship and money don’t always mix. But many Americans feel comfortable discussing financial issues with their friends and lending them money."
+          "title": "UK Institute Is Hunting for Dangers Lurking in AI",
+          "link": "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
+          "content": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks."
         },
         {
-          "title": "5 Takeaways From a Times Investigation on Autism Therapy Clinics",
-          "link": "https://www.nytimes.com/2026/05/23/health/autisim-clinics-investigation.html",
-          "content": "A rapidly growing industry often overprescribes treatment to young children with autism, who spend as many as 40 hours a week at the facilities."
+          "title": "To A.I. Executives, We’re All Just ‘Meat Computers’",
+          "link": "https://www.nytimes.com/2026/05/24/business/meat-computer-brain-artificial-intelligence.html",
+          "content": "A term first used in philosophy and cognitive science circles has lately taken on a more ominous cast. Moo."
         },
         {
-          "title": "Short Naps, Long Hours: How Autism Clinics Squeeze Medicaid Dollars Out of Preschoolers",
-          "link": "https://www.nytimes.com/2026/05/23/health/autism-therapy-clinics.html",
-          "content": "The industry has grown rapidly, straining state budgets. A focus on finances has led to overbilling, fraud and even harm."
+          "title": "In Homeless Crisis, California ‘Is Waging a War on R.V.s’",
+          "link": "https://www.nytimes.com/2026/05/24/us/california-homeless-cars-rvs.html",
+          "content": "The R.V.s are seen as an eyesore — the most visible sign of the state’s homelessness crisis. Neighbors and politicians want them gone. The people who call them home feel under"
         },
         {
-          "title": "The Risks of Iran’s Threat to Control the Strait of Hormuz",
-          "link": "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html",
-          "content": "Iran is trying to assert its control over the strait by charging for passage. Experts say it is unlikely to happen, but the threat has unsettled the shipping industry."
+          "title": "At an LA Costco, Skateboarding and Learning About Loss",
+          "link": "https://www.nytimes.com/2026/05/24/business/economy/costco-curbs-skateboarding-genx.html",
+          "content": "We’re all going to die. But first — just one more trick."
         }
       ]
     }
