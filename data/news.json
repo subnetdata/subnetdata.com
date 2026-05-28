@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-05-27T16:33:47.665Z",
+  "generatedAt": "2026-05-28T16:50:00.036Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+          "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+          "content": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app."
+        },
         {
           "title": "These special phone and app features can help protect you from spyware",
           "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
@@ -19,11 +24,6 @@
           "title": "Apple announces Apple Intelligence-powered accessibility feature updates",
           "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
           "content": "Apple announced several new accessibility updates to features like VoiceOver, voice control, live recognition, and real-time caption generation for videos that will be powered"
-        },
-        {
-          "title": "Apple’s Siri revamp could include auto-deleting chats",
-          "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-          "content": "Privacy will be a major theme when Apple unveils a new version of Siri."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "’60 Minutes’ Journalist Sharyn Alfonsi Loses Deal After Dispute With Bari Weiss",
-          "link": "https://www.nytimes.com/2026/05/27/business/media/cbs-sharyn-alfonsi-bari-weiss.html",
-          "content": "Sharyn Alfonsi, whose segment on a brutal Salvadoran prison was pulled abruptly in December, said that CBS News and its top editor, Bari Weiss, had let her contract expire."
+          "title": "Trump Refiles $10 Billion Lawsuit Against The Wall Street Journal",
+          "link": "https://www.nytimes.com/2026/05/28/business/media/trump-wsj-defamation-suit-10-billion.html",
+          "content": "An earlier version of the defamation suit, which focused on an article about a birthday note to Jeffrey Epstein, was dismissed by a judge."
         },
         {
-          "title": "Ferrari’s First Electric Car Runs Into Backlash in Italy and Beyond",
-          "link": "https://www.nytimes.com/2026/05/27/business/ferrari-luce-electric-ev-backlash.html",
-          "content": "Memes mocked the new model, analysts questioned its appeal and investors sold the automaker’s stock. A former Ferrari chairman warned of “the destruction of a legend.”"
+          "title": "Bari Weiss Names Nick Bilton to Lead CBS’s ’60 Minutes’",
+          "link": "https://www.nytimes.com/2026/05/28/business/media/nick-bilton-60-minutes-bari-weiss.html",
+          "content": "Mr. Bilton, a tech journalist and filmmaker, said he would bring new voices to the show. The overhaul by Bari Weiss, CBS’s editor in chief, included the firing of the correspo"
         },
         {
-          "title": "Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth",
-          "link": "https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html",
-          "content": "After three months, the fallout of the closure of the Strait of Hormuz is spreading, with developing countries bearing the brunt of the shortfall."
+          "title": "Fired BP Chair Manifold Rejects ‘Lies’ About His Ouster",
+          "link": "https://www.nytimes.com/2026/05/28/business/bp-chair-albert-manifold.html",
+          "content": "Albert Manifold, who was abruptly dismissed by the oil company this week, hit back in a new statement that admitted he “pushed hard” but never crossed a line."
         },
         {
-          "title": "BP’s Former Chairman, Albert Manifold, Disputes How Company Characterized His Dismissal",
-          "link": "https://www.nytimes.com/2026/05/27/business/bp-albert-manifold.html",
-          "content": "Albert Manifold, who was abruptly fired less than a year after he was appointed, said he was let go “without explanation.”"
+          "title": "Iran War Lifts a Second Inflation Reading to Highest Level Since 2023",
+          "link": "https://www.nytimes.com/2026/05/28/business/inflation-pce-gauge.html",
+          "content": "Officials at the central bank have embraced the possibility of higher interest rates to get resurgent inflation under control."
         }
       ]
     }
