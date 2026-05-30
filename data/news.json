@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T16:39:48.038Z",
+  "generatedAt": "2026-05-30T14:25:01.255Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft under fire for threatening security researcher with criminal investigation",
+          "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
+          "content": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software."
+        },
+        {
           "title": "Scammers are abusing an internal Microsoft account to send spam links",
           "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
           "content": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts."
@@ -45,11 +50,6 @@
           "title": "GitHub says hackers stole data from thousands of internal repositories",
           "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
           "content": "The code hosting giant GitHub said it was investigating a breach but said there was no evidence of customer data theft."
-        },
-        {
-          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-          "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "content": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "S.E.C. Proposes to Kill Climate Change Disclosure Rule",
-          "link": "https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html",
-          "content": "The regulation would have required all publicly traded companies to disclose whether they faced significant risks from climate change and its effects."
+          "title": "When War Breaks Out Over the Family Business, They Get the Call",
+          "link": "https://www.nytimes.com/2026/05/30/business/dealbook/family-business-counselors.html",
+          "content": "As baby boomers begin passing down trillions in assets, advisers who specialize in navigating the process — and the emotions around it — have never been busier."
         },
         {
-          "title": "As the SpaceX Hype Machine Steamrolls Ahead, Wall Street Jumps Aboard",
-          "link": "https://www.nytimes.com/2026/05/29/business/spacex-ipo-wall-street.html",
-          "content": "Elon Musk and his bankers are working to create a self-fulfilling prophecy for the massive public offering: Make investors feel that the risks of passing it up outweigh those "
+          "title": "How Your Friend Group Influences How You Spend and Save",
+          "link": "https://www.nytimes.com/2026/05/30/business/friends-spending-habits.html",
+          "content": "Our spending habits are often influenced by our social circles. You can help shape what it looks like."
         },
         {
-          "title": "Sky-High I.P.O. Pricing Isn’t Great for Real People",
-          "link": "https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html",
-          "content": "When newly public companies have been valued as richly as SpaceX, OpenAI and Anthropic seem likely to be, the outlook for ordinary investors has been poor."
+          "title": "Making Motherhood and a Long Tennis Career Possible",
+          "link": "https://www.nytimes.com/2026/05/30/business/tennis-wta-in-vitro-fertilization.html",
+          "content": "Tennis is a solitary sport, but with new fertility benefits, a sisterhood of egg freezers is emerging in locker rooms and players’ lounges."
         },
         {
-          "title": "Inside the Room Where War Insurance Is Bought and Sold",
-          "link": "https://www.nytimes.com/2026/05/29/business/strait-hormuz-shipping-insurance-iran.html",
-          "content": "Many of the ships stranded in the Persian Gulf depend on coverage negotiated at Lloyd’s, the center of marine insurance for more than 300 years."
+          "title": "China’s Rise in Drug Development Looms Over U.S.",
+          "link": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html",
+          "content": "Clinical trials in China are getting attention at an international oncology gathering in Chicago. China’s surging biotechnology industry is fueling alarm that U.S. dominance i"
         }
       ]
     }
