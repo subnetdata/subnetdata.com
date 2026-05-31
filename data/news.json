@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T14:25:01.255Z",
+  "generatedAt": "2026-05-31T14:27:08.417Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+          "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "content": "The golden age of Microsoft's Github Copilot appears to be at an end."
+        },
+        {
           "title": "Microsoft under fire for threatening security researcher with criminal investigation",
           "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
           "content": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software."
@@ -45,11 +50,6 @@
           "title": "Microsoft’s carbon-removal plans aren’t dead after all",
           "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
           "content": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fea"
-        },
-        {
-          "title": "GitHub says hackers stole data from thousands of internal repositories",
-          "link": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
-          "content": "The code hosting giant GitHub said it was investigating a breach but said there was no evidence of customer data theft."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "When War Breaks Out Over the Family Business, They Get the Call",
-          "link": "https://www.nytimes.com/2026/05/30/business/dealbook/family-business-counselors.html",
-          "content": "As baby boomers begin passing down trillions in assets, advisers who specialize in navigating the process — and the emotions around it — have never been busier."
+          "title": "Can the World Cup Help the U.S. Beer Industry Kick Its Slump?",
+          "link": "https://www.nytimes.com/2026/05/31/business/world-cup-beer.html",
+          "content": "Bars and stores are uncertain if the soccer tournament will boost beer sales. Still, the maker of Budweiser and Michelob Ultra is going all in."
         },
         {
-          "title": "How Your Friend Group Influences How You Spend and Save",
-          "link": "https://www.nytimes.com/2026/05/30/business/friends-spending-habits.html",
-          "content": "Our spending habits are often influenced by our social circles. You can help shape what it looks like."
+          "title": "What Is Airbnb For, Exactly?",
+          "link": "https://www.nytimes.com/2026/05/31/business/airbnb-brian-chesky.html",
+          "content": "The home-sharing app recently added car rentals, groceries and — perhaps most surprisingly — hotels. Brian Chesky, the co-founder and chief executive, is always thinking about"
         },
         {
-          "title": "Making Motherhood and a Long Tennis Career Possible",
-          "link": "https://www.nytimes.com/2026/05/30/business/tennis-wta-in-vitro-fertilization.html",
-          "content": "Tennis is a solitary sport, but with new fertility benefits, a sisterhood of egg freezers is emerging in locker rooms and players’ lounges."
+          "title": "Is This the Future of Air Travel?",
+          "link": "https://www.nytimes.com/video/business/100000010859133/is-this-the-future-of-air-travel.html",
+          "content": "A new all-electric aircraft made a test flight in New York City. Our transportation reporter Niraj Chokshi describes what to know."
         },
         {
-          "title": "China’s Rise in Drug Development Looms Over U.S.",
-          "link": "https://www.nytimes.com/2026/05/30/business/china-lung-cancer-drugs-asco.html",
-          "content": "Clinical trials in China are getting attention at an international oncology gathering in Chicago. China’s surging biotechnology industry is fueling alarm that U.S. dominance i"
+          "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
+          "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
+          "content": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can"
         }
       ]
     }
