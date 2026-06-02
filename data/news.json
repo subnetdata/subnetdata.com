@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-01T18:33:53.183Z",
+  "generatedAt": "2026-06-02T17:15:22.815Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
+          "link": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
+          "content": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market."
+        },
         {
           "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
           "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
@@ -19,11 +24,6 @@
           "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
           "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
           "content": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees."
-        },
-        {
-          "title": "Apple announces Apple Intelligence-powered accessibility feature updates",
-          "link": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
-          "content": "Apple announced several new accessibility updates to features like VoiceOver, voice control, live recognition, and real-time caption generation for videos that will be powered"
         }
       ]
     },
@@ -32,9 +32,14 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
-          "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+          "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "content": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big."
+        },
+        {
+          "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
           "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-          "content": "The golden age of Microsoft's Github Copilot appears to be at an end."
+          "content": "The golden age of Microsoft's GitHub Copilot appears to be at an end."
         },
         {
           "title": "Microsoft under fire for threatening security researcher with criminal investigation",
@@ -45,11 +50,6 @@
           "title": "Scammers are abusing an internal Microsoft account to send spam links",
           "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
           "content": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts."
-        },
-        {
-          "title": "Microsoft’s carbon-removal plans aren’t dead after all",
-          "link": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
-          "content": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fea"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’",
-          "link": "https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html",
-          "content": "In an explosive staff meeting, Mr. Pelley, a correspondent for the long-running Sunday news show, blasted Bari Weiss, the CBS editor in chief, and Nick Bilton, the show’s new "
+          "title": "MSC Ship Is Struck by Two Projectiles in Iraqi Port",
+          "link": "https://www.nytimes.com/2026/06/02/business/msc-iraq-port-iran-war.html",
+          "content": "The attack on the vessel, owned by the Mediterranean Shipping Company, underlines the threat to ships even as the U.S. and Iran try to negotiate reopening the Strait of Hormuz"
         },
         {
-          "title": "Tribeca Festival 25th Anniversary: An Interview With Robert De Niro, Jane Rosenthal, Rebecca Glashow",
-          "link": "https://www.nytimes.com/2026/06/01/movies/tribeca-festival-25-deniro-rosenthal-glashow.html",
-          "content": "Robert De Niro and Jane Rosenthal, who founded the event, and Rebecca Glashow, the new leader of Tribeca Enterprises, reflected on the festival’s legacy and ambitions."
+          "title": "Stephen Curry and Li-Ning: What to Know About N.B.A. Star’s Deal With Chinese Sneaker Company",
+          "link": "https://www.nytimes.com/2026/06/02/world/asia/stephen-curry-li-ning-shoe-deal-china.html",
+          "content": "The agreement, which includes plans for sportswear and athleisure products, and stores across the United States and China, is the latest example of an N.B.A. star signing with"
         },
         {
-          "title": "Barry Diller’s People Inc. Plans a Takeover Bid for MGM Resorts",
-          "link": "https://www.nytimes.com/2026/06/01/business/dealbook/diller-people-mgm-resorts.html",
-          "content": "The mogul’s People Inc. is preparing an offer to buy the portion of the casino giant that it doesn’t already own, at an $18 billion valuation."
+          "title": "New Proposal Would Allow Administration to Block Grants if They Don’t Support Trump’s Agenda",
+          "link": "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html",
+          "content": "A new proposal would allow the administration to block grants if they do not satisfy President Trump’s agenda or support what it calls “anti-American” values."
         },
         {
-          "title": "Chinese Military Sought Nvidia Chips for Years, Report Says",
-          "link": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
-          "content": "An analysis of six years of procurement records suggests that the People’s Liberation Army has openly tried to acquire restricted U.S. technology."
+          "title": "Trump Megadonor Gave $5.5 Million Estate to Robert F. Kennedy Jr.’s Anti-Vaccine Group",
+          "link": "https://www.nytimes.com/2026/06/02/business/economy/mellon-kennedy-childrens-health-defense.html",
+          "content": "A Mellon heir transferred the adjacent Connecticut properties, covering about 300 acres, at no cost to Children’s Health Defense last year."
         }
       ]
     }
