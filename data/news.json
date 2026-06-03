@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T17:15:22.815Z",
+  "generatedAt": "2026-06-03T17:57:46.678Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,24 +32,24 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+          "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+          "content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations."
+        },
+        {
+          "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+          "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+          "content": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system."
+        },
+        {
+          "title": "Microsoft offers devs a better way to control AI agent behavior",
+          "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+          "content": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files."
+        },
+        {
           "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
           "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
           "content": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big."
-        },
-        {
-          "title": "‘What a joke’: GitHub Copilot’s new token-based billing spurs consternation among devs",
-          "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-          "content": "The golden age of Microsoft's GitHub Copilot appears to be at an end."
-        },
-        {
-          "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-          "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-          "content": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software."
-        },
-        {
-          "title": "Scammers are abusing an internal Microsoft account to send spam links",
-          "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-          "content": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "MSC Ship Is Struck by Two Projectiles in Iraqi Port",
-          "link": "https://www.nytimes.com/2026/06/02/business/msc-iraq-port-iran-war.html",
-          "content": "The attack on the vessel, owned by the Mediterranean Shipping Company, underlines the threat to ships even as the U.S. and Iran try to negotiate reopening the Strait of Hormuz"
+          "title": "Trump Administration Turns to a New Rationale to Justify Old Tariffs",
+          "link": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html",
+          "content": "The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor is merely a pretext for protectionism."
         },
         {
-          "title": "Stephen Curry and Li-Ning: What to Know About N.B.A. Star’s Deal With Chinese Sneaker Company",
-          "link": "https://www.nytimes.com/2026/06/02/world/asia/stephen-curry-li-ning-shoe-deal-china.html",
-          "content": "The agreement, which includes plans for sportswear and athleisure products, and stores across the United States and China, is the latest example of an N.B.A. star signing with"
+          "title": "Trump Administration Fights Court Order to Refund Some Tariffs",
+          "link": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-refunds-court-order.html",
+          "content": "The administration has started to repay some of the money, but has signaled it may make it harder for certain businesses to claim the full amount they are owed."
         },
         {
-          "title": "New Proposal Would Allow Administration to Block Grants if They Don’t Support Trump’s Agenda",
-          "link": "https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html",
-          "content": "A new proposal would allow the administration to block grants if they do not satisfy President Trump’s agenda or support what it calls “anti-American” values."
+          "title": "Bari Weiss Speaks on Scott Pelley’s ’60 Minutes’ Firing: ‘That’s the Path That He Chose’",
+          "link": "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html",
+          "content": "In her first public comments on the firing, Ms. Weiss, the CBS News editor in chief, said that the longtime correspondent had “broken” the trust in the newsroom."
         },
         {
-          "title": "Trump Megadonor Gave $5.5 Million Estate to Robert F. Kennedy Jr.’s Anti-Vaccine Group",
-          "link": "https://www.nytimes.com/2026/06/02/business/economy/mellon-kennedy-childrens-health-defense.html",
-          "content": "A Mellon heir transferred the adjacent Connecticut properties, covering about 300 acres, at no cost to Children’s Health Defense last year."
+          "title": "European Union Outlines Plan to Reduce Dependence on American Tech",
+          "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
+          "content": "The 27-nation European Union outlined how it hopes to expand the region’s data centers, semiconductors and cloud computing capabilities."
         }
       ]
     }
