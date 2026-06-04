@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-03T17:57:46.678Z",
+  "generatedAt": "2026-06-04T16:18:08.805Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+          "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+          "content": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods."
+        },
         {
           "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
           "link": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
@@ -19,11 +24,6 @@
           "title": "These special phone and app features can help protect you from spyware",
           "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
           "content": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and h"
-        },
-        {
-          "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
-          "link": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
-          "content": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Trump Administration Turns to a New Rationale to Justify Old Tariffs",
-          "link": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-forced-labor.html",
-          "content": "The administration has settled on a more legally and politically durable way to impose tariffs, but some say the focus on forced labor is merely a pretext for protectionism."
+          "title": "Netflix’s New Movie Strategy: Fewer, Better Films",
+          "link": "https://www.nytimes.com/2026/06/04/business/media/dan-lin-netflix-hollywood.html",
+          "content": "Dan Lin doesn’t fawn over stars or write blank checks. And he still greenlights more movies than anyone."
         },
         {
-          "title": "Trump Administration Fights Court Order to Refund Some Tariffs",
-          "link": "https://www.nytimes.com/2026/06/03/business/economy/trump-tariffs-refunds-court-order.html",
-          "content": "The administration has started to repay some of the money, but has signaled it may make it harder for certain businesses to claim the full amount they are owed."
+          "title": "How LinkedIn Found Its Social Platform Era",
+          "link": "https://www.nytimes.com/2026/06/04/business/linkedin-social-media-influencers.html",
+          "content": "Celebrities and paid influencers have transformed the career-focused platform, which for some users, has become a job unto itself."
         },
         {
-          "title": "Bari Weiss Speaks on Scott Pelley’s ’60 Minutes’ Firing: ‘That’s the Path That He Chose’",
-          "link": "https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html",
-          "content": "In her first public comments on the firing, Ms. Weiss, the CBS News editor in chief, said that the longtime correspondent had “broken” the trust in the newsroom."
+          "title": "Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand",
+          "link": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html",
+          "content": "Gwynne Shotwell, the president and chief operating officer, is the adult-in-the-room foil to Mr. Musk as SpaceX prepares for a blockbuster initial public offering."
         },
         {
-          "title": "European Union Outlines Plan to Reduce Dependence on American Tech",
-          "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
-          "content": "The 27-nation European Union outlined how it hopes to expand the region’s data centers, semiconductors and cloud computing capabilities."
+          "title": "American Farms Rely More Than Ever on the Troubled H-2A Visa Program",
+          "link": "https://www.nytimes.com/2026/06/04/business/economy/farms-h2a-visas-migrant-workers.html",
+          "content": "The Trump administration is allowing in more agricultural guest workers under the H-2A program, but preventing abuses is proving difficult."
         }
       ]
     }
