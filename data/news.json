@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-06-04T16:18:08.805Z",
+  "generatedAt": "2026-06-05T15:49:17.479Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+          "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+          "content": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform."
+        },
+        {
+          "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+          "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "content": "Apple's WWDC nears: Here's what you can look forward to."
+        },
         {
           "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
           "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
@@ -14,16 +24,6 @@
           "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
           "link": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
           "content": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market."
-        },
-        {
-          "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-          "link": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-          "content": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app."
-        },
-        {
-          "title": "These special phone and app features can help protect you from spyware",
-          "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-          "content": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and h"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Netflix’s New Movie Strategy: Fewer, Better Films",
-          "link": "https://www.nytimes.com/2026/06/04/business/media/dan-lin-netflix-hollywood.html",
-          "content": "Dan Lin doesn’t fawn over stars or write blank checks. And he still greenlights more movies than anyone."
+          "title": "Flyover No More: Central Ohio Becomes Hub for Tech and Manufacturing",
+          "link": "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html",
+          "content": "Tech titans and Silicon Valley transplants changed the Columbus area, but not everyone is thrilled about the rapid transformation."
         },
         {
-          "title": "How LinkedIn Found Its Social Platform Era",
-          "link": "https://www.nytimes.com/2026/06/04/business/linkedin-social-media-influencers.html",
-          "content": "Celebrities and paid influencers have transformed the career-focused platform, which for some users, has become a job unto itself."
+          "title": "Elon Musk Dominates List of Highest Paid C.E.O.s",
+          "link": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html",
+          "content": "Executive compensation is accelerating while rank-and-file workers lag, widening the pay gap in corporate America."
         },
         {
-          "title": "Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand",
-          "link": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html",
-          "content": "Gwynne Shotwell, the president and chief operating officer, is the adult-in-the-room foil to Mr. Musk as SpaceX prepares for a blockbuster initial public offering."
+          "title": "White House rejoices over strong jobs report.",
+          "link": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report",
+          "content": "The stronger-than-expected report offers President Trump a talking point for the midterms, even as it also reduces the odds that the Federal Reserve may cut rates."
         },
         {
-          "title": "American Farms Rely More Than Ever on the Troubled H-2A Visa Program",
-          "link": "https://www.nytimes.com/2026/06/04/business/economy/farms-h2a-visas-migrant-workers.html",
-          "content": "The Trump administration is allowing in more agricultural guest workers under the H-2A program, but preventing abuses is proving difficult."
+          "title": "More Renters Are Using Tools to Skip Security Deposits, but There’s a Catch",
+          "link": "https://www.nytimes.com/2026/06/05/your-money/renting-security-deposit-alternatives.html",
+          "content": "Third-party services charge fees to help renters bypass some upfront costs of signing a lease. Unlike traditional deposits, the money won’t be returned to tenants."
         }
       ]
     }
