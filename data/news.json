@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T15:49:17.479Z",
+  "generatedAt": "2026-06-06T14:26:02.196Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
+          "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+          "content": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus."
+        },
+        {
           "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
           "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
           "content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations."
@@ -45,11 +50,6 @@
           "title": "Microsoft offers devs a better way to control AI agent behavior",
           "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
           "content": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files."
-        },
-        {
-          "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-          "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-          "content": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Flyover No More: Central Ohio Becomes Hub for Tech and Manufacturing",
-          "link": "https://www.nytimes.com/2026/06/05/business/ohio-tech-manufacturing-hub.html",
-          "content": "Tech titans and Silicon Valley transplants changed the Columbus area, but not everyone is thrilled about the rapid transformation."
+          "title": "Sorry, I’m Not Available. Talk to the A.I. Me.",
+          "link": "https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html",
+          "content": "The hot new productivity hack for C.E.O.s and Harvard professors? A.I. twins that answer questions and attend meetings."
         },
         {
-          "title": "Elon Musk Dominates List of Highest Paid C.E.O.s",
-          "link": "https://www.nytimes.com/2026/06/05/business/highest-paid-ceos-elon-musk.html",
-          "content": "Executive compensation is accelerating while rank-and-file workers lag, widening the pay gap in corporate America."
+          "title": "Screwworm Flies Add to Cattle Ranchers’ Woes",
+          "link": "https://www.nytimes.com/2026/06/06/business/screwworm-flies-drought-cattle.html",
+          "content": "Some Texans fear “the nightmares and the horrors” of a potential screwworm outbreak. Elsewhere, not enough grass to feed cattle sends them to market earlier."
         },
         {
-          "title": "White House rejoices over strong jobs report.",
-          "link": "https://www.nytimes.com/live/2026/business/jobs-report-economy/white-house-rejoices-over-strong-jobs-report",
-          "content": "The stronger-than-expected report offers President Trump a talking point for the midterms, even as it also reduces the odds that the Federal Reserve may cut rates."
+          "title": "‘60 Minutes’ Is a ‘Cage Full of Tigers.’ Can Nick Bilton Lead It?",
+          "link": "https://www.nytimes.com/2026/06/06/business/media/60-minutes-nick-bilton.html",
+          "content": "The tech journalist and filmmaker was a surprise choice to lead a famously combative newsroom. His first week was chaos."
         },
         {
-          "title": "More Renters Are Using Tools to Skip Security Deposits, but There’s a Catch",
-          "link": "https://www.nytimes.com/2026/06/05/your-money/renting-security-deposit-alternatives.html",
-          "content": "Third-party services charge fees to help renters bypass some upfront costs of signing a lease. Unlike traditional deposits, the money won’t be returned to tenants."
+          "title": "5 Tips to Start Managing Your Aging Parents’ Money",
+          "link": "https://www.nytimes.com/2026/06/06/business/retirement-managing-parents-money.html",
+          "content": "And one big mistake to avoid."
         }
       ]
     }
