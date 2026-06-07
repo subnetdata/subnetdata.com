@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-06T14:26:02.196Z",
+  "generatedAt": "2026-06-07T14:48:56.885Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+          "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+          "content": "Apple's WWDC nears: Here's what you can look forward to."
+        },
+        {
           "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
           "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
           "content": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform."
-        },
-        {
-          "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-          "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-          "content": "Apple's WWDC nears: Here's what you can look forward to."
         },
         {
           "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Sorry, I’m Not Available. Talk to the A.I. Me.",
-          "link": "https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html",
-          "content": "The hot new productivity hack for C.E.O.s and Harvard professors? A.I. twins that answer questions and attend meetings."
+          "title": "OPEC Plus to Boost Oil Production as Ceasefire in Iran Remains Elusive",
+          "link": "https://www.nytimes.com/2026/06/07/business/opec-oil-production-iran-war.html",
+          "content": "The cartel’s move to increase output by 188,000 barrels per day is largely symbolic, with vast amounts of the world’s oil stranded by the effective shutdown of the Strait of H"
         },
         {
-          "title": "Screwworm Flies Add to Cattle Ranchers’ Woes",
-          "link": "https://www.nytimes.com/2026/06/06/business/screwworm-flies-drought-cattle.html",
-          "content": "Some Texans fear “the nightmares and the horrors” of a potential screwworm outbreak. Elsewhere, not enough grass to feed cattle sends them to market earlier."
+          "title": "How People Working in Debt Collection Handle Abuse From Callers",
+          "link": "https://www.nytimes.com/2026/06/07/business/debt-collectors-jobs-abuse.html",
+          "content": "More Americans are taking on debt and falling behind on bills. The people calling them to collect often endure a torrent of verbal abuse and threats of violence."
         },
         {
-          "title": "‘60 Minutes’ Is a ‘Cage Full of Tigers.’ Can Nick Bilton Lead It?",
-          "link": "https://www.nytimes.com/2026/06/06/business/media/60-minutes-nick-bilton.html",
-          "content": "The tech journalist and filmmaker was a surprise choice to lead a famously combative newsroom. His first week was chaos."
+          "title": "My Boss Is a Manipulative Creep. What Can I Do?",
+          "link": "https://www.nytimes.com/2026/06/07/business/creep-boss-recruiter-unpaid-work.html",
+          "content": "Plus: How much unpaid work can a recruiter demand? And what on earth is that smell?"
         },
         {
-          "title": "5 Tips to Start Managing Your Aging Parents’ Money",
-          "link": "https://www.nytimes.com/2026/06/06/business/retirement-managing-parents-money.html",
-          "content": "And one big mistake to avoid."
+          "title": "Daughter of Mrs. Fields Starts Fields Good, a Healthy Cookie Brand",
+          "link": "https://www.nytimes.com/2026/06/07/business/mrs-fields-daughter-cookies.html",
+          "content": "Ashley Fields is a co-founder of Fields Good cookies. One variety contains protein, and others claim to boost brain performance or aid sleep."
         }
       ]
     }
