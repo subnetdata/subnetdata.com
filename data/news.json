@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-06-08T16:44:38.943Z",
+  "generatedAt": "2026-06-09T15:50:13.295Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
-          "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
-          "content": "Apple's WWDC nears: Here's what you can look forward to."
+          "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
+          "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+          "content": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users."
         },
         {
-          "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-          "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-          "content": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform."
+          "title": "iOS 27 features we didn’t see onstage",
+          "link": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
+          "content": "While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users."
         },
         {
-          "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
-          "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
-          "content": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods."
+          "title": "Apple brings streaming-style subscription bundles to the App Store ",
+          "link": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
+          "content": "Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages."
         },
         {
-          "title": "Apple’s MacBook Neo is winning over a new generation of buyers",
-          "link": "https://techcrunch.com/2026/06/02/apples-macbook-neo-is-winning-over-a-new-generation-of-buyers/",
-          "content": "The MacBook Neo shipped 1.1 million units in its first weeks on sale, IDC estimates, as Apple pushes deeper into the mainstream laptop market."
+          "title": "Apple’s App Store rolls out personalized recommendations",
+          "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
+          "content": "Apple will now recommend apps based on your downloads and behavior."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+          "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+          "content": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack."
+        },
         {
           "title": "Is this the dawn of the Tokenpocalypse?",
           "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
@@ -45,11 +50,6 @@
           "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
           "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
           "content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations."
-        },
-        {
-          "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-          "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-          "content": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How Banks Are Using the SpaceX IPO to Woo the Super Rich",
-          "link": "https://www.nytimes.com/2026/06/08/business/spacex-ipo-banks-wealth-management.html",
-          "content": "Wall Street is giving its richest clients velvet rope access to this week’s public listing of SpaceX, reflecting the growing importance of the wealth management business."
+          "title": "Billionaires’ Billions Are Increasing Faster Than Ever",
+          "link": "https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html",
+          "content": "Elon Musk’s potential new status as a trillionaire demonstrates in real time why there has been such a rapid rise in the concentration of wealth at the top."
         },
         {
-          "title": "The Iran War is Forcing Energy-Importing Countries to Turn Inward",
-          "link": "https://www.nytimes.com/2026/06/08/business/energy-environment/iran-war-energy-oil.html",
-          "content": "The Iran war is pushing countries to prioritize domestic energy in order to protect themselves from volatile oil and natural gas markets."
+          "title": "Dutch Authorities Block $115 Million Deal by a U.S. Tech Company",
+          "link": "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html",
+          "content": "The Netherlands blocked a U.S. company from buying a Dutch firm that handles its national ID system, saying it would create a “threat to the public interest.”"
         },
         {
-          "title": "Trump Eyes a Piece of A.I. Giants",
-          "link": "https://www.nytimes.com/2026/06/08/business/dealbook/trump-ai-stakes.html",
-          "content": "The president has publicly weighed the government taking stakes in artificial intelligence giants, as his position on regulating the industry shifts."
+          "title": "Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe",
+          "link": "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
+          "content": "A regulatory dispute has indefinitely delayed the release of Siri AI."
         },
         {
-          "title": "Europe Watches Its Economic Recovery Fade Into the Distance",
-          "link": "https://www.nytimes.com/2026/06/08/business/europe-inflation-iran-war.html",
-          "content": "As the war in Iran persists, signs point to a prolonged period of higher prices and slower growth rather than a quick shock."
+          "title": "U.S. Exports Rose in April, as War with Iran Buoyed Oil Demand",
+          "link": "https://www.nytimes.com/2026/06/09/business/economy/us-trade-deficit-oil-iran.html",
+          "content": "Commerce Department data showed exports rose in April, slightly outpacing the growth in imports."
         }
       ]
     }
