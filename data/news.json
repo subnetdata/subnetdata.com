@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-06-09T15:50:13.295Z",
+  "generatedAt": "2026-06-10T16:30:05.850Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Hey, Siri, here’s what I actually want from AI",
+          "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+          "content": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
+        },
+        {
+          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+          "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "content": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI."
+        },
+        {
+          "title": "Apple’s foldable iPhone could be just around the corner",
+          "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
+          "content": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device."
+        },
+        {
           "title": "Apple says it may remove some apps from the App Store if they don’t attract users",
           "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
           "content": "Apple may begin removing existing apps that it considers stale, low-value, or unable to attract users."
-        },
-        {
-          "title": "iOS 27 features we didn’t see onstage",
-          "link": "https://techcrunch.com/2026/06/09/ios-27-features-we-didnt-see-on-stage/",
-          "content": "While iOS 27 isn't bringing major changes, it's still got many small features that could improve everyday usage for iPhone users."
-        },
-        {
-          "title": "Apple brings streaming-style subscription bundles to the App Store ",
-          "link": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
-          "content": "Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages."
-        },
-        {
-          "title": "Apple’s App Store rolls out personalized recommendations",
-          "link": "https://techcrunch.com/2026/06/09/apples-app-store-rolls-out-personalized-recommendations/",
-          "content": "Apple will now recommend apps based on your downloads and behavior."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Billionaires’ Billions Are Increasing Faster Than Ever",
-          "link": "https://www.nytimes.com/2026/06/09/business/economy/billionaires-musk-gabriel-zucman.html",
-          "content": "Elon Musk’s potential new status as a trillionaire demonstrates in real time why there has been such a rapid rise in the concentration of wealth at the top."
+          "title": "What to know about the report.",
+          "link": "https://www.nytimes.com/live/2026/06/10/business/inflation-report-cpi/what-to-know-about-the-report",
+          "content": ""
         },
         {
-          "title": "Dutch Authorities Block $115 Million Deal by a U.S. Tech Company",
-          "link": "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html",
-          "content": "The Netherlands blocked a U.S. company from buying a Dutch firm that handles its national ID system, saying it would create a “threat to the public interest.”"
+          "title": "Investors Feed A.I. Firms’ Voracious Appetite for New Money",
+          "link": "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html",
+          "content": "In the race to dominate the artificial intelligence industry, companies like SpaceX and Alphabet are borrowing cash and raising equity from investors at the fastest pace in de"
         },
         {
-          "title": "Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe",
-          "link": "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
-          "content": "A regulatory dispute has indefinitely delayed the release of Siri AI."
+          "title": "SpaceX’s IPO Will Turn 4,400 Employees Into Millionaires",
+          "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
+          "content": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to the change the lives of its current and former employees, too."
         },
         {
-          "title": "U.S. Exports Rose in April, as War with Iran Buoyed Oil Demand",
-          "link": "https://www.nytimes.com/2026/06/09/business/economy/us-trade-deficit-oil-iran.html",
-          "content": "Commerce Department data showed exports rose in April, slightly outpacing the growth in imports."
+          "title": "Latest Inflation Data Shows Airline Ticket Prices Up 27% From Last Year",
+          "link": "https://www.nytimes.com/2026/06/10/business/economy/americans-travel-expensive.html",
+          "content": "Airfares shot up 27 percent from a year earlier in the latest inflation data."
         }
       ]
     }
