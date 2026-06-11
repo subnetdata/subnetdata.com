@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T16:30:05.850Z",
+  "generatedAt": "2026-06-11T16:47:16.545Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
+          "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+          "content": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures."
+        },
+        {
           "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
           "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
           "content": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack."
@@ -45,11 +50,6 @@
           "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manas",
           "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
           "content": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus."
-        },
-        {
-          "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-          "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-          "content": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "What to know about the report.",
-          "link": "https://www.nytimes.com/live/2026/06/10/business/inflation-report-cpi/what-to-know-about-the-report",
-          "content": ""
+          "title": "Boston Symphony in Crisis Over Dismissal of Andris Nelsons",
+          "link": "https://www.nytimes.com/2026/06/11/arts/music/boston-symphony-andris-nelsons-chad-smith.html",
+          "content": "Chad Smith, the orchestra’s president, admitted missteps in terminating Andris Nelsons’s contract but stood by the decision and won’t step down."
         },
         {
-          "title": "Investors Feed A.I. Firms’ Voracious Appetite for New Money",
-          "link": "https://www.nytimes.com/2026/06/10/business/investors-artificial-intelligence.html",
-          "content": "In the race to dominate the artificial intelligence industry, companies like SpaceX and Alphabet are borrowing cash and raising equity from investors at the fastest pace in de"
+          "title": "The Joy of Missing Out on SpaceX’s I.P.O.",
+          "link": "https://www.nytimes.com/2026/06/11/business/spacex-ipo-investing.html",
+          "content": "You’re not important or lucky enough to have access to shares at the offering price, and that’s OK. Here’s why."
         },
         {
-          "title": "SpaceX’s IPO Will Turn 4,400 Employees Into Millionaires",
-          "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
-          "content": "While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to the change the lives of its current and former employees, too."
+          "title": "Can’t Pay Medical Bills? Trump Administration Suggests Getting a Loan",
+          "link": "https://www.nytimes.com/2026/06/11/business/aca-health-care-costs-medical-debt.html",
+          "content": "One-third of Americans shoulder health care debt. Insurers are being asked to consider lending money to Obamacare consumers who can’t afford higher deductibles."
         },
         {
-          "title": "Latest Inflation Data Shows Airline Ticket Prices Up 27% From Last Year",
-          "link": "https://www.nytimes.com/2026/06/10/business/economy/americans-travel-expensive.html",
-          "content": "Airfares shot up 27 percent from a year earlier in the latest inflation data."
+          "title": "World Bank Warns Iran War Is Slowing Global Growth",
+          "link": "https://www.nytimes.com/2026/06/11/business/economy/globa-economy-iran-war.html",
+          "content": "The world economy is weakening as energy prices fuel a new bout of inflation."
         }
       ]
     }
