@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-16T17:59:09.575Z",
+  "generatedAt": "2026-06-17T16:33:48.579Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
+          "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
+          "content": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain."
+        },
         {
           "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
           "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
@@ -19,11 +24,6 @@
           "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
           "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
           "content": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI."
-        },
-        {
-          "title": "Apple’s foldable iPhone could be just around the corner",
-          "link": "https://techcrunch.com/2026/06/09/apples-foldable-iphone-could-be-just-around-the-corner/",
-          "content": "The iOS 27 developer beta includes code that references the fold state and screen angle of a device."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "SpaceX Is Now More Valuable Than Amazon, Meta and Many Others",
-          "link": "https://www.nytimes.com/2026/06/16/business/spacex-market-value-ranking.html",
-          "content": "In its first few days of trading, Elon Musk’s newly listed rocket maker has vaulted into the world’s top five most valuable companies."
+          "title": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
+          "link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
+          "content": "Some shareholders might object, but there is little they could do, legal experts say."
         },
         {
-          "title": "Best-Selling Memoirist Sues Classmate Who Said She Used Her Story",
-          "link": "https://www.nytimes.com/2026/06/16/nyregion/amy-griffin-the-tell-book-lawsuit.html",
-          "content": "Amy Griffin contended that she was defamed when a former classmate accused her in a lawsuit of appropriating parts of her story of being sexually abused for “The Tell.”"
+          "title": "How to read the Fed’s projections like a pro.",
+          "link": "https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/how-to-read-the-feds-projections-like-a-pro",
+          "content": ""
         },
         {
-          "title": "Pizza Hut Sold to Two Firms for $2.7 Billion",
-          "link": "https://www.nytimes.com/2026/06/16/business/pizza-hut-yum-brands-sold.html",
-          "content": "Yum China will acquire Pizza Hut’s locations in mainland China. The private equity firm LongRange Capital will buy its locations in the United States and elsewhere."
+          "title": "Political Spotlight Shines on Warsh for His First Fed Meeting as Chairman",
+          "link": "https://www.nytimes.com/2026/06/17/business/economy/political-spotlight-shines-on-warsh-for-his-first-fed-meeting-as-chair.html",
+          "content": "The new Fed chairman is bound to face the unyielding attention of the president that nominated him."
         },
         {
-          "title": "War Hangs Over American Farmers as Fertilizer Prices Rise",
-          "link": "https://www.nytimes.com/2026/06/16/business/fertilizer-farming-iran.html",
-          "content": "The Iran war and lower crop prices have hurt makers of sulfur-based supplements. But farmers won’t skip nitrogen-based fertilizers, no matter the cost."
+          "title": "Who is Kevin Warsh, the Fed’s new chairman?",
+          "link": "https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/who-is-kevin-warsh-the-feds-new-chairman",
+          "content": "Mr. Warsh will make his public debut as the Federal Reserve’s chairman on Wednesday."
         }
       ]
     }
