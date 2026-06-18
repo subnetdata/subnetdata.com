@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-06-17T16:33:48.579Z",
+  "generatedAt": "2026-06-18T16:22:49.273Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple opens up App Store to new competition in Brazil",
+          "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
+          "content": "Apple’s grip on iPhone app distribution is loosening in another major market: Brazil."
+        },
+        {
+          "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
+          "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
+          "content": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\""
+        },
         {
           "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
           "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
@@ -14,16 +24,6 @@
           "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
           "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
           "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
-        },
-        {
-          "title": "Hey, Siri, here’s what I actually want from AI",
-          "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-          "content": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
-        },
-        {
-          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-          "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-          "content": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla",
-          "link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
-          "content": "Some shareholders might object, but there is little they could do, legal experts say."
+          "title": "Warsh Wants the Fed to Send Fewer Signals. That Comes With Risks.",
+          "link": "https://www.nytimes.com/2026/06/18/business/federal-reserve-warsh-interest-rates.html",
+          "content": "Investors piled on bets for higher borrowing costs after Kevin Warsh opted against providing policy guidance at his first meeting as Federal Reserve chairman."
         },
         {
-          "title": "How to read the Fed’s projections like a pro.",
-          "link": "https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/how-to-read-the-feds-projections-like-a-pro",
-          "content": ""
+          "title": "Warsh’s Hawkish Turn Has Scrambled the Math on Rates",
+          "link": "https://www.nytimes.com/2026/06/18/business/dealbook/warsh-fed-rates.html",
+          "content": "The futures market now sees at least one interest rate increase this year, as the Federal Reserve’s new leader, Kevin Warsh, vows to fight inflation."
         },
         {
-          "title": "Political Spotlight Shines on Warsh for His First Fed Meeting as Chairman",
-          "link": "https://www.nytimes.com/2026/06/17/business/economy/political-spotlight-shines-on-warsh-for-his-first-fed-meeting-as-chair.html",
-          "content": "The new Fed chairman is bound to face the unyielding attention of the president that nominated him."
+          "title": "Inflation Will Linger Despite U.S.-Iran Deal, British Officials Warn",
+          "link": "https://www.nytimes.com/2026/06/18/business/uk-inflation-bank-of-england.html",
+          "content": "Bank of England policymakers kept interest rates on hold, saying the impact of the war in Iran was still a major source of uncertainty for the economy."
         },
         {
-          "title": "Who is Kevin Warsh, the Fed’s new chairman?",
-          "link": "https://www.nytimes.com/live/2026/06/17/business/fed-meeting-warsh-interest-rates/who-is-kevin-warsh-the-feds-new-chairman",
-          "content": "Mr. Warsh will make his public debut as the Federal Reserve’s chairman on Wednesday."
+          "title": "As India Temporarily Bans Telegram, Which Other Countries Have Restricted the Messaging App?",
+          "link": "https://www.nytimes.com/2026/06/18/technology/telegram-ban-india.html",
+          "content": "Several countries have restricted the messaging app, a valuable platform for dissidents, criminals and extremists. Here’s an overview."
         }
       ]
     }
