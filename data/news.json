@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-19T15:57:40.913Z",
+  "generatedAt": "2026-06-20T15:00:58.163Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Every new iOS 27 feature that’s worth knowing about",
+          "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+          "content": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at."
+        },
         {
           "title": "Apple opens up App Store to new competition in Brazil",
           "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
@@ -19,11 +24,6 @@
           "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
           "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
           "content": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain."
-        },
-        {
-          "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
-          "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-          "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "For India, the Return of Iranian Oil Cannot Come Soon Enough",
-          "link": "https://www.nytimes.com/2026/06/19/business/india-iran-oil-imports.html",
-          "content": "After months of shortages and uncertainty, India sees an opportunity to restore a once-crucial energy relationship."
+          "title": "Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound",
+          "link": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html",
+          "content": "More oil is getting out of the Persian Gulf, but the region’s producers are looking for signs that it is safe as they ramp up plans for alternative routes."
         },
         {
-          "title": "Rates on New Student Loans Will Rise on July 1",
-          "link": "https://www.nytimes.com/2026/06/19/your-money/student-loans-interest-rates-changes.html",
-          "content": "Higher interest rates take effect on July 1 for the next school year. Borrowers are already dealing with rising college costs and inflation elsewhere."
+          "title": "Egg Prices Are Way Down, but That’s Hurting Farmers",
+          "link": "https://www.nytimes.com/2026/06/20/business/egg-prices-down.html",
+          "content": "An oversupply of hens has lowered wholesale egg prices. But consumers may not reap the full benefits because of producer contracts and higher costs."
         },
         {
-          "title": "Oil Prices Wobble as U.S.-Iran Deal Faces Tests",
-          "link": "https://www.nytimes.com/2026/06/19/business/oil-gas-prices-iran.html",
-          "content": "Oil remains on track for a second straight weekly decline, but signs of cracks in the agreement to end the war have given traders pause."
+          "title": "The Giant Test Kitchen Where Cooks Battle A.I. Slop",
+          "link": "https://www.nytimes.com/2026/06/20/business/media/people-inc-ai-test-kitchen.html",
+          "content": "People Inc., the home of Food & Wine and Southern Living, publishes more food content than anyone else. It’s pushing back against the bots with recipes from its culinary hub."
         },
         {
-          "title": "In a Still Turbulent Strait of Hormuz, Stranded Ships Wait for Clarity",
-          "link": "https://www.nytimes.com/2026/06/19/business/iran-us-hormuz-shipping.html",
-          "content": "Shipping companies had hoped to get their stranded vessels out, but faced uncertainty as violence flared again in the region."
+          "title": "Cottage Cheese Shortages Are Driven by TikTok and ‘Protein-Maxxing’",
+          "link": "https://www.nytimes.com/2026/06/20/business/cottage-cheese-shortage.html",
+          "content": "TikTok and “protein-maxxing” are driving a cottage cheese squeeze that’s left some consumers desperate."
         }
       ]
     }
