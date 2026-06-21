@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-20T15:00:58.163Z",
+  "generatedAt": "2026-06-21T15:08:35.453Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+          "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "content": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+        },
         {
           "title": "Every new iOS 27 feature that’s worth knowing about",
           "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
@@ -19,11 +24,6 @@
           "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
           "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
           "content": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\""
-        },
-        {
-          "title": "Apple plans to change its Hide My Email privacy feature that could make it less effective",
-          "link": "https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/",
-          "content": "In the coming weeks, Apple will move anonymously generated emails addresses to a different domain."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Mines, Logistics and Deep Uncertainty Threaten a Middle East Oil Rebound",
-          "link": "https://www.nytimes.com/2026/06/20/business/iran-us-persian-gulf-oil-production.html",
-          "content": "More oil is getting out of the Persian Gulf, but the region’s producers are looking for signs that it is safe as they ramp up plans for alternative routes."
+          "title": "While the World Scrambles for Oil, China Sits on Full Tanks",
+          "link": "https://www.nytimes.com/2026/06/21/business/china-oil-iran.html",
+          "content": "The possible reopening of the Strait of Hormuz may not prompt China to return quickly to prewar levels of oil purchases from the Persian Gulf."
         },
         {
-          "title": "Egg Prices Are Way Down, but That’s Hurting Farmers",
-          "link": "https://www.nytimes.com/2026/06/20/business/egg-prices-down.html",
-          "content": "An oversupply of hens has lowered wholesale egg prices. But consumers may not reap the full benefits because of producer contracts and higher costs."
+          "title": "When a Job Goes From Dreamy to Dreary",
+          "link": "https://www.nytimes.com/2026/06/21/business/when-a-job-goes-from-dreamy-to-dreary.html",
+          "content": "Plus, should I follow through on complaints about one workplace after I’ve moved on to another?"
         },
         {
-          "title": "The Giant Test Kitchen Where Cooks Battle A.I. Slop",
-          "link": "https://www.nytimes.com/2026/06/20/business/media/people-inc-ai-test-kitchen.html",
-          "content": "People Inc., the home of Food & Wine and Southern Living, publishes more food content than anyone else. It’s pushing back against the bots with recipes from its culinary hub."
+          "title": "Is Your Vibe ‘High-Signal’ or ‘Anti-Signal’?",
+          "link": "https://www.nytimes.com/2026/06/21/business/signal-tech-silicon-valley.html",
+          "content": "Subtle cues are shaping notions of what’s hot and what’s not in the tech world."
         },
         {
-          "title": "Cottage Cheese Shortages Are Driven by TikTok and ‘Protein-Maxxing’",
-          "link": "https://www.nytimes.com/2026/06/20/business/cottage-cheese-shortage.html",
-          "content": "TikTok and “protein-maxxing” are driving a cottage cheese squeeze that’s left some consumers desperate."
+          "title": "Ina Garten to Start a Podcast With Vox Media",
+          "link": "https://www.nytimes.com/2026/06/21/business/ina-garten-podcast.html",
+          "content": "A new show from Ina Garten, a longtime Food Network star, spurred a bidding war, as the lines between video podcasts and talk shows blur."
         }
       ]
     }
