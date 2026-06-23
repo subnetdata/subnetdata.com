@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-06-22T17:26:51.430Z",
+  "generatedAt": "2026-06-23T15:44:01.329Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
+          "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
+          "content": "The incident comes as Tata Electronics expands its role in global technology supply chains."
+        },
+        {
+          "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ",
+          "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
+          "content": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older"
+        },
         {
           "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
           "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
@@ -14,16 +24,6 @@
           "title": "Every new iOS 27 feature that’s worth knowing about",
           "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
           "content": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at."
-        },
-        {
-          "title": "Apple opens up App Store to new competition in Brazil",
-          "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
-          "content": "Apple’s grip on iPhone app distribution is loosening in another major market: Brazil."
-        },
-        {
-          "title": "AI is hurting Apple in more ways than one: it may force iPhone price increases",
-          "link": "https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/",
-          "content": "CEO Tim Cook said in a recent interview that the situation is \"unsustainable.\""
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
+          "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
+          "content": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant."
+        },
         {
           "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
           "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
@@ -45,11 +50,6 @@
           "title": "Is this the dawn of the Tokenpocalypse?",
           "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
           "content": "We're likely to see more price increases as the big AI companies plan to go public."
-        },
-        {
-          "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manas",
-          "link": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-          "content": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "YouTube Stars Take Center Stage at Creative Artists Agency",
-          "link": "https://www.nytimes.com/2026/06/22/business/media/youtube-hollywood-creative-artists-agency.html",
-          "content": "For years, creators were on the fringes at Creative Artists Agency, a Hollywood talent behemoth. Now the agency is putting them center stage."
+          "title": "Teamsters Make a Bid to End Federal Oversight, With Trump’s Backing",
+          "link": "https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html",
+          "content": "Sean M. O’Brien, re-elected to a second term leading the union, has used a relationship with President Trump to end court-ordered corruption monitoring."
         },
         {
-          "title": "Clive Davis, Music Industry Titan Who Signed Whitney Houston, Dies at 94",
-          "link": "https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html",
-          "content": "He rose from a midlevel position at Columbia Records to become one of music’s most powerful executives, shepherding stars like Barry Manilow and Whitney Houston."
+          "title": "CBS News Hired an Independent Watchdog. What’s He Doing?",
+          "link": "https://www.nytimes.com/2026/06/23/business/media/cbs-news-ombudsman.html",
+          "content": "With CBS News rocked by controversy, some viewers have turned to the network ombudsman for a public response. So far, they haven’t gotten one."
         },
         {
-          "title": "‘The View’ Asks Its Audience for Help in Battle With F.C.C.",
-          "link": "https://www.nytimes.com/2026/06/22/business/media/the-view-fcc-abc-investigation.html",
-          "content": "The daytime TV talk show is at the center of a dispute with the Federal Communications Commission over political speech."
+          "title": "The Iran War’s Persistent Threat to Farmers in Poor Countries",
+          "link": "https://www.nytimes.com/2026/06/23/business/iran-war-africa-farming.html",
+          "content": "A reopening of the Strait of Hormuz would do little to swiftly ease the pain inflicted by higher prices for fertilizer, food and fuel in Ivory Coast."
         },
         {
-          "title": "U.K. Markets React Calmly to Starmer Resignation, but Economic Uncertainties Linger",
-          "link": "https://www.nytimes.com/2026/06/22/business/starmer-burnham-chancellor.html",
-          "content": "Markets reacted calmly to the prime minister’s announcement, which laid out a timeline for succession. Still, there’s not much clarity about the next government."
+          "title": "Ferraris and Shell Companies: Five Charged in Medicare Fraud Schemes",
+          "link": "https://www.nytimes.com/2026/06/23/us/skin-substitutes-medicare-fraud.html",
+          "content": "The Justice Department is taking aim at pricey “skin substitutes,” an overused wound care treatment that cost the government $10 billion in 2024."
         }
       ]
     }
