@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-24T15:30:21.593Z",
+  "generatedAt": "2026-06-25T15:37:14.183Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple raises Mac and iPad prices, spares iPhone for now",
+          "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
+          "content": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro"
+        },
         {
           "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
           "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
@@ -19,11 +24,6 @@
           "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
           "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
           "content": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
-        },
-        {
-          "title": "Every new iOS 27 feature that’s worth knowing about",
-          "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-          "content": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Airbus Is Ordered to Inspect 16 Jets After Cracks Are Found in Wings",
-          "link": "https://www.nytimes.com/2026/06/24/business/airbus-a380-wing-cracks-inspection.html",
-          "content": "The European Union’s chief aviation regulator ordered five A380 superjumbo jets to be grounded immediately."
+          "title": "Chemours to Pay $450M in First Federal PFAS Settlement",
+          "link": "https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html",
+          "content": "The settlement addresses the dumping of PFAS “forever chemicals,” which have been linked to cancer and other risks, by Chemours in several states."
         },
         {
-          "title": "Why the Fed Could Loom Large Over the Midterms",
-          "link": "https://www.nytimes.com/2026/06/24/business/dealbook/fed-midterms-rates.html",
-          "content": "Wall Street increasingly predicts the central bank will raise interest rates, possibly ahead of Election Day in November. That could anger President Trump."
+          "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
+          "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
+          "content": "The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices."
         },
         {
-          "title": "Housing Package Passed by Congress Has Wide Appeal, but It’s No Quick Fix",
-          "link": "https://www.nytimes.com/2026/06/24/business/housing-package-congress-midterms.html",
-          "content": "The first housing package in decades will take time to put into effect, testing the patience of families rankled by high prices."
+          "title": "Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer",
+          "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html",
+          "content": "The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims."
         },
         {
-          "title": "Your Home Could Help Solve AI’s Growing Power Demand",
-          "link": "https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html",
-          "content": "Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the energy demands of artificial intelli"
+          "title": "Marianne Lake, a Potential Dimon Successor, Leaves JPMorgan",
+          "link": "https://www.nytimes.com/2026/06/25/business/jamie-dimon-jpmorgan-succession-petno-rohrbaugh.html",
+          "content": "Another potential successor, Marianne Lake, is leaving JPMorgan, as the longstanding chief executive enters his third decade atop the bank."
         }
       ]
     }
