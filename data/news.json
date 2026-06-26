@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T15:37:14.183Z",
+  "generatedAt": "2026-06-26T15:20:54.868Z",
   "sources": [
     {
       "name": "Apple",
@@ -8,7 +8,7 @@
         {
           "title": "Apple raises Mac and iPad prices, spares iPhone for now",
           "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
-          "content": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro"
+          "content": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro."
         },
         {
           "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Xbox follows Apple with price increases ",
+          "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
+          "content": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels."
+        },
+        {
           "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
           "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
           "content": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant."
@@ -45,11 +50,6 @@
           "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
           "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
           "content": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack."
-        },
-        {
-          "title": "Is this the dawn of the Tokenpocalypse?",
-          "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-          "content": "We're likely to see more price increases as the big AI companies plan to go public."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Chemours to Pay $450M in First Federal PFAS Settlement",
-          "link": "https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html",
-          "content": "The settlement addresses the dumping of PFAS “forever chemicals,” which have been linked to cancer and other risks, by Chemours in several states."
+          "title": "Americans Are Feeling Better About the Economy, Consumer Survey Shows",
+          "link": "https://www.nytimes.com/2026/06/26/business/economy/consumer-sentiment.html",
+          "content": "Consumer sentiment rose in recent weeks after plummeting early this year as energy costs soared."
         },
         {
-          "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
-          "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
-          "content": "The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices."
+          "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
+          "link": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
+          "content": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive."
         },
         {
-          "title": "Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer",
-          "link": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html",
-          "content": "The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims."
+          "title": "Oil Prices Return to Prewar Levels After Four Months",
+          "link": "https://www.nytimes.com/2026/06/26/business/energy-environment/iran-war-oil-prices.html",
+          "content": "The cost of crude has become a real-time barometer of the Iran war’s toll on the global economy."
         },
         {
-          "title": "Marianne Lake, a Potential Dimon Successor, Leaves JPMorgan",
-          "link": "https://www.nytimes.com/2026/06/25/business/jamie-dimon-jpmorgan-succession-petno-rohrbaugh.html",
-          "content": "Another potential successor, Marianne Lake, is leaving JPMorgan, as the longstanding chief executive enters his third decade atop the bank."
+          "title": "Small Plane Crashes Into Tallest Building in Beijing",
+          "link": "https://www.nytimes.com/2026/06/26/world/asia/china-plane-crash-beijing.html",
+          "content": "Crowds in the capital’s central business district fled as the crash sent debris falling into the streets below."
         }
       ]
     }
