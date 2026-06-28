@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-06-27T14:24:38.138Z",
+  "generatedAt": "2026-06-28T14:44:34.967Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+          "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "content": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team."
+        },
         {
           "title": "Apple raises Mac and iPad prices, spares iPhone for now",
           "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
@@ -19,11 +24,6 @@
           "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ",
           "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
           "content": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older"
-        },
-        {
-          "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-          "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-          "content": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
         }
       ]
     },
@@ -58,12 +58,17 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
+          "title": "How Polymarket Traders Revolted Over One Silly Syllable",
+          "link": "https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html",
+          "content": "How one silly syllable ignited a bitter dispute over the nature of reality on Polymarket."
+        },
+        {
           "title": "Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?",
           "link": "https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html",
           "content": "At Cannes Lions, marketers grappled with how to influence A.I. chatbots."
         },
         {
-          "title": "Renewed Strikes Threaten Setback to Shipping Recovery in Persian Gulf",
+          "title": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
           "link": "https://www.nytimes.com/2026/06/27/business/strait-of-hormuz-shipping-iran.html",
           "content": "The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran."
         },
@@ -71,11 +76,6 @@
           "title": "Colette Shulman, Soviet Analyst With On-the-Ground Insights, Dies at 94",
           "link": "https://www.nytimes.com/2026/06/27/business/media/colette-shulman-dead.html",
           "content": "She arrived in Moscow in 1955, two years after Stalin’s death, and spent several years as a journalist covering major events and ordinary Soviet lives."
-        },
-        {
-          "title": "Chaos Came to CBS News. What’s in Store for CNN?",
-          "link": "https://www.nytimes.com/2026/06/27/business/media/cnn-bari-weiss-david-ellison.html",
-          "content": "The tech scion David Ellison is close to completing a merger that would put the legacy broadcaster and the 24-hour cable news network under the same roof."
         }
       ]
     }
