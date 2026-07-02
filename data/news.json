@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-01T15:36:42.703Z",
+  "generatedAt": "2026-07-02T15:09:25.734Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year",
+          "link": "https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/",
+          "content": "Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest."
+        },
+        {
+          "title": "Apple’s Hide My Email feature has a bug that’s been exposing real email addresses, researcher claims",
+          "link": "https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/",
+          "content": "Research appears to reveal a bug that could render the feature effectively useless."
+        },
         {
           "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
           "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
@@ -14,16 +24,6 @@
           "title": "Apple raises Mac and iPad prices, spares iPhone for now",
           "link": "https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/",
           "content": "Apple raises prices of MacBook Air and Pro along with iPad Air and Pro."
-        },
-        {
-          "title": "Tata Electronics, a major tech supplier to Apple and Tesla, confirms data breach",
-          "link": "https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/",
-          "content": "The incident comes as Tata Electronics expands its role in global technology supply chains."
-        },
-        {
-          "title": "A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak ",
-          "link": "https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/",
-          "content": "European offensive cybersecurity company Paradigm Shift released details of a flaw and a technique to exploit it that opens the door for hackers to unlock and break into older"
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+          "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+        },
         {
           "title": "Xbox follows Apple with price increases ",
           "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
@@ -45,11 +50,6 @@
           "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
           "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
           "content": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures."
-        },
-        {
-          "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
-          "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-          "content": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Fed’s Warsh Says Inflation Poses Less Risk Than a Few Weeks Ago",
-          "link": "https://www.nytimes.com/2026/07/01/business/kevin-warsh-inflation-ecb.html",
-          "content": "The Federal Reserve chairman, Kevin Warsh, stressed that the central bank would “deliver price stability,” a point he has emphasized repeatedly since taking over in May."
+          "title": "What to know about the report.",
+          "link": "https://www.nytimes.com/live/2026/07/02/business/jobs-report-economy/what-to-know-about-the-report",
+          "content": ""
         },
         {
-          "title": "Anthropic Won a Reprieve From the Trump Administration. Is It Enough?",
-          "link": "https://www.nytimes.com/2026/07/01/business/dealbook/anthropic-fable-mythos-trump.html",
-          "content": "The company can restore access to its most powerful A.I. models. But Silicon Valley remains worried about the Trump administration’s heavier hand on regulation."
+          "title": "What Private Credit Is, and Why Investors Are So Worried About It",
+          "link": "https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html",
+          "content": "Some say the industry expanded too quickly and extended loans to companies that won’t be able to pay them back."
         },
         {
-          "title": "As Companies Race for Cheaper A.I. Options, This Start-Up Pitches a Solution",
-          "link": "https://www.nytimes.com/2026/07/01/business/dealbook/together-ai-funding.html",
-          "content": "Together AI, which specializes in open-source artificial intelligence models, is now worth more than $8 billion."
+          "title": "Private Credit Can’t Stop the ‘Freak Out’",
+          "link": "https://www.nytimes.com/2026/07/02/business/private-credit-withdrawals.html",
+          "content": "On Thursday, Blue Owl reported another quarter of double-digit investor withdrawal requests from some of its private credit funds."
         },
         {
-          "title": "What to Know About the U.S.-Mexico-Canada Trade Agreement Talks",
-          "link": "https://www.nytimes.com/2026/07/01/business/economy/usmca-north-america-trade.html",
-          "content": "July 1 could be the beginning of the end for a trade pact President Trump has long criticized — or the start of a path to its renewal."
+          "title": "Tesla Sales Surge on Recovery in Europe",
+          "link": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
+          "content": "Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States."
         }
       ]
     }
