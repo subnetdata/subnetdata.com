@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T14:26:48.263Z",
+  "generatedAt": "2026-07-06T16:14:38.306Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+          "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+          "content": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hi"
+        },
+        {
           "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
           "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
           "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
@@ -45,11 +50,6 @@
           "title": "Microsoft and Chevron plan one of the largest gas-powered data center projects in US",
           "link": "https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/",
           "content": "Microsoft inked a 20-year power purchase agreement with Chevron, locking in decades of carbon emissions from a new natural gas power plant."
-        },
-        {
-          "title": "Microsoft taps Alt Carbon in sign of India’s growing role in carbon removal",
-          "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
-          "content": "Alt Carbon said the agreement followed more than a year of scientific review and due diligence, with Microsoft requiring additional verification and data-sharing measures."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
-          "link": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
-          "content": "The cartel’s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists."
+          "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
+          "link": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
+          "content": "The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely."
         },
         {
-          "title": "Taylor Swift’s Wedding Became a Marketing Moment for Brands Big and Small",
-          "link": "https://www.nytimes.com/2026/07/05/style/taylor-swift-wedding-marketing-brands-ai.html",
-          "content": "Some businesses flocked to social media using A.I.-generated content, while others deployed timely digital ads designed to capitalize on the frenzy surrounding this major cele"
+          "title": "Inside Bath & Body Works’ Fragrance Factory",
+          "link": "https://www.nytimes.com/2026/07/06/business/bath-body-works-fragrance-factory.html",
+          "content": "“Japanese Cherry Blossom” has brought in $1.5 billion over the last 20 years. Can the company’s close-knit network of suppliers come up with the next big thing and improve sal"
         },
         {
-          "title": "I Have a Light Workload and I Simply Can’t Handle It",
-          "link": "https://www.nytimes.com/2026/07/05/business/how-to-be-underemployed.html",
-          "content": "Plus: When a nurse practitioner in gynecology needs care, should she see one of her own colleagues?"
+          "title": "Efforts to Help Smokers Quit Stall Under Trump",
+          "link": "https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html",
+          "content": "The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plum"
         },
         {
-          "title": "Philosophers Are the Latest Hiring Target for AI Companies",
-          "link": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
-          "content": "A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now?"
+          "title": "Gas Stations Gain When Oil Prices Start to Drop",
+          "link": "https://www.nytimes.com/2026/07/06/business/economy/gas-station-prices.html",
+          "content": "President Trump is berating gasoline retailers for keeping prices high. Evidence suggests the business has grown more profitable."
         }
       ]
     }
