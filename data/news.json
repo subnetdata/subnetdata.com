@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T15:53:16.382Z",
+  "generatedAt": "2026-07-10T15:27:54.177Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+          "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+          "content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
+        },
+        {
           "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
           "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
           "content": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
@@ -45,11 +50,6 @@
           "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
           "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
           "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
-        },
-        {
-          "title": "Xbox follows Apple with price increases ",
-          "link": "https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/",
-          "content": "The company says the increases are being driven by rising memory and console storage prices, with costs more than 2.5x higher than previous levels."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Grocery Stores Lower Prices as Consumers Pare Spending",
-          "link": "https://www.nytimes.com/2026/07/09/business/grocery-stores-lower-food-prices.html",
-          "content": "While shoppers may get better deals on some items, it’s unlikely their overall grocery bill will fall."
+          "title": "A.I. Has Rewarded Investors. It May Now Pose Their Greatest Risk.",
+          "link": "https://www.nytimes.com/2026/07/10/business/ai-stocks-bonds-investing-markets.html",
+          "content": "Near the midpoint of the year, stocks and bonds both report good returns. But the global stock market has become highly concentrated, our columnist says."
         },
         {
-          "title": "A $3.2 Trillion Deal-Making Frenzy Is Spurred by the A.I. Economy",
-          "link": "https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html",
-          "content": "This year’s boom represents the most spent on global deal-making in a six-month period in a decade. But questions persist about whether it can continue."
+          "title": "How Volkswagen’s Troubles Were Made in China",
+          "link": "https://www.nytimes.com/2026/07/10/business/volkswagen-china-problems-restructuring.html",
+          "content": "The German auto giant’s push into China powered it for decades, but now the company faces fierce competition from Chinese automakers in markets around the world."
         },
         {
-          "title": "Renewed Fighting With Iran Shows Cracks in Peace-Trade Rally",
-          "link": "https://www.nytimes.com/2026/07/09/business/dealbook/iran-war-markets.html",
-          "content": "Investors have taken heart from the fragile cease-fire between the United States and Iran before. Will they do so again?"
+          "title": "The Work of Helping A.I. Destroy Work",
+          "link": "https://www.nytimes.com/2026/07/10/business/ai-white-collar-jobs.html",
+          "content": "Start-ups are paying white-collar professionals to teach their jobs to artificial intelligence models. It’s a bonanza. It’s bleak. Where will it end?"
         },
         {
-          "title": "Help! I Refueled My Rental Car, but Enterprise Charged Me Anyway.",
-          "link": "https://www.nytimes.com/2026/07/09/travel/help-i-refueled-my-rental-car-but-enterprise-charged-me-anyway.html",
-          "content": "A traveler to Germany returned his vehicle with slightly more gas than it had when he picked it up. So why was he billed $131 to fill up the tank?"
+          "title": "Wall St. Sets Limits on Prediction Market Trading",
+          "link": "https://www.nytimes.com/2026/07/10/business/dealbook/goldman-prediction-markets-wall-street.html",
+          "content": "Goldman Sachs is the latest firm to restrict how employees use the popular betting platforms."
         }
       ]
     }
