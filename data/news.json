@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-07-14T14:44:07.934Z",
+  "generatedAt": "2026-07-15T14:43:24.708Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-          "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-          "content": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company"
+          "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
+          "link": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
+          "content": "New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain."
         },
         {
-          "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
-          "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-          "content": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates w"
+          "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "content": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel"
         },
         {
-          "title": "Apple sues OpenAI over alleged trade secret theft",
-          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-          "content": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
+          "title": "OpenAI pushes back on Apple trade secret lawsuit",
+          "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+          "content": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit."
         },
         {
-          "title": "Apple to produce Made in America wireless chips with Broadcom",
-          "link": "https://techcrunch.com/2026/07/08/apple-to-produce-made-in-america-wireless-chips-with-broadcom/",
-          "content": "Apple has signed a $30 billion+ multiyear deal with Broadcom to design and produce more than 15 billion U.S.-made custom wireless connectivity chips for Apple products."
+          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+          "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+          "content": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone own"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "What to know about the Fed chairman’s testimony.",
-          "link": "https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/what-to-know-about-the-fed-chairmans-testimony",
-          "content": ""
+          "title": "IBM’s Stock Crash Reignites Fears of A.I. Disruption in Software Sector",
+          "link": "https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html",
+          "content": "The company tumbled sharply after previewing quarterly results that were disappointing. It’s not good news for software and tech consulting companies."
         },
         {
-          "title": "The Fed’s new chairman is asking for advice.",
-          "link": "https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/the-feds-new-chairman-is-asking-for-advice",
-          "content": "Five new task forces are focused on topics that Kevin M. Warsh, the chairman of the Federal Reserve, has said are “central to the broad conduct of monetary policy.”"
+          "title": "Oil Prices Tick Higher as U.S. Reinstates Iran Blockade",
+          "link": "https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html",
+          "content": "The United States reinstated its blockade on Iranian ports in the Strait of Hormuz and shipping slowed to a crawl amid the renewed warfare in the critical waterway."
         },
         {
-          "title": "Warsh Reiterates Fed’s Pledge to Get Inflation Down",
-          "link": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html",
-          "content": "Kevin M. Warsh, since becoming chairman of the Federal Reserve, has declined to say whether he supports higher interest rates to tame price pressures."
+          "title": "A Year After DOGE Cuts, Social Security Is Trying to Stabilize",
+          "link": "https://www.nytimes.com/2026/07/15/business/social-security-offices.html",
+          "content": "The agency has been quietly hiring workers again, and its leadership is focused on improving technology to ease workloads left by the departure of about 7,800 staff members."
         },
         {
-          "title": "Paramount vs. the States",
-          "link": "https://www.nytimes.com/2026/07/14/business/dealbook/paramount-states-antitrust.html",
-          "content": "An effort to block the media giant’s planned takeover of Warner Bros. Discovery underscores how states are taking a more active role in antitrust regulation."
+          "title": "The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?",
+          "link": "https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html",
+          "content": "The largest U.S. automakers have backed away from electric vehicles, even as global sales are booming. The decision may make them obsolete."
         }
       ]
     }
