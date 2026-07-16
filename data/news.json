@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-15T14:43:24.708Z",
+  "generatedAt": "2026-07-16T14:54:33.433Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+          "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+          "content": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
+        },
+        {
+          "title": "Apple bans home services from its upcoming Maps ads",
+          "link": "https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/",
+          "content": "Apple has published the policies governing its upcoming Maps advertising business, revealing a strategy that differs from Google’s. The new rules prohibit home services busine"
+        },
         {
           "title": "India bets billions on breaking China’s grip on smartphone manufacturing",
           "link": "https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/",
@@ -14,16 +24,6 @@
           "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
           "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
           "content": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel"
-        },
-        {
-          "title": "OpenAI pushes back on Apple trade secret lawsuit",
-          "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-          "content": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit."
-        },
-        {
-          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-          "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-          "content": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone own"
         }
       ]
     },
@@ -31,6 +31,16 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+        },
+        {
+          "title": "Microsoft patches bug in video game Age of Empires II",
+          "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
+          "content": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite."
+        },
         {
           "title": "Satya Nadella has issued a shocking warning to companies using AI",
           "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
@@ -40,16 +50,6 @@
           "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
           "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
           "content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
-        },
-        {
-          "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-          "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-          "content": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
-        },
-        {
-          "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-          "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-          "content": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hi"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "IBM’s Stock Crash Reignites Fears of A.I. Disruption in Software Sector",
-          "link": "https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html",
-          "content": "The company tumbled sharply after previewing quarterly results that were disappointing. It’s not good news for software and tech consulting companies."
+          "title": "Maker of Drone Boats Used in Iran War to Open New Texas Shipyard",
+          "link": "https://www.nytimes.com/2026/07/16/business/maker-of-drone-boats-used-in-iran-war-to-open-new-texas-shipyard.html",
+          "content": "Saronic Technologies will make naval and commercial vessels at the facility. The company’s naval drone helped rescue the crew of a downed Apache helicopter last month."
         },
         {
-          "title": "Oil Prices Tick Higher as U.S. Reinstates Iran Blockade",
-          "link": "https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html",
-          "content": "The United States reinstated its blockade on Iranian ports in the Strait of Hormuz and shipping slowed to a crawl amid the renewed warfare in the critical waterway."
+          "title": "Strait of Hormuz Tanker Traffic Erodes Further as Oil Prices Rise",
+          "link": "https://www.nytimes.com/2026/07/16/business/strait-hormuz-iran-war-oil.html",
+          "content": "Very few ships passed through the waterway on the first full day of the U.S. naval blockade of Iran."
         },
         {
-          "title": "A Year After DOGE Cuts, Social Security Is Trying to Stabilize",
-          "link": "https://www.nytimes.com/2026/07/15/business/social-security-offices.html",
-          "content": "The agency has been quietly hiring workers again, and its leadership is focused on improving technology to ease workloads left by the departure of about 7,800 staff members."
+          "title": "Anthropic Inches Toward a Mega-I.P.O.",
+          "link": "https://www.nytimes.com/2026/07/16/business/dealbook/anthropic-ipo-ai.html",
+          "content": "The artificial intelligence lab is said to have taken more steps that are consistent with a company aiming to go public in the fall."
         },
         {
-          "title": "The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?",
-          "link": "https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html",
-          "content": "The largest U.S. automakers have backed away from electric vehicles, even as global sales are booming. The decision may make them obsolete."
+          "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
+          "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
+          "content": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I."
         }
       ]
     }
