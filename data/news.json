@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-19T14:21:16.839Z",
+  "generatedAt": "2026-07-20T15:05:14.746Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
+        },
         {
           "title": "AI-driven memory crunch jolts India’s smartphone market",
           "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
@@ -18,11 +23,6 @@
         {
           "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
           "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-          "content": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s "
-        },
-        {
-          "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-          "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
           "content": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s "
         }
       ]
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The Case of the 3:30 Emails",
-          "link": "https://www.nytimes.com/2026/07/19/business/delayed-email-glitch.html",
-          "content": "Plus: Are you really paying attention to me on Zoom?"
+          "title": "How Google’s A.I. Search Is Imperiling the Open Web",
+          "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
+          "content": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul."
         },
         {
-          "title": "Step Into the ‘Zone of Genius’ (Before A.I. Takes Your Job)",
-          "link": "https://www.nytimes.com/2026/07/19/business/step-into-the-zone-of-genius-before-ai-takes-your-job.html",
-          "content": "A decades-old self-help concept is gaining new purchase among people searching for meaningful work in the age of artificial intelligence."
+          "title": "Soaring Egg Prices Are Hitting China Hard",
+          "link": "https://www.nytimes.com/2026/07/20/business/china-eggs-expensive.html",
+          "content": "China consumes more eggs per capita than almost every other country, so a recent spike in costs is touching a nerve."
         },
         {
-          "title": "The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour",
-          "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
-          "content": "Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”"
+          "title": "American A.I. Giants Like Alphabet Face Fresh Tests",
+          "link": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
+          "content": "Rapid advancements in Chinese artificial intelligence models raise more questions about costly technology spending, as Google’s parent prepares to report earnings."
         },
         {
-          "title": "Adidas Hopes Its World Cup Moment Can Drive U.S. Sales",
-          "link": "https://www.nytimes.com/2026/07/18/business/adidas-world-cup-bjorn-gulden.html",
-          "content": "Nearly everything on the field on Sunday will bear the German company’s logo. Bjorn Gulden, the chief executive, says he “couldn’t have scripted it better.”"
+          "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
+          "link": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html",
+          "content": "A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again."
         }
       ]
     }
