@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-21T14:59:42.920Z",
+  "generatedAt": "2026-07-22T14:59:28.587Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
+          "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+          "content": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products."
+        },
         {
           "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
           "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
@@ -19,11 +24,6 @@
           "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
           "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
           "content": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law."
-        },
-        {
-          "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-          "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-          "content": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s "
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers",
-          "link": "https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html",
-          "content": "As rising fuel costs clobber their economies, the Philippines and other developing countries in Asia are pushing to build strategic petroleum reserves to cushion against futur"
+          "title": "A.I. Is Lifting Markets and the Economy and Raising Risks for Both",
+          "link": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html",
+          "content": "Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy."
         },
         {
-          "title": "Trump Is Squeezing Canada. Don’t Expect Carney to Roll Over.",
-          "link": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
-          "content": "The president’s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation."
+          "title": "Trump’s New Trade Fights (and Deals)",
+          "link": "https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html",
+          "content": "President Trump has resumed his approach of big threats against some trading partners and generous pacts with others. Experts see new risks."
         },
         {
-          "title": "Will the U.S. and China Build Walls Around A.I.?",
-          "link": "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html",
-          "content": "Rapid advancements in Chinese artificial intelligence models reportedly have Washington and Beijing considering new ways to protect their technology sectors."
+          "title": "Global Oil Price Jumps as War Threats Intensify",
+          "link": "https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html",
+          "content": "But stock investors shrug off Iran developments as they await crucial earnings reports from tech firms including Alphabet and Tesla."
         },
         {
-          "title": "Why States Are Making It Harder to Save Money With Solar Panels",
-          "link": "https://www.nytimes.com/2026/07/21/upshot/solar-panels-prices-batteries.html",
-          "content": "The changes are costing homeowners money. But they also reflect a changing grid — and the need for home batteries."
+          "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+          "link": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
+          "content": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route."
         }
       ]
     }
