@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-22T14:59:28.587Z",
+  "generatedAt": "2026-07-23T15:03:41.308Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Ford bets on Apple for its next-generation of EVs",
+          "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
+          "content": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems."
+        },
         {
           "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
           "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
@@ -19,11 +24,6 @@
           "title": "AI-driven memory crunch jolts India’s smartphone market",
           "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
           "content": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
-        },
-        {
-          "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-          "link": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-          "content": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "A.I. Is Lifting Markets and the Economy and Raising Risks for Both",
-          "link": "https://www.nytimes.com/2026/07/22/business/economy/stocks-economy-ai.html",
-          "content": "Investment in artificial intelligence and related companies is lifting the stock market and spending across the economy."
+          "title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
+          "link": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
+          "content": "China is seeking global influence and good will with its open, low-cost artificial intelligence software."
         },
         {
-          "title": "Trump’s New Trade Fights (and Deals)",
-          "link": "https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html",
-          "content": "President Trump has resumed his approach of big threats against some trading partners and generous pacts with others. Experts see new risks."
+          "title": "Movie Theaters Embrace the Bewilderingly Lucrative Business of Buckets",
+          "link": "https://www.nytimes.com/2026/07/23/business/media/movie-theaters-popcorn-buckets.html",
+          "content": "Once, a tub of popcorn was just a tub of popcorn. Now, “collectible concession vessels” could make one chain more than $100 million."
         },
         {
-          "title": "Global Oil Price Jumps as War Threats Intensify",
-          "link": "https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html",
-          "content": "But stock investors shrug off Iran developments as they await crucial earnings reports from tech firms including Alphabet and Tesla."
+          "title": "Even as War Rages, Investors Bet Oil Will Be Cheaper in a Few Months",
+          "link": "https://www.nytimes.com/2026/07/23/business/iran-war-oil-prices.html",
+          "content": "Futures contracts reflect an expectation that low inventories and midterm elections are likely to push the Trump administration to try to ease tensions with Iran."
         },
         {
-          "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
-          "link": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
-          "content": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route."
+          "title": "Global Oil Price Hits $100 a Barrel for First Time Since May",
+          "link": "https://www.nytimes.com/2026/07/23/business/oil-price-100-dollars.html",
+          "content": "The recent rebound reflects traders’ growing concern about the expanding war, which now extends from the Persian Gulf to the Red Sea."
         }
       ]
     }
