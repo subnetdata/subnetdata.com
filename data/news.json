@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T14:48:46.224Z",
+  "generatedAt": "2026-07-25T14:27:30.358Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+          "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+          "content": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged mo"
+        },
+        {
           "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
           "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
           "content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
@@ -45,11 +50,6 @@
           "title": "Satya Nadella has issued a shocking warning to companies using AI",
           "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
           "content": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI lab"
-        },
-        {
-          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-          "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-          "content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "China Has Come Through Trump’s Trade War in a Good Position",
-          "link": "https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html",
-          "content": "Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same, and is now lower than countries like Brazil and Canada."
+          "title": "Sell the Company for $400 Million? He’s Giving It Away Instead.",
+          "link": "https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html",
+          "content": "After his sole heir died, Eddie Smith, the owner of Grady-White Boats, looked for a way to pass on his legacy. He was inspired by Patagonia to pledge future profits to charity"
         },
         {
-          "title": "Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term",
-          "link": "https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html",
-          "content": "The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts g"
+          "title": "Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.",
+          "link": "https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html",
+          "content": "As start-ups like Anthropic and OpenAI prepare to go public, nonprofits are hoping for a secondary giving windfall from the new tech ultrawealthy."
         },
         {
-          "title": "Clock Ticks Down to Europe’s Ban on Russian Gas Tankers",
-          "link": "https://www.nytimes.com/2026/07/24/business/russian-lng-european-union.html",
-          "content": "Europeans say they fear a rising dependence on American energy even with a Jan. 1 deadline to end liquefied natural gas imports from Russia."
+          "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
+          "link": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
+          "content": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour."
         },
         {
-          "title": "China Wields Its Rare Earth Leverage Over Europe With New Export Controls",
-          "link": "https://www.nytimes.com/2026/07/24/business/china-europe-rare-earths.html",
-          "content": "Beijing banned shipments of important supplies to 14 companies on the cutting edge of chemicals processing, electric motors and defense."
+          "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+          "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+          "content": "Tariffs are back, but this time there is a war in the Persian Gulf and oil has hit $100 a barrel."
         }
       ]
     }
