@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-26T14:25:41.120Z",
+  "generatedAt": "2026-07-27T15:38:10.373Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+          "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+          "content": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns."
+        },
         {
           "title": "Ford bets on Apple for its next-generation of EVs",
           "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
@@ -19,11 +24,6 @@
           "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
           "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
           "content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
-        },
-        {
-          "title": "AI-driven memory crunch jolts India’s smartphone market",
-          "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-          "content": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Kids (and Adults) Are Obsessed With Squishy Toys and Fidget Trading",
-          "link": "https://www.nytimes.com/2026/07/26/style/squishy-fidget-toys-trading.html",
-          "content": "Kids are making, trading and hunting for squishies, or squeezable, malleable blob toys that come in a variety of forms."
+          "title": "Even China’s A.I. Powerhouses Can’t Figure Out How to Profit Off A.I.",
+          "link": "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html",
+          "content": "Chinese A.I. models are gaining ground. But the companies behind them do not have a clear strategy to make money from that success."
         },
         {
-          "title": "A Son of Wealth Finds His Calling in a High-End Grocery Store",
-          "link": "https://www.nytimes.com/2026/07/26/style/a-different-kind-of-grocery-store-magnate.html",
-          "content": "How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan."
+          "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
+          "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
+          "content": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning."
         },
         {
-          "title": "Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate",
-          "link": "https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html",
-          "content": "Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death."
+          "title": "The A.I. Debate That’s Driving a Wedge Through Big Tech",
+          "link": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html",
+          "content": "Investors and policymakers must contend with the competing camps that view open and closed artificial intelligence models as key to the sector’s future."
         },
         {
-          "title": "How the Prius Traces Its Lineage to a 1900 Car From Ferdinand Porsche",
-          "link": "https://www.nytimes.com/2026/07/26/business/porsche-history-hybrid.html",
-          "content": "The Lohner-Porsche Semper Vivus had a generator that recharged a battery, and it even had regenerative braking. Sound familiar?"
+          "title": "5 New Hotels in Vintage Buildings",
+          "link": "https://www.nytimes.com/2026/07/27/travel/new-hotels-historical-buildings.html",
+          "content": "From a restored warehouse in Seattle to a former prison in Nara, Japan, these accommodations offer intriguing surroundings with modern comforts."
         }
       ]
     }
