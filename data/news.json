@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-27T15:38:10.373Z",
+  "generatedAt": "2026-07-28T15:14:50.341Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
+          "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
+          "content": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad."
+        },
+        {
+          "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+          "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
+          "content": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging t"
+        },
         {
           "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
           "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
@@ -14,16 +24,6 @@
           "title": "Ford bets on Apple for its next-generation of EVs",
           "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
           "content": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems."
-        },
-        {
-          "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-          "link": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
-          "content": "The new leasing program is a big change for the hardware company, and comes as it looks to raise prices on many of its products."
-        },
-        {
-          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-          "content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
         }
       ]
     },
@@ -31,6 +31,16 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella"
+        },
+        {
+          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
+        },
         {
           "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
           "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
@@ -40,16 +50,6 @@
           "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
           "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
           "content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
-        },
-        {
-          "title": "Microsoft patches bug in video game Age of Empires II",
-          "link": "https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/",
-          "content": "The vulnerability in the decades-old game could have allowed hackers to take over victims’ computers with a malicious game invite."
-        },
-        {
-          "title": "Satya Nadella has issued a shocking warning to companies using AI",
-          "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-          "content": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI lab"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Even China’s A.I. Powerhouses Can’t Figure Out How to Profit Off A.I.",
-          "link": "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html",
-          "content": "Chinese A.I. models are gaining ground. But the companies behind them do not have a clear strategy to make money from that success."
+          "title": "Boeing Reports Loss on $280 Million Hit to Troubled Air Force One Program",
+          "link": "https://www.nytimes.com/2026/07/28/business/boeing-earnings-air-force-one.html",
+          "content": "Boeing pushed back delivery of two presidential planes by four years. The delay and related expenses contributed to a bigger-than-expected loss in the second quarter."
         },
         {
-          "title": "Why Restarting a Nuclear Power Plant Can Be Much Harder Than Expected",
-          "link": "https://www.nytimes.com/2026/07/27/business/energy-environment/nuclear-power-palisades-michigan.html",
-          "content": "The first U.S. attempt at reopening a shuttered reactor has been held back by run-down equipment and a lack of planning."
+          "title": "Prediction Market Betting on Drug Trials and Approvals Sparks Concern About Undermining Research",
+          "link": "https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html",
+          "content": "Prediction markets on Kalshi and Polymarket now let people wager money on drug approvals. Kalshi also plans to allow bets on clinical trial results."
         },
         {
-          "title": "The A.I. Debate That’s Driving a Wedge Through Big Tech",
-          "link": "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html",
-          "content": "Investors and policymakers must contend with the competing camps that view open and closed artificial intelligence models as key to the sector’s future."
+          "title": "The Chips Rout Goes Global ",
+          "link": "https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html",
+          "content": "Shares in semiconductor companies plunged in South Korea and Europe, adding fresh doubts to the durability of the artificial intelligence trade."
         },
         {
-          "title": "5 New Hotels in Vintage Buildings",
-          "link": "https://www.nytimes.com/2026/07/27/travel/new-hotels-historical-buildings.html",
-          "content": "From a restored warehouse in Seattle to a former prison in Nara, Japan, these accommodations offer intriguing surroundings with modern comforts."
+          "title": "Public Control or ‘20th-Century Socialism’? U.K. Debates a Different Way.",
+          "link": "https://www.nytimes.com/2026/07/28/business/andy-burnham-uk.html",
+          "content": "The new prime minister, Andy Burnham, faulted Margaret Thatcher’s privatization in the 1980s. He wants an alternative economic model, especially to run utilities."
         }
       ]
     }
