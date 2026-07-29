@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-07-28T15:14:50.341Z",
+  "generatedAt": "2026-07-29T15:28:55.956Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+          "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+          "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood"
+        },
+        {
           "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
           "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-          "content": "Leasing prices start at $17.99 per month for iPhone, $11.99 for Apple Watch, $24.99 for Mac, and $11.99 for iPad."
+          "content": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that"
         },
         {
           "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
@@ -19,11 +24,6 @@
           "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
           "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
           "content": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns."
-        },
-        {
-          "title": "Ford bets on Apple for its next-generation of EVs",
-          "link": "https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/",
-          "content": "Ford is the first automaker to use a new set of developer tools that will let it embed Apple Maps navigation and mapping directly into its vehicles' infotainment systems."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Boeing Reports Loss on $280 Million Hit to Troubled Air Force One Program",
-          "link": "https://www.nytimes.com/2026/07/28/business/boeing-earnings-air-force-one.html",
-          "content": "Boeing pushed back delivery of two presidential planes by four years. The delay and related expenses contributed to a bigger-than-expected loss in the second quarter."
+          "title": "Shipping Risks Rise Across Crucial Middle East Oil Routes",
+          "link": "https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html",
+          "content": "Attacks on ships in the Strait of Hormuz and the Bab al-Mandab strait are disrupting the passage of oil tankers in the Persian Gulf and the Red Sea."
         },
         {
-          "title": "Prediction Market Betting on Drug Trials and Approvals Sparks Concern About Undermining Research",
-          "link": "https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html",
-          "content": "Prediction markets on Kalshi and Polymarket now let people wager money on drug approvals. Kalshi also plans to allow bets on clinical trial results."
+          "title": "How to Change Your Image as a Heartless Luxury Titan Overnight",
+          "link": "https://www.nytimes.com/2026/07/29/style/bernard-arnault-open-letter-x.html",
+          "content": "Bernard Arnault, the chairman of LVMH, makes an unexpected social media move."
         },
         {
-          "title": "The Chips Rout Goes Global ",
-          "link": "https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html",
-          "content": "Shares in semiconductor companies plunged in South Korea and Europe, adding fresh doubts to the durability of the artificial intelligence trade."
+          "title": "Big Tech Turmoil Clouds the A.I. Earnings Picture",
+          "link": "https://www.nytimes.com/2026/07/29/business/dealbook/big-tech-ai-earnings.html",
+          "content": "The Nasdaq 100 is flirting with correction territory as investors brace for earnings reports from Meta, Microsoft and Amazon."
         },
         {
-          "title": "Public Control or ‘20th-Century Socialism’? U.K. Debates a Different Way.",
-          "link": "https://www.nytimes.com/2026/07/28/business/andy-burnham-uk.html",
-          "content": "The new prime minister, Andy Burnham, faulted Margaret Thatcher’s privatization in the 1980s. He wants an alternative economic model, especially to run utilities."
+          "title": "Sick of A.I.-Generated Content? The ‘Slop Janitor’ Is Here to Help.",
+          "link": "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html",
+          "content": "Pangram, an A.I. detection start-up, promises near-perfect accuracy in sniffing out writing and imagery that wasn’t made by humans. It’s raising some big questions along the w"
         }
       ]
     }
