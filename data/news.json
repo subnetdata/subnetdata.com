@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T15:28:55.956Z",
+  "generatedAt": "2026-07-30T15:06:14.768Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,16 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "content": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in t"
+        },
+        {
           "title": "Satya Nadella says companies that trust one AI for everything may not survive",
           "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
           "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella"
@@ -40,16 +50,6 @@
           "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
           "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
           "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-        },
-        {
-          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-          "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-          "content": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged mo"
-        },
-        {
-          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-          "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-          "content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Shipping Risks Rise Across Crucial Middle East Oil Routes",
-          "link": "https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html",
-          "content": "Attacks on ships in the Strait of Hormuz and the Bab al-Mandab strait are disrupting the passage of oil tankers in the Persian Gulf and the Red Sea."
+          "title": "Trump’s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items",
+          "link": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html",
+          "content": "A new round of tariff carve-outs has raised familiar questions about who should receive the lucrative exceptions, and why."
         },
         {
-          "title": "How to Change Your Image as a Heartless Luxury Titan Overnight",
-          "link": "https://www.nytimes.com/2026/07/29/style/bernard-arnault-open-letter-x.html",
-          "content": "Bernard Arnault, the chairman of LVMH, makes an unexpected social media move."
+          "title": "U.S. GDP Growth Slowed in Second Quarter of 2026",
+          "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
+          "content": "Gross domestic product grew at a slower rate in the second quarter and persistent price pressures are unsettling financial markets."
         },
         {
-          "title": "Big Tech Turmoil Clouds the A.I. Earnings Picture",
-          "link": "https://www.nytimes.com/2026/07/29/business/dealbook/big-tech-ai-earnings.html",
-          "content": "The Nasdaq 100 is flirting with correction territory as investors brace for earnings reports from Meta, Microsoft and Amazon."
+          "title": "Fed’s Preferred Inflation Gauge Eased During Pause in Iran War",
+          "link": "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html",
+          "content": "Price pressures eased during a brief reprieve in the war with Iran, but the resumption of fighting suggests that inflation risks are still prevalent."
         },
         {
-          "title": "Sick of A.I.-Generated Content? The ‘Slop Janitor’ Is Here to Help.",
-          "link": "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html",
-          "content": "Pangram, an A.I. detection start-up, promises near-perfect accuracy in sniffing out writing and imagery that wasn’t made by humans. It’s raising some big questions along the w"
+          "title": "China, Its Economy Stumbling, Signals Only Cautious Support",
+          "link": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html",
+          "content": "The ruling Politburo called for “more proactive” tax and spending policies but did not endorse broad action to address weak consumer spending."
         }
       ]
     }
