@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-07-30T15:06:14.768Z",
+  "generatedAt": "2026-07-31T15:13:46.403Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+          "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+          "content": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September."
+        },
+        {
+          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+          "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+          "content": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services busin"
+        },
         {
           "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
           "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
@@ -14,16 +24,6 @@
           "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
           "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
           "content": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that"
-        },
-        {
-          "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
-          "link": "https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/",
-          "content": "Apple is facing a lawsuit from three users who say they collectively lost more than $1.8 million after downloading a fraudulent crypto wallet from the App Store, challenging t"
-        },
-        {
-          "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-          "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-          "content": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Trump’s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items",
-          "link": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html",
-          "content": "A new round of tariff carve-outs has raised familiar questions about who should receive the lucrative exceptions, and why."
+          "title": "BP Puts Its North Sea Drilling Business Up for Sale",
+          "link": "https://www.nytimes.com/2026/07/31/business/bp-north-sea.html",
+          "content": "The plans are part of the energy giant’s efforts to streamline operations, but BP has deep roots in the region."
         },
         {
-          "title": "U.S. GDP Growth Slowed in Second Quarter of 2026",
-          "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
-          "content": "Gross domestic product grew at a slower rate in the second quarter and persistent price pressures are unsettling financial markets."
+          "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
+          "link": "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html",
+          "content": "Internal divisions over whether to raise interest rates intensified at Kevin Warsh’s second meeting as chairman of the Federal Reserve."
         },
         {
-          "title": "Fed’s Preferred Inflation Gauge Eased During Pause in Iran War",
-          "link": "https://www.nytimes.com/2026/07/30/business/federal-reserve-inflation-iran-war.html",
-          "content": "Price pressures eased during a brief reprieve in the war with Iran, but the resumption of fighting suggests that inflation risks are still prevalent."
+          "title": "What a Hedge Fund’s Implosion Says About the A.I. Trade",
+          "link": "https://www.nytimes.com/2026/07/31/business/dealbook/situational-awareness-ai-hedge-fund.html",
+          "content": "Situational Awareness caught the attention of Wall Street with its highly leveraged trades. It nearly collapsed amid a wave of market volatility."
         },
         {
-          "title": "China, Its Economy Stumbling, Signals Only Cautious Support",
-          "link": "https://www.nytimes.com/2026/07/30/business/china-economy-politburo.html",
-          "content": "The ruling Politburo called for “more proactive” tax and spending policies but did not endorse broad action to address weak consumer spending."
+          "title": "Iran War Drives Oil Profits to Highest Levels in Years",
+          "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
+          "content": "The world’s biggest oil companies are benefiting from the high commodity prices that have been a drag on the rest of the economy."
         }
       ]
     }
