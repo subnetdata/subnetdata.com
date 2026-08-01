@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-07-31T15:13:46.403Z",
+  "generatedAt": "2026-08-01T14:23:22.551Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Siri AI could come with a paywall for power users",
+          "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+          "content": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
+        },
         {
           "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
           "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
@@ -19,11 +24,6 @@
           "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
           "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
           "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood"
-        },
-        {
-          "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-          "link": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-          "content": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "BP Puts Its North Sea Drilling Business Up for Sale",
-          "link": "https://www.nytimes.com/2026/07/31/business/bp-north-sea.html",
-          "content": "The plans are part of the energy giant’s efforts to streamline operations, but BP has deep roots in the region."
+          "title": "The High-Stakes Battle for Invisible Real Estate in Space",
+          "link": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html",
+          "content": "As radio spectrum becomes more valuable, companies like SpaceX are jostling alongside governments to control more of it."
         },
         {
-          "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
-          "link": "https://www.nytimes.com/2026/07/31/business/economy/inflation-fed-dissent-interest-rates.html",
-          "content": "Internal divisions over whether to raise interest rates intensified at Kevin Warsh’s second meeting as chairman of the Federal Reserve."
+          "title": "The Fight Over the World’s Oldest Bank",
+          "link": "https://www.nytimes.com/2026/08/01/business/dealbook/italy-oldest-bank-takeover-battle.html",
+          "content": "Founded in 1472, Banca Monte dei Paschi di Siena has survived wars, pandemics and scandals. But a hostile takeover bid has Tuscans on edge."
         },
         {
-          "title": "What a Hedge Fund’s Implosion Says About the A.I. Trade",
-          "link": "https://www.nytimes.com/2026/07/31/business/dealbook/situational-awareness-ai-hedge-fund.html",
-          "content": "Situational Awareness caught the attention of Wall Street with its highly leveraged trades. It nearly collapsed amid a wave of market volatility."
+          "title": "Is A.I. ‘Scheming’ Against Us?",
+          "link": "https://www.nytimes.com/2026/08/01/business/ai-scheming.html",
+          "content": "Researchers are sounding the alarm on sneaky artificial intelligence models that stray from humans’ directions to do their own thing."
         },
         {
-          "title": "Iran War Drives Oil Profits to Highest Levels in Years",
-          "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/exxon-chevron-earnings-iran-war.html",
-          "content": "The world’s biggest oil companies are benefiting from the high commodity prices that have been a drag on the rest of the economy."
+          "title": "Leaving Property to Your Heirs Can Lead to Headache, not Robust Wealth",
+          "link": "https://www.nytimes.com/2026/08/01/business/inheritance-real-estate-retirement.html",
+          "content": "Real estate passed down without a clear title of ownership can prevent families from creating generational wealth."
         }
       ]
     }
