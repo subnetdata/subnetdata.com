@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-01T14:23:22.551Z",
+  "generatedAt": "2026-08-02T14:25:08.270Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Should you still buy your next smartphone — or subscribe to it instead?",
+          "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
+          "content": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing."
+        },
         {
           "title": "Siri AI could come with a paywall for power users",
           "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
@@ -19,11 +24,6 @@
           "title": "Apple says gaming slowdown and App Store changes hurt services growth",
           "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
           "content": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services busin"
-        },
-        {
-          "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-          "link": "https://techcrunch.com/2026/07/28/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-          "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The High-Stakes Battle for Invisible Real Estate in Space",
-          "link": "https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html",
-          "content": "As radio spectrum becomes more valuable, companies like SpaceX are jostling alongside governments to control more of it."
+          "title": "Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data",
+          "link": "https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html",
+          "content": "Nanit and other start-ups want to track your children through the night — and soon, for much longer than that."
         },
         {
-          "title": "The Fight Over the World’s Oldest Bank",
-          "link": "https://www.nytimes.com/2026/08/01/business/dealbook/italy-oldest-bank-takeover-battle.html",
-          "content": "Founded in 1472, Banca Monte dei Paschi di Siena has survived wars, pandemics and scandals. But a hostile takeover bid has Tuscans on edge."
+          "title": "13-Year-Olds Have Problems at Work, Too",
+          "link": "https://www.nytimes.com/2026/08/02/business/pool-problems.html",
+          "content": "What to do when the boys at the pool aren’t pulling their weight."
         },
         {
-          "title": "Is A.I. ‘Scheming’ Against Us?",
-          "link": "https://www.nytimes.com/2026/08/01/business/ai-scheming.html",
-          "content": "Researchers are sounding the alarm on sneaky artificial intelligence models that stray from humans’ directions to do their own thing."
+          "title": "Trump, Paul Weiss and the Capitulation of Big Law: 5 Takeaways",
+          "link": "https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html",
+          "content": "The law firm Paul Weiss led the legal resistance against President Trump. Then it led a sudden retreat across the legal industry. A Times investigation examined how it caved t"
         },
         {
-          "title": "Leaving Property to Your Heirs Can Lead to Headache, not Robust Wealth",
-          "link": "https://www.nytimes.com/2026/08/01/business/inheritance-real-estate-retirement.html",
-          "content": "Real estate passed down without a clear title of ownership can prevent families from creating generational wealth."
+          "title": "More Young College Graduates Are Living At Home. Is That a Bad Thing?",
+          "link": "https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html",
+          "content": "More young adults are living with their parents. The development suggests that they face a weak job market, but also that fewer face stigma in returning to the roost."
         }
       ]
     }
