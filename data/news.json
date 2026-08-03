@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-02T14:25:08.270Z",
+  "generatedAt": "2026-08-03T15:39:40.344Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "The global memory shortage hits the MacBook Air",
+          "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+          "content": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac."
+        },
+        {
+          "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+          "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+          "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood"
+        },
         {
           "title": "Should you still buy your next smartphone — or subscribe to it instead?",
           "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
@@ -14,16 +24,6 @@
           "title": "Siri AI could come with a paywall for power users",
           "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
           "content": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
-        },
-        {
-          "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
-          "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
-          "content": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September."
-        },
-        {
-          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
-          "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
-          "content": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services busin"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data",
-          "link": "https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html",
-          "content": "Nanit and other start-ups want to track your children through the night — and soon, for much longer than that."
+          "title": "Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia",
+          "link": "https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html",
+          "content": "Sharyn Alfonsi and Scott Pelley, who exited the show after clashing with executives at CBS News, will teach reporting skills."
         },
         {
-          "title": "13-Year-Olds Have Problems at Work, Too",
-          "link": "https://www.nytimes.com/2026/08/02/business/pool-problems.html",
-          "content": "What to do when the boys at the pool aren’t pulling their weight."
+          "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
+          "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+          "content": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets."
         },
         {
-          "title": "Trump, Paul Weiss and the Capitulation of Big Law: 5 Takeaways",
-          "link": "https://www.nytimes.com/2026/08/02/us/politics/trump-paul-weiss-takeaways.html",
-          "content": "The law firm Paul Weiss led the legal resistance against President Trump. Then it led a sudden retreat across the legal industry. A Times investigation examined how it caved t"
+          "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+          "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+          "content": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares."
         },
         {
-          "title": "More Young College Graduates Are Living At Home. Is That a Bad Thing?",
-          "link": "https://www.nytimes.com/2026/08/02/business/college-graduates-living-at-home.html",
-          "content": "More young adults are living with their parents. The development suggests that they face a weak job market, but also that fewer face stigma in returning to the roost."
+          "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
+          "link": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
+          "content": "Bullish investors are out in force on Monday despite more mixed messages about potential U.S.-Iran peace talks."
         }
       ]
     }
