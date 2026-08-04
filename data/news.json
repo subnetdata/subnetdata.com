@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-03T15:39:40.344Z",
+  "generatedAt": "2026-08-04T15:20:19.688Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "content": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential info"
+        },
+        {
+          "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
+          "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
+          "content": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world."
+        },
+        {
+          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+          "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+          "content": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer f"
+        },
+        {
           "title": "The global memory shortage hits the MacBook Air",
           "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
           "content": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac."
-        },
-        {
-          "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-          "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-          "content": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood"
-        },
-        {
-          "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-          "link": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-          "content": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing."
-        },
-        {
-          "title": "Siri AI could come with a paywall for power users",
-          "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-          "content": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia",
-          "link": "https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html",
-          "content": "Sharyn Alfonsi and Scott Pelley, who exited the show after clashing with executives at CBS News, will teach reporting skills."
+          "title": "Warsh Wanted ‘Regime Change.’ Markets Are Demanding a Reset.",
+          "link": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html",
+          "content": "After his latest appearance set off a bout of volatility, Kevin M. Warsh, the chairman of the Federal Reserve, is under pressure to clear up mixed signals about his commitment"
         },
         {
-          "title": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-          "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
-          "content": "The U.S. Treasury joined efforts in Tokyo to stem the yen’s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets."
+          "title": "U.S. Trade Deficit Dips in June as Imports Fall Back",
+          "link": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
+          "content": "Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed."
         },
         {
-          "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
-          "link": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
-          "content": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares."
+          "title": "Why Wall Street Is Feeling So Bullish",
+          "link": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html",
+          "content": "Booming corporate profits are driving the S&P 500 near another record, dampening concerns about the war, inflation and more."
         },
         {
-          "title": "Trump’s ‘Perimeter of a Deal’ Rallies the Market",
-          "link": "https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html",
-          "content": "Bullish investors are out in force on Monday despite more mixed messages about potential U.S.-Iran peace talks."
+          "title": "Stocks Open at Record High as Oil Falls on Hopes of Iran Deal",
+          "link": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html",
+          "content": "The price of Brent crude oil fell sharply"
         }
       ]
     }
