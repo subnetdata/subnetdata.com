@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T15:20:19.688Z",
+  "generatedAt": "2026-08-05T15:09:42.479Z",
   "sources": [
     {
       "name": "Apple",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Warsh Wanted ‘Regime Change.’ Markets Are Demanding a Reset.",
-          "link": "https://www.nytimes.com/2026/08/04/business/kevin-warsh-federal-reserve-markets.html",
-          "content": "After his latest appearance set off a bout of volatility, Kevin M. Warsh, the chairman of the Federal Reserve, is under pressure to clear up mixed signals about his commitment"
+          "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
+          "link": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html",
+          "content": "The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes."
         },
         {
-          "title": "U.S. Trade Deficit Dips in June as Imports Fall Back",
-          "link": "https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html",
-          "content": "Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed."
+          "title": "How China’s A.I. Is Surging Across Africa",
+          "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+          "content": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones."
         },
         {
-          "title": "Why Wall Street Is Feeling So Bullish",
-          "link": "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html",
-          "content": "Booming corporate profits are driving the S&P 500 near another record, dampening concerns about the war, inflation and more."
+          "title": "The Winners of Trump’s A.I. Safety Plan",
+          "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
+          "content": "The Trump administration’s new safety review guidelines appear to exempt Chinese artificial intelligence models. OpenAI’s and Anthropic’s aren’t."
         },
         {
-          "title": "Stocks Open at Record High as Oil Falls on Hopes of Iran Deal",
-          "link": "https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html",
-          "content": "The price of Brent crude oil fell sharply"
+          "title": "The New York Times’s Revenue Rises 11%",
+          "link": "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html",
+          "content": "The company said it added 280,000 digital subscribers in the second quarter."
         }
       ]
     }
