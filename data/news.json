@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-05T15:09:42.479Z",
+  "generatedAt": "2026-08-07T14:07:27.336Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+          "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+          "content": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an App"
+        },
+        {
+          "title": "PSA: Apple’s Private Relay can leak your real IP address",
+          "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
+          "content": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses."
+        },
         {
           "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
           "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
@@ -14,16 +24,6 @@
           "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
           "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
           "content": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world."
-        },
-        {
-          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-          "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-          "content": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer f"
-        },
-        {
-          "title": "The global memory shortage hits the MacBook Air",
-          "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-          "content": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How Malta Became a Tax Haven for Crocs and Other U.S. Companies",
-          "link": "https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html",
-          "content": "The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes."
+          "title": "If You’re Struggling to Pay Day-to-Day Bills, There’s Help",
+          "link": "https://www.nytimes.com/2026/08/07/your-money/debt-bills.html",
+          "content": "Nonprofit financial counselors say there has been a significant increase this year in the number of borrowers seeking their advice."
         },
         {
-          "title": "How China’s A.I. Is Surging Across Africa",
-          "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
-          "content": "In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones."
+          "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
+          "link": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
+          "content": "While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon "
         },
         {
-          "title": "The Winners of Trump’s A.I. Safety Plan",
-          "link": "https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html",
-          "content": "The Trump administration’s new safety review guidelines appear to exempt Chinese artificial intelligence models. OpenAI’s and Anthropic’s aren’t."
+          "title": "Jobs Report Poses New Test for Warsh and the Fed",
+          "link": "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html",
+          "content": "Friday’s jobs report comes as investors increasingly expect the Federal Reserve to begin raising interest rates as soon as next month."
         },
         {
-          "title": "The New York Times’s Revenue Rises 11%",
-          "link": "https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html",
-          "content": "The company said it added 280,000 digital subscribers in the second quarter."
+          "title": "Here’s the latest.",
+          "link": "https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest",
+          "content": ""
         }
       ]
     }
