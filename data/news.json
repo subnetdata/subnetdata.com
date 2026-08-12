@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-11T14:15:02.483Z",
+  "generatedAt": "2026-08-12T14:17:05.835Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Block Blast! goes ad-free on Apple Arcade",
+          "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
+          "content": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free."
+        },
         {
           "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
           "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
@@ -19,11 +24,6 @@
           "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
           "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
           "content": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential info"
-        },
-        {
-          "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-          "link": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-          "content": "Apple has appealed a new legal demand by the U.K. government, which critics say could threaten the privacy rights of users all over the world."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "G.M’s ‘Car Guy’ Talks Electrics, China and Nepotism",
-          "link": "https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html",
-          "content": "Mark Reuss became the automaker’s president seven years ago, ascending to a role his father was fired from decades before. We got the chance to speak with him."
+          "title": "Will Paramount’s Brinkmanship Work?",
+          "link": "https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html",
+          "content": "The media company’s leader, David Ellison, is threatening to pull the company out of California in the face of a lawsuit by states seeking to block its big deal."
         },
         {
-          "title": "Robots That Walk and Talk Are Coming to Car Factories",
-          "link": "https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html",
-          "content": "But experts warn they may not deliver the gains in efficiency that proponents claim."
+          "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
+          "link": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
+          "content": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank."
         },
         {
-          "title": "Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End",
-          "link": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
-          "content": "The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval."
+          "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase",
+          "link": "https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html",
+          "content": "The latest Consumer Price Index report helped to reinforce the patient approach adopted by many officials at the Federal Reserve about raising rates, but it has not resolved t"
         },
         {
-          "title": "The Perils of Wall St.’s Race to Pour Billions More Into A.I.",
-          "link": "https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html",
-          "content": "Investors including BlackRock have committed an eye-popping amount to lend to the artificial intelligence industry. That enthusiasm isn’t shared by everyone."
+          "title": "The labor market slowed as employers grew wary of hiring.",
+          "link": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring",
+          "content": ""
         }
       ]
     }
