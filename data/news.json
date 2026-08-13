@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T14:17:05.835Z",
+  "generatedAt": "2026-08-13T14:18:52.881Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
+          "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
+          "content": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them."
+        },
+        {
           "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
           "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
           "content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
@@ -45,11 +50,6 @@
           "title": "Satya Nadella says companies that trust one AI for everything may not survive",
           "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
           "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella"
-        },
-        {
-          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-          "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-          "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Will Paramount’s Brinkmanship Work?",
-          "link": "https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html",
-          "content": "The media company’s leader, David Ellison, is threatening to pull the company out of California in the face of a lawsuit by states seeking to block its big deal."
+          "title": "How Bob Iger and Joshua Kushner’s Bromance Led Them to Lakers",
+          "link": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
+          "content": "Bob Iger, the former chief executive of Disney, and Josh Kushner, the venture capitalist, are buying the Los Angeles Lakers. Their wives set them up."
         },
         {
-          "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
-          "link": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
-          "content": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank."
+          "title": "Inside the $12.5 Billion Deal for the Lakers",
+          "link": "https://www.nytimes.com/2026/08/13/business/dealbook/lakers-deal-kushner-iger-walter.html",
+          "content": "The transaction, hashed out last weekend, reflects the huge profit potential of major sports franchises."
         },
         {
-          "title": "Benign Inflation Data Offers Reprieve to Fed as It Weighs Rate Increase",
-          "link": "https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html",
-          "content": "The latest Consumer Price Index report helped to reinforce the patient approach adopted by many officials at the Federal Reserve about raising rates, but it has not resolved t"
+          "title": "What We Know About Taylor Farms’ Food Recalls",
+          "link": "https://www.nytimes.com/2026/08/13/business/taylor-farms-recalls-cyclospora-salmonella.html",
+          "content": "Just weeks after the company recalled lettuce and other produce suspected of being tainted by the cyclosporiasis parasite, it recalled jalapeños linked to a salmonella outbrea"
         },
         {
-          "title": "The labor market slowed as employers grew wary of hiring.",
-          "link": "https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring",
-          "content": ""
+          "title": "America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.",
+          "link": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+          "content": "China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete."
         }
       ]
     }
