@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-13T14:18:52.881Z",
+  "generatedAt": "2026-08-14T14:11:41.366Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+          "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+          "content": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
+        },
+        {
+          "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+          "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+          "content": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
+        },
         {
           "title": "Block Blast! goes ad-free on Apple Arcade",
           "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
@@ -14,16 +24,6 @@
           "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
           "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
           "content": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an App"
-        },
-        {
-          "title": "PSA: Apple’s Private Relay can leak your real IP address",
-          "link": "https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/",
-          "content": "A bug in how Apple implements its Private Relay feature, which in theory masks users’ IP addresses from the sites they visit, can reveal users’ real IP addresses."
-        },
-        {
-          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-          "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-          "content": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential info"
         }
       ]
     },
@@ -31,6 +31,16 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+          "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+          "content": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+        },
+        {
+          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+          "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+          "content": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
+        },
         {
           "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
           "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
@@ -40,16 +50,6 @@
           "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
           "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
           "content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
-        },
-        {
-          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-          "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-          "content": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in t"
-        },
-        {
-          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-          "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-          "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How Bob Iger and Joshua Kushner’s Bromance Led Them to Lakers",
-          "link": "https://www.nytimes.com/2026/08/13/business/bob-iger-joshua-kushner-lakers.html",
-          "content": "Bob Iger, the former chief executive of Disney, and Josh Kushner, the venture capitalist, are buying the Los Angeles Lakers. Their wives set them up."
+          "title": "The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?",
+          "link": "https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html",
+          "content": "The S&P 500 is in position for a rare fourth year of consecutive annual gains. Risks are rising, our columnist says, yet Wall Street is doubling down."
         },
         {
-          "title": "Inside the $12.5 Billion Deal for the Lakers",
-          "link": "https://www.nytimes.com/2026/08/13/business/dealbook/lakers-deal-kushner-iger-walter.html",
-          "content": "The transaction, hashed out last weekend, reflects the huge profit potential of major sports franchises."
+          "title": "Robinhood Bets Again on a Public Venture Capital Fund",
+          "link": "https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html",
+          "content": "The trading platform raised $200 million for a second publicly traded vehicle to let ordinary investors buy into privately held start-ups."
         },
         {
-          "title": "What We Know About Taylor Farms’ Food Recalls",
-          "link": "https://www.nytimes.com/2026/08/13/business/taylor-farms-recalls-cyclospora-salmonella.html",
-          "content": "Just weeks after the company recalled lettuce and other produce suspected of being tainted by the cyclosporiasis parasite, it recalled jalapeños linked to a salmonella outbrea"
+          "title": "New Yorkers Can’t Stop Lining Up for This Sushi",
+          "link": "https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html",
+          "content": "At a proliferating number of stores, discounts on sushi and other items are offered after 8 p.m. To get the best meals, you have to be there early."
         },
         {
-          "title": "America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.",
-          "link": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
-          "content": "China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete."
+          "title": "A Silicon Valley Dirt Farmer Hangs Up His Shears",
+          "link": "https://www.nytimes.com/2026/08/14/business/andys-orchard-silicon-valley.html",
+          "content": "Andy Mariani grows exotic and ethereally delicious stone fruit in the shadow of tech giants. But at age 80, it’s time to give up the land."
         }
       ]
     }
