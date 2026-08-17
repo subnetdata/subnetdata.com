@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:25:34.036Z",
+  "generatedAt": "2026-08-17T13:34:04.313Z",
   "sources": [
     {
       "name": "Apple",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
+          "title": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
+          "link": "https://www.nytimes.com/2026/08/17/business/dealbook/cuban-founders-california-wealth-tax.html",
+          "content": "Some entrepreneurs, including Mark Cuban, are publicly worried about the potential fallout from California’s proposal to impose a special billionaire tax."
+        },
+        {
+          "title": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
+          "link": "https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html",
+          "content": "Inbolt, a French start-up that sells robot vision systems, helped a Stellantis plant in Detroit become a top performer in the company."
+        },
+        {
+          "title": "As China Hunts for Scientific Talent, the US Makes It Easier",
+          "link": "https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html",
+          "content": "Young researchers have long come to the U.S. for academic training, but a combination of Chinese money and U.S. restrictions is shifting the balance."
+        },
+        {
           "title": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
           "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
           "content": "A dubious post that spread on X became the basis of false claims that Iran’s leadership had declared it a nuclear power."
-        },
-        {
-          "title": "Should I Publicize a Bad Publicist?",
-          "link": "https://www.nytimes.com/2026/08/16/business/bad-boss-warning.html",
-          "content": "Plus: An intern considers whether to give the boss an honest review."
-        },
-        {
-          "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
-          "link": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
-          "content": "Policymakers around the country are maneuvering to ensure that tech giants aren’t the only ones who stand to benefit."
-        },
-        {
-          "title": "2 Planes With Same Call Sign in Phoenix Could Have Been ‘Disastrous’",
-          "link": "https://www.nytimes.com/2026/08/15/us/american-airlines-call-signs-phoenix.html",
-          "content": "An air traffic controller noticed that two planes — one departing, one landing — were both flight 2482. He acted quickly to avoid confusion."
         }
       ]
     }
