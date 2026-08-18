@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-17T13:34:04.313Z",
+  "generatedAt": "2026-08-18T13:36:39.499Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+          "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
+          "content": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
+        },
+        {
+          "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+          "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+          "content": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high."
+        },
         {
           "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
           "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
@@ -14,16 +24,6 @@
           "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
           "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
           "content": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
-        },
-        {
-          "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-          "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-          "content": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
-        },
-        {
-          "title": "Block Blast! goes ad-free on Apple Arcade",
-          "link": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
-          "content": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Mark Cuban and Other Founders Wade Into Wealth Tax Debate",
-          "link": "https://www.nytimes.com/2026/08/17/business/dealbook/cuban-founders-california-wealth-tax.html",
-          "content": "Some entrepreneurs, including Mark Cuban, are publicly worried about the potential fallout from California’s proposal to impose a special billionaire tax."
+          "title": "ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses",
+          "link": "https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html",
+          "content": "The network asked a court to stop the agency from taking steps that could force ABC stations off the air and accused the F.C.C. of violating its First Amendment rights."
         },
         {
-          "title": "A French Start-Up, Inbolt, Makes Robots See, and Work, Better",
-          "link": "https://www.nytimes.com/2026/08/17/business/robots-stellantis-inbolt.html",
-          "content": "Inbolt, a French start-up that sells robot vision systems, helped a Stellantis plant in Detroit become a top performer in the company."
+          "title": "Ship Exiting the Strait of Hormuz Is Attacked",
+          "link": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
+          "content": "At least 17 commercial sailors have been killed in and around Iranian and Omani waters since March. Six months into the conflict, the vital waterway remains exceptionally dang"
         },
         {
-          "title": "As China Hunts for Scientific Talent, the US Makes It Easier",
-          "link": "https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html",
-          "content": "Young researchers have long come to the U.S. for academic training, but a combination of Chinese money and U.S. restrictions is shifting the balance."
+          "title": "Is Silicon Valley in the Justice Dept.’s Sights?",
+          "link": "https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html",
+          "content": "Federal prosecutors are reportedly investigating Andreessen Horowitz, the venture capital giant, over board seats it holds."
         },
         {
-          "title": "How a False Nuclear Claim About Iran Ricocheted From India to Washington",
-          "link": "https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html",
-          "content": "A dubious post that spread on X became the basis of false claims that Iran’s leadership had declared it a nuclear power."
+          "title": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors",
+          "link": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
+          "content": "The yield on the 30-year U.S. Treasury bond rose to its highest level in nearly 20 years."
         }
       ]
     }
