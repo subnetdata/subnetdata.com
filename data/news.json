@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-18T13:36:39.499Z",
+  "generatedAt": "2026-08-19T13:38:25.019Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+          "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+          "content": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers t"
+        },
+        {
+          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+          "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+          "content": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+        },
+        {
           "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
           "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
-          "content": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
+          "content": "A video in a macOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
         },
         {
           "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
           "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
           "content": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high."
-        },
-        {
-          "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
-          "link": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
-          "content": "Apple is asking a federal judge to allow it to charge commissions of up to 15% on purchases made through external links in iOS apps."
-        },
-        {
-          "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-          "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-          "content": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses",
-          "link": "https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html",
-          "content": "The network asked a court to stop the agency from taking steps that could force ABC stations off the air and accused the F.C.C. of violating its First Amendment rights."
+          "title": "The Rising Stakes of the Global Bond Rout",
+          "link": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html",
+          "content": "There were already several factors rattling investors. A further rise in bond yields is making things more expensive for everyone."
         },
         {
-          "title": "Ship Exiting the Strait of Hormuz Is Attacked",
-          "link": "https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html",
-          "content": "At least 17 commercial sailors have been killed in and around Iranian and Omani waters since March. Six months into the conflict, the vital waterway remains exceptionally dang"
+          "title": "Many Student Loan Borrowers May Have to Switch to Worse Repayment Plans",
+          "link": "https://www.nytimes.com/2026/08/19/business/student-loans-ibr-paye.html",
+          "content": "In an unusual move, Congress worsened terms for some existing borrowers. Now they’ll have to pay more, and for a longer term."
         },
         {
-          "title": "Is Silicon Valley in the Justice Dept.’s Sights?",
-          "link": "https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html",
-          "content": "Federal prosecutors are reportedly investigating Andreessen Horowitz, the venture capital giant, over board seats it holds."
+          "title": "Europe Hurries to Fund More Cutting-Edge Businesses to Compete With China and U.S.",
+          "link": "https://www.nytimes.com/2026/08/19/business/economy/europe-investment-innovation-competition-us-china.html",
+          "content": "European governments, facing a nearly $1 trillion gap in investment funding, are casting a wide net to back start-ups developing pioneering technologies."
         },
         {
-          "title": "Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors",
-          "link": "https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html",
-          "content": "The yield on the 30-year U.S. Treasury bond rose to its highest level in nearly 20 years."
+          "title": "How to Find the Best Flight and Travel Deals Over Labor Day and Beyond",
+          "link": "https://www.nytimes.com/2026/08/19/travel/travel-deals-labor-day.html",
+          "content": "Last-minute budget strategies rest on one key principle: flexibility."
         }
       ]
     }
