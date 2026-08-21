@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-20T13:40:00.769Z",
+  "generatedAt": "2026-08-21T13:39:31.375Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "content": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+        },
         {
           "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
           "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
@@ -19,11 +24,6 @@
           "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
           "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
           "content": "A video in a macOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
-        },
-        {
-          "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-          "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-          "content": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets",
-          "link": "https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html",
-          "content": "Walmart and other big U.S. retailers have warned that consumers were being cautious, even if personal balance sheets seemed healthy."
+          "title": "Hurricane Season Has Been Calm. Should You Have Flood Insurance?",
+          "link": "https://www.nytimes.com/2026/08/21/your-money/hurricane-season-has-been-calm-should-you-have-flood-insurance.html",
+          "content": "No hurricane-strength storms have formed yet this year in the Atlantic basin, but the limiting activity isn’t certain to continue."
         },
         {
-          "title": "Did Bessent Put the Fed in a Bind?",
-          "link": "https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html",
-          "content": "The Treasury Department’s plan for bond interventions has calmed markets. But Wall Street is worried about the fallout for inflation and more."
+          "title": "Can Bessent’s ‘Big Tool Kit’ Calm Bond Investors?",
+          "link": "https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html",
+          "content": "Treasury Secretary Scott Bessent has vowed to step up efforts to restore calm to the debt markets. So far, it’s not working out that way."
         },
         {
-          "title": "Oil Prices Jump and Bond Market Stress Returns",
-          "link": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
-          "content": "Bond markets remained volatile, as investors assessed the geopolitical turmoil."
+          "title": "Stocks and Bonds Steady at the End of a Tumultuous Week",
+          "link": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+          "content": "Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets."
         },
         {
-          "title": "Moderna’s Shift to Cancer Company Lifts Stock Up 177%",
-          "link": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
-          "content": "The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else."
+          "title": "Should You Invest in Bonds Right Now?",
+          "link": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
+          "content": "High-quality bonds are still safer than stocks, but they have been swinging in value, so move cautiously, our columnist says."
         }
       ]
     }
