@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-25T13:42:53.425Z",
+  "generatedAt": "2026-08-26T13:48:38.396Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+          "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+          "content": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses."
+        },
+        {
+          "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+          "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+          "content": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio."
+        },
+        {
+          "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
+          "link": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+          "content": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899."
+        },
+        {
           "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
           "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
           "content": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives."
-        },
-        {
-          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-          "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-          "content": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
-        },
-        {
-          "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-          "link": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
-          "content": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers t"
-        },
-        {
-          "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-          "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-          "content": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "China Pushes Back After Trump Tightens the Screws on Iran",
-          "link": "https://www.nytimes.com/2026/08/25/business/us-bessent-china-iran.html",
-          "content": "The Trump administration risks a clash with Beijing as it tries to cut off Iran’s economic lifelines without upending a fragile U.S.-China truce."
+          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
+          "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
+          "content": "The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endang"
         },
         {
-          "title": "The Heat on Treasury Secretary Scott Bessent Grows",
-          "link": "https://www.nytimes.com/2026/08/25/business/dealbook/bessent-bond-market-druckenmiller.html",
-          "content": "Treasury Secretary Scott Bessent’s plans to intervene in bond markets have drawn widespread criticism, including from a prominent former mentor."
+          "title": "PCE Index Shows Inflation Remained Elevated in July Amid High Energy Costs",
+          "link": "https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html",
+          "content": "The Personal Consumption Expenditure index, the Federal Reserve’s preferred inflation tracker, held steady in July."
         },
         {
-          "title": "This A.I. Start-Up Aims to Reverse the Backlash Against Data Centers",
-          "link": "https://www.nytimes.com/2026/08/25/business/dealbook/emerald-ai-start-up-data-center-backlash.html",
-          "content": "Emerald AI, now valued at $1.05 billion, uses software to keep power demand at the computing facilities from getting out of control."
+          "title": "Wall St. Scrutinizes Nvidia’s Deal Machine",
+          "link": "https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html",
+          "content": "Investors are awaiting the chipmaker’s latest quarterly earnings — and are anxious about its huge portfolio of artificial intelligence investments."
         },
         {
-          "title": "Target Apologizes and Drops Halloween Costume Criticized as Racist",
-          "link": "https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html",
-          "content": "Critics said the children’s costume evoked blackface imagery. The retailer said, “We know we got this wrong, and we are deeply sorry.”"
+          "title": "‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates",
+          "link": "https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html",
+          "content": "Kevin M. Warsh is scheduled to deliver his first address at the Federal Reserve’s annual conference in Jackson, Wyo., with U.S. government bond markets on edge and inflation r"
         }
       ]
     }
