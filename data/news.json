@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-26T13:48:38.396Z",
+  "generatedAt": "2026-08-27T22:43:25.880Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple is holding its iPhone launch event on September 9",
+          "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+          "content": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is "
+        },
         {
           "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
           "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
@@ -19,11 +24,6 @@
           "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
           "link": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
           "content": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899."
-        },
-        {
-          "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
-          "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-          "content": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+          "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+          "content": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can war"
+        },
         {
           "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
           "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
@@ -45,11 +50,6 @@
           "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
           "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
           "content": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them."
-        },
-        {
-          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-          "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-          "content": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
-          "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
-          "content": "The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endang"
+          "title": "Benjamin Rosen, Who Brought Venture Capital to Tech, Dies at 93",
+          "link": "https://www.nytimes.com/2026/08/27/business/ben-rosen-dead.html",
+          "content": "An advocate for Apple on Wall Street, he was also a founding investor in early personal computing firms like Lotus and Compaq, where he served as chairman."
         },
         {
-          "title": "PCE Index Shows Inflation Remained Elevated in July Amid High Energy Costs",
-          "link": "https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html",
-          "content": "The Personal Consumption Expenditure index, the Federal Reserve’s preferred inflation tracker, held steady in July."
+          "title": "Dollar Tree and Dollar General Report Sales Gains as Shoppers Cut Costs",
+          "link": "https://www.nytimes.com/2026/08/27/business/dollar-general-dollar-tree.html",
+          "content": "Dollar General and Dollar Tree each reported gains in sales and store traffic on Thursday as higher gas prices forced shoppers to pare back."
         },
         {
-          "title": "Wall St. Scrutinizes Nvidia’s Deal Machine",
-          "link": "https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html",
-          "content": "Investors are awaiting the chipmaker’s latest quarterly earnings — and are anxious about its huge portfolio of artificial intelligence investments."
+          "title": "How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs",
+          "link": "https://www.nytimes.com/2026/08/27/business/ssense-canada-tariffs-trump.html",
+          "content": "Ssense’s comeback efforts include moving a core part of its business to the United States so American customers can avoid hefty tariffs."
         },
         {
-          "title": "‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates",
-          "link": "https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html",
-          "content": "Kevin M. Warsh is scheduled to deliver his first address at the Federal Reserve’s annual conference in Jackson, Wyo., with U.S. government bond markets on edge and inflation r"
+          "title": "“Anxious Generation” Author Jonathan Haidt on the Meta Settlement",
+          "link": "https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html",
+          "content": "In “The Anxious Generation,” he laid out the evils of social media for kids. The landmark Meta settlement seems to agree."
         }
       ]
     }
