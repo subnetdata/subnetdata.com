@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-08-27T22:43:25.880Z",
+  "generatedAt": "2026-08-28T22:50:32.829Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple TV is raising its subscription prices again",
+          "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
+          "content": "Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month."
+        },
         {
           "title": "Apple is holding its iPhone launch event on September 9",
           "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
@@ -19,11 +24,6 @@
           "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
           "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
           "content": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio."
-        },
-        {
-          "title": "Apple’s latest Mac Mini runs on a new M6 chip, and starts at $899",
-          "link": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
-          "content": "The base model of the Mac Mini comes with 256GB of storage, 16GB of RAM, and costs $899."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+          "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "content": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI b"
+        },
         {
           "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
           "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
@@ -45,11 +50,6 @@
           "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
           "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
           "content": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
-        },
-        {
-          "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-          "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-          "content": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Benjamin Rosen, Who Brought Venture Capital to Tech, Dies at 93",
-          "link": "https://www.nytimes.com/2026/08/27/business/ben-rosen-dead.html",
-          "content": "An advocate for Apple on Wall Street, he was also a founding investor in early personal computing firms like Lotus and Compaq, where he served as chairman."
+          "title": "Prediction Markets Should Be Regulated as Gambling, Appeals Court Says",
+          "link": "https://www.nytimes.com/2026/08/28/technology/kalshi-prediction-markets-federal-courts.html",
+          "content": "The outcome contradicted an earlier appeals court decision. Federal regulators said the split rulings called for resolution by the Supreme Court."
         },
         {
-          "title": "Dollar Tree and Dollar General Report Sales Gains as Shoppers Cut Costs",
-          "link": "https://www.nytimes.com/2026/08/27/business/dollar-general-dollar-tree.html",
-          "content": "Dollar General and Dollar Tree each reported gains in sales and store traffic on Thursday as higher gas prices forced shoppers to pare back."
+          "title": "Chevron Is in Talks to Expand in Venezuela, a Potential Win for Trump",
+          "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/chevron-venezuela-oil-deal.html",
+          "content": "President Trump’s administration has been pushing U.S. companies like Chevron to invest more in Venezuela’s oil industry."
         },
         {
-          "title": "How SSENSE, a Canadian Retailer, Is Grappling With Trump’s Tariffs",
-          "link": "https://www.nytimes.com/2026/08/27/business/ssense-canada-tariffs-trump.html",
-          "content": "Ssense’s comeback efforts include moving a core part of its business to the United States so American customers can avoid hefty tariffs."
+          "title": "Trump Updates $15 Billion Libel Lawsuit Against The New York Times",
+          "link": "https://www.nytimes.com/2026/08/28/business/media/trump-new-york-times-lawsuit.html",
+          "content": "The president has argued that the news organization sought to undermine his 2024 presidential campaign by disparaging his reputation as a businessman. The Times has moved to d"
         },
         {
-          "title": "“Anxious Generation” Author Jonathan Haidt on the Meta Settlement",
-          "link": "https://www.nytimes.com/2026/08/27/style/meta-jonathan-haidt-anxious-generation.html",
-          "content": "In “The Anxious Generation,” he laid out the evils of social media for kids. The landmark Meta settlement seems to agree."
+          "title": "Investors Expect Higher Rates After Fed Chairman’s Inflation Pledge",
+          "link": "https://www.nytimes.com/2026/08/28/business/markets-stocks-bonds-warsh-jackson-hole.html",
+          "content": "Kevin Warsh reiterated the Federal Reserve’s commitment to tackle rising prices, nudging up investor expectations of a rate increase."
         }
       ]
     }
