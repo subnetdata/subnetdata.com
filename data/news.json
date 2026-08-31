@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-08-30T17:06:37.161Z",
+  "generatedAt": "2026-08-31T19:20:29.134Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+          "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+          "content": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring."
+        },
+        {
+          "title": "Tim Cook’s parting message: Apple is in the hands of a product builder",
+          "link": "https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/",
+          "content": "Tim Cook’s farewell memo to Apple employees offers a glimpse at how he wants John Ternus to be seen: as a product builder with deep experience across the iPhone, Mac, AirPods,"
+        },
         {
           "title": "Apple TV is raising its subscription prices again",
           "link": "https://techcrunch.com/2026/08/28/apple-tv-is-raising-its-subscription-prices-again/",
@@ -14,16 +24,6 @@
           "title": "Apple is holding its iPhone launch event on September 9",
           "link": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
           "content": "The event is expected to be a notable one, as Apple is rumored to unveil its long-awaited foldable iPhone. It'll also be the first Apple event with John Ternus as CEO, who is "
-        },
-        {
-          "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-          "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-          "content": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses."
-        },
-        {
-          "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-          "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-          "content": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft tests fix for latest hours-long Outlook outage",
+          "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
+          "content": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures."
+        },
         {
           "title": "Neocloud Lambda secures $1B in debt to buy more chips",
           "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -45,11 +50,6 @@
           "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
           "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
           "content": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
-        },
-        {
-          "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-          "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-          "content": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "U.A.E. To Review Banque Misr, Targeted by Iran Sanctions",
-          "link": "https://www.nytimes.com/2026/08/30/world/middleeast/uae-banque-misr-treasury-iran.html",
-          "content": "The Treasury Department accused Banque Misr’s branches in the United Arab Emirates of helping Iran. The Emirati central bank promised an examination."
+          "title": "Kalshi Permanently Bars George Santos From the Platform",
+          "link": "https://www.nytimes.com/2026/08/31/business/kalshi-bans-george-santos.html",
+          "content": "The prediction market said it had barred George Santos, the former congressman from New York, and fined him $71,356 over evidence he engaged in insider trading."
         },
         {
-          "title": "A Mortgage Servicer Sent a Letter About an Address Change. Was It Deed Theft?",
-          "link": "https://www.nytimes.com/2026/08/30/business/address-change-mortgage-scam.html",
-          "content": "A letter arrived in the mail from PNC Bank about an address change on a mortgage account. Was a deed theft scheme in process?"
+          "title": "Private Equity Wants to Invest in College Sports. Some Schools Are Wary.",
+          "link": "https://www.nytimes.com/2026/08/31/business/private-equity-college-sports.html",
+          "content": "As desperate as many athletic programs are for money, they are proceeding cautiously when it comes to deals with private equity."
         },
         {
-          "title": "The Case of the Truly Incorrigible Cubicle Yakker",
-          "link": "https://www.nytimes.com/2026/08/30/business/the-case-of-the-truly-incorrigible-cubicle-yakker.html",
-          "content": "Plus: Is it normal to video-interview for a job while the hiring panel’s cameras are all off?"
+          "title": "U.S. Start-Up and Saudi Arabia Form Data Center Partnership",
+          "link": "https://www.nytimes.com/2026/08/31/business/dealbook/together-ai-humain-saudi-arabia-data-center.html",
+          "content": "Together AI, which serves open-source artificial intelligence models, announced a deal to use compute from Humain in Saudi Arabia, where it can bypass U.S. backlash over data "
         },
         {
-          "title": "Help Wanted: ‘Forward-Deployed’ Humans for the A.I. Era",
-          "link": "https://www.nytimes.com/2026/08/30/business/forward-deployed-ai.html",
-          "content": "Start-ups are using the military-derived term to glorify customer-facing work as clients seek people to help set up artificial intelligence tools."
+          "title": "Global Oil Price Rises to $90 a Barrel After U.S. and Iran Trade Attacks",
+          "link": "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html",
+          "content": "The first attacks in a month jolted energy markets. The average U.S. gasoline price remained 37 percent higher since the war began."
         }
       ]
     }
