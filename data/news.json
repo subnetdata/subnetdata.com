@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-03T16:49:56.194Z",
+  "generatedAt": "2026-09-04T16:41:15.961Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+          "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+          "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge la"
+        },
         {
           "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
           "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
@@ -19,11 +24,6 @@
           "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
           "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
           "content": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
-        },
-        {
-          "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-          "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-          "content": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Leon Black Sues Congressional Panel Investigating Epstein",
-          "link": "https://www.nytimes.com/2026/09/03/business/leon-black-sues-congressional-panel-investigating-epstein.html",
-          "content": "The billionaire skipped a deposition on Thursday and filed a lawsuit seeking to block a House committee’s subpoenas demanding nondisclosure agreements he may have made with wo"
+          "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
+          "link": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html",
+          "content": "The president said he could halt trade between the United States and countries with which it has a trade deficit if the central bank doesn’t do his bidding."
         },
         {
-          "title": "The Athletic Says Dianna Russini’s Relationship With Mike Vrabel Violated Its Standards",
-          "link": "https://www.nytimes.com/2026/09/03/business/athletic-russini-vrabel-relationship.html",
-          "content": "The New York Times-owned publication said the relationship between its former reporter Dianna Russini and Mike Vrabel of the Patriots gave the appearance of a conflict of inte"
+          "title": "The U.S. Wants the Oil From These 17 Venezuelan Fields",
+          "link": "https://www.nytimes.com/2026/09/04/business/energy-environment/venezuela-oil-fields-betancourt-trump.html",
+          "content": "A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars."
         },
         {
-          "title": "Schools Giving Aid to Minority Students Could Lose Tax Exemptions Under Trump’s New Rules",
-          "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
-          "content": "The Treasury Department released rules that would prevent schools with race-based programs from qualifying for tax-exempt status, a threat to both higher education and other p"
+          "title": "How Gloria Steinem and Ms. Magazine Transformed the Publishing Industry",
+          "link": "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html",
+          "content": "The late feminist icon insisted that women were not a niche audience — and proved it in 1971 with the start of an influential publication owned and operated by them."
         },
         {
-          "title": "U.S. Trade Gap Ballooned in July",
-          "link": "https://www.nytimes.com/2026/09/03/business/economy/us-trade-defecit-july.html",
-          "content": "The trade deficit bounced back up last month as spending on data centers to feed the A.I. boom drove up imports."
+          "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+          "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
+          "content": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulatio"
         }
       ]
     }
