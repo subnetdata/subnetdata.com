@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-04T16:41:15.961Z",
+  "generatedAt": "2026-09-05T15:44:17.174Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "What will Apple’s John Ternus era look like?",
+          "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+          "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge la"
+        },
         {
           "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
           "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
@@ -19,11 +24,6 @@
           "title": "Who is John Ternus, the new Apple CEO?",
           "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
           "content": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, "
-        },
-        {
-          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-          "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-          "content": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates",
-          "link": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html",
-          "content": "The president said he could halt trade between the United States and countries with which it has a trade deficit if the central bank doesn’t do his bidding."
+          "title": "What Led to Maria Bartiromo’s Downfall at Fox News",
+          "link": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
+          "content": "The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit."
         },
         {
-          "title": "The U.S. Wants the Oil From These 17 Venezuelan Fields",
-          "link": "https://www.nytimes.com/2026/09/04/business/energy-environment/venezuela-oil-fields-betancourt-trump.html",
-          "content": "A private oil company has struck a deal with the Trump administration to develop 17 areas in Venezuela, an effort that experts say will take years and billions of dollars."
+          "title": "Will a Turnaround Plan Revive Volkswagen or Merely Delay Its Demise?",
+          "link": "https://www.nytimes.com/2026/09/05/business/volkswagen-jobs-layoffs-restructuring-future.html",
+          "content": "The beleaguered auto giant reached a deal with unions to cut tens of thousands of jobs and slash production. Is it enough to revive an iconic German company?"
         },
         {
-          "title": "How Gloria Steinem and Ms. Magazine Transformed the Publishing Industry",
-          "link": "https://www.nytimes.com/2026/09/04/business/media/gloria-steinem-ms-magazine.html",
-          "content": "The late feminist icon insisted that women were not a niche audience — and proved it in 1971 with the start of an influential publication owned and operated by them."
+          "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+          "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+          "content": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business."
         },
         {
-          "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
-          "link": "https://www.nytimes.com/2026/09/04/business/tesla-cybercab-nhtsa-investigation.html",
-          "content": "The National Highway Traffic Safety Administration said it would examine whether the company’s new self-driving taxi, which has no steering wheel, meets federal auto regulatio"
+          "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+          "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+          "content": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline."
         }
       ]
     }
