@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T15:44:17.174Z",
+  "generatedAt": "2026-09-06T15:55:56.962Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
+        },
+        {
           "title": "Microsoft 365 outage drags on, but things are improving",
           "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
           "content": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates."
@@ -45,11 +50,6 @@
           "title": "Neocloud Lambda secures $1B in debt to buy more chips",
           "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
           "content": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI b"
-        },
-        {
-          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-          "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-          "content": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can war"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "What Led to Maria Bartiromo’s Downfall at Fox News",
-          "link": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
-          "content": "The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit."
+          "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
+          "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
+          "content": "The decision on Sunday by the cartel of oil-producing nations and some of its allies came after the resumption of U.S. and Iranian military strikes in the Persian Gulf."
         },
         {
-          "title": "Will a Turnaround Plan Revive Volkswagen or Merely Delay Its Demise?",
-          "link": "https://www.nytimes.com/2026/09/05/business/volkswagen-jobs-layoffs-restructuring-future.html",
-          "content": "The beleaguered auto giant reached a deal with unions to cut tens of thousands of jobs and slash production. Is it enough to revive an iconic German company?"
+          "title": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
+          "link": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
+          "content": "The U.S. military is helping oil get out of the Persian Gulf on tankers, but Iran is still attacking the ships and scaring operators away."
         },
         {
-          "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
-          "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
-          "content": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business."
+          "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
+          "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+          "content": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A."
         },
         {
-          "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-          "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-          "content": "Thousands of Kenyans made a living writing essays for overseas students. With A.I., the work has dried up, a warning for online gig work that has been a global lifeline."
+          "title": "The C.E.O. Teaching Future Generations About 9/11",
+          "link": "https://www.nytimes.com/2026/09/06/business/9-11-museum-elizabeth-hillman.html",
+          "content": "Elizabeth Hillman, chief of the 9/11 Memorial & Museum since 2022, says the stories of that day “remain compelling, and they’re still unfolding.”"
         }
       ]
     }
