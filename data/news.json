@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-06T15:55:56.962Z",
+  "generatedAt": "2026-09-07T18:01:40.066Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "What we expect from the upcoming Apple launch",
+          "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+          "content": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods."
+        },
+        {
+          "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+          "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+          "content": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store."
+        },
         {
           "title": "What will Apple’s John Ternus era look like?",
           "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
@@ -14,16 +24,6 @@
           "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
           "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
           "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge la"
-        },
-        {
-          "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-          "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-          "content": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone."
-        },
-        {
-          "title": "Who is John Ternus, the new Apple CEO?",
-          "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-          "content": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, "
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
-          "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
-          "content": "The decision on Sunday by the cartel of oil-producing nations and some of its allies came after the resumption of U.S. and Iranian military strikes in the Persian Gulf."
+          "title": "WYouth, New Magazine for Teens, Debuts With Justin and Hailey Bieber Cover",
+          "link": "https://www.nytimes.com/2026/09/07/style/wyouth-teen-magazine-gen-z.html",
+          "content": "Sara Moonves managed to save and expand W, a fashion and culture magazine. Her next bet is on “Little W.”"
         },
         {
-          "title": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
-          "link": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
-          "content": "The U.S. military is helping oil get out of the Persian Gulf on tankers, but Iran is still attacking the ships and scaring operators away."
+          "title": "Social Media in China Is Getting Really Dark",
+          "link": "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html",
+          "content": "The Chinese Communist Party has spent years trying to make “positive energy” the dominant mood of the country’s internet. It’s no longer working."
         },
         {
-          "title": "How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips",
-          "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-          "content": "Washington imposed sanctions on Inspur because of its work with the Chinese military. But the company’s subsidiary kept shipping Nvidia’s best chips to feed China’s leading A."
+          "title": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
+          "link": "https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html",
+          "content": "The electric automaker’s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind."
         },
         {
-          "title": "The C.E.O. Teaching Future Generations About 9/11",
-          "link": "https://www.nytimes.com/2026/09/06/business/9-11-museum-elizabeth-hillman.html",
-          "content": "Elizabeth Hillman, chief of the 9/11 Memorial & Museum since 2022, says the stories of that day “remain compelling, and they’re still unfolding.”"
+          "title": "Oil Prices Rise After U.S. and Iran Trade Strikes",
+          "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+          "content": "Brent crude, the global benchmark for oil, rose to about $97 a barrel on Monday, while the national average price of gas was $4.15 a gallon."
         }
       ]
     }
