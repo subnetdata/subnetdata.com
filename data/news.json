@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-08T16:59:09.875Z",
+  "generatedAt": "2026-09-09T16:57:50.355Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "How to watch Apple’s foldable iPhone announcement",
+          "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+          "content": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news."
+        },
         {
           "title": "What we expect from the upcoming Apple launch",
           "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
@@ -18,11 +23,6 @@
         {
           "title": "What will Apple’s John Ternus era look like?",
           "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-          "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge la"
-        },
-        {
-          "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-          "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
           "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge la"
         }
       ]
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Trump Media Launches MAGA-Friendly Investment Funds",
-          "link": "https://www.nytimes.com/2026/09/08/business/trump-media-truth-social-etf.html",
-          "content": "The seven exchange-traded funds, like the God Bless America fund, are investing in companies aligned with President Trump’s worldview."
+          "title": "Joseph Rice, Lowcountry Lawyer Who Took On Big Tobacco, Dies at 72",
+          "link": "https://www.nytimes.com/2026/09/09/us/joe-rice-dead.html",
+          "content": "He challenged tobacco companies as well as the opioid industry, securing multibillion-dollar settlements that also benefited public health."
         },
         {
-          "title": "Carney Says Retaliation Against U.S. Tariffs Was Unavoidable",
-          "link": "https://www.nytimes.com/2026/09/08/world/canada/carney-tariffs-trade.html",
-          "content": "In a video address, the prime minister said the United States was seeking “dependency, not a true economic partnership” from Canada."
+          "title": "Treasury Plans $6 Billion in Debt Repurchases to Battle Rising Yields",
+          "link": "https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html",
+          "content": "Bond yields rose after the announcement, suggesting investors were underwhelmed by the size of the purchases."
         },
         {
-          "title": "The Economic Fallout From a Potential Return to $100 Oil",
-          "link": "https://www.nytimes.com/2026/09/08/business/dealbook/oil-inflation-markets.html",
-          "content": "Brent crude, the international benchmark for oil, is spiking again, reviving fears of inflation."
+          "title": "Saudi Oil Exports Plunge as Spread of War Shuts Off Shipping Routes",
+          "link": "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html",
+          "content": "With few good options for safely shipping oil, Saudi Arabia’s exports have plunged to a 13-year low."
         },
         {
-          "title": "Bombardier, a Canadian Jet Maker, Is One Target in Trump’s Trade War",
-          "link": "https://www.nytimes.com/2026/09/08/business/bombardier-trump-canada-us-sales-planes.html",
-          "content": "The Montreal-based company’s share price dropped after President Trump threatened to bar it from selling in the United States."
+          "title": "Measuring the Cost of Trump’s Multiple Wars",
+          "link": "https://www.nytimes.com/2026/09/09/business/dealbook/trump-costs-wars.html",
+          "content": "Voters and some Republican lawmakers are growing weary of President Trump’s trade battles and the economic fallout from fighting in the Middle East."
         }
       ]
     }
