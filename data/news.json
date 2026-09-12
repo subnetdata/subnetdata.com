@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-11T16:50:47.639Z",
+  "generatedAt": "2026-09-12T15:57:08.177Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+          "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+          "content": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The c"
+        },
         {
           "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
           "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
@@ -19,11 +24,6 @@
           "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
           "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
           "content": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
-        },
-        {
-          "title": "There are new shiny iPhones, so Apple is making you pay more for older models ",
-          "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-          "content": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "AARP Projects 2027 Social Security COLA at 3.6%",
-          "link": "https://www.nytimes.com/2026/09/11/business/economy/social-security-cola.html",
-          "content": "If the AARP’s projection holds, the cost-of-living adjustment would be the largest since 2023."
+          "title": "After the I.P.O., a Billion-Dollar Bill for Employee Paydays",
+          "link": "https://www.nytimes.com/2026/09/12/business/dealbook/double-trigger-rsus.html",
+          "content": "A compensation strategy at start-ups keeps expenses low until they go public. At that point, the companies may face billions of dollars in catch-up expenses."
         },
         {
-          "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
-          "link": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
-          "content": "The state was the first to pass a law banning Kalshi and Polymarket. A lawsuit filed by a federal agency may set a precedent on who gets to regulate them."
+          "title": "Inflation Complicates Trump’s Midterms Pitch to Voters",
+          "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
+          "content": "Gas prices are high, mortgage rates are climbing and inflation remains well above target, complicating the president’s midterm appeal."
         },
         {
-          "title": "Why Cheap Used Cars Are So Hard to Find",
-          "link": "https://www.nytimes.com/2026/09/11/your-money/buying-used-cars.html",
-          "content": "A three-year-old car was the sweet spot for buying used cars, since they have passed the peak of depreciation. But they now average about $33,000."
+          "title": "How to Lure the Spendy and the Thrifty? Bring On the ‘Barbell.’",
+          "link": "https://www.nytimes.com/2026/09/12/business/barbell-pricing-restaurants.html",
+          "content": "Restaurant chains are trying to draw in both kinds of consumers by offering low-cost and more-premium options at the same time."
         },
         {
-          "title": "Bessent Takes on the Bond Vigilantes",
-          "link": "https://www.nytimes.com/2026/09/11/business/dealbook/bessent-bond-vigilantes.html",
-          "content": "As a rout in the bond market deepens, the pressure grows on Treasury Secretary Scott Bessent to restore calm."
+          "title": "Want to Entice New Residents? Offer Cash, for a Start.",
+          "link": "https://www.nytimes.com/2026/09/12/business/economy/rural-america-moving-incentives.html",
+          "content": "Relocation incentives have a mixed record of helping cities and towns stand out as people return to rural America."
         }
       ]
     }
