@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-09-13T16:46:52.628Z",
+  "generatedAt": "2026-09-14T18:18:07.662Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "With iOS 27, I’m actually using Siri again",
+          "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+          "content": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
+        },
+        {
+          "title": "macOS 27: new Siri takes on AI productivity apps",
+          "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+          "content": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent."
+        },
         {
           "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
           "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
@@ -14,16 +24,6 @@
           "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
           "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
           "content": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere."
-        },
-        {
-          "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-          "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-          "content": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy,"
-        },
-        {
-          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-          "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-          "content": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+          "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "content": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flo"
+        },
         {
           "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
           "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -45,11 +50,6 @@
           "title": "Microsoft tests fix for latest hours-long Outlook outage",
           "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
           "content": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures."
-        },
-        {
-          "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-          "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-          "content": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI b"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Inside the $440 Million Collapse of Guidepost Montessori",
-          "link": "https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html",
-          "content": "A man with a vision set out to revolutionize preschool. It became a $440 million fiasco."
+          "title": "Bond Market Rebukes Bessent by Sending Borrowing Costs Ever Higher",
+          "link": "https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html",
+          "content": "The Treasury secretary had dared “Bloomberg terminal bros” to bet against him and they did."
         },
         {
-          "title": "What to Expect at the 2026 Emmy Awards",
-          "link": "https://www.nytimes.com/2026/09/13/business/media/emmys-what-to-expect.html",
-          "content": "“The Pitt” could make history at Monday night’s celebration of the best in TV, while “Widow’s Bay” and “Hacks” battle it out in the best comedy race."
+          "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+          "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+          "content": "The online retailer said it would “pause” its relationship with 21 Air, the cargo airline operating a Boeing 767 that overshot a runway in Miami."
         },
         {
-          "title": "Every Word My Employee Writes Reeks of A.I.",
-          "link": "https://www.nytimes.com/2026/09/13/business/employee-ai-use.html",
-          "content": "Plus: How to stop office talk about a colleague’s cancer diagnosis before it starts."
+          "title": "Cisco Likely Allowed Harassment of Pro-Palestinian Workers, EEOC Says",
+          "link": "https://www.nytimes.com/2026/09/14/business/cisco-eeoc-palestinian-harassment.html",
+          "content": "The finding by the U.S. Equal Employment Opportunity Commission said there was reason to believe that the tech giant subjected employees to a hostile environment."
         },
         {
-          "title": "Self-Employed Workers Find Rewards — and Challenges — Building Their Own Businesses",
-          "link": "https://www.nytimes.com/2026/09/13/business/self-employed-health-care-retirement.html",
-          "content": "Workers who forego the traditional career path find there are rewards — and challenges — to going out on their own."
+          "title": "10-Year Treasury Yield Touches 5%, Highest Level in Years",
+          "link": "https://www.nytimes.com/2026/09/14/business/10-year-treasury-yield-5-percent.html",
+          "content": "One of the world’s most important interest rates hit a level recorded only once since the global financial crisis, as investors continued to rebuff the Trump administration’s "
         }
       ]
     }
