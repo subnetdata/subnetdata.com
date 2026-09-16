@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T17:25:42.719Z",
+  "generatedAt": "2026-09-16T17:24:52.672Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        },
+        {
           "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
           "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
           "content": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flo"
@@ -45,11 +50,6 @@
           "title": "Microsoft 365 outage drags on, but things are improving",
           "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
           "content": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates."
-        },
-        {
-          "title": "Microsoft tests fix for latest hours-long Outlook outage",
-          "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-          "content": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "The New Restaurant at the Public Theater Revives the Astor Family Name",
-          "link": "https://www.nytimes.com/2026/09/15/dining/nyc-restaurant-news.html",
-          "content": "The NoHo Hospitality Group reimagines the dining room at the Public Theater, Lana Lagomarsini serves up tasting menus at Creola and more food news."
+          "title": "Outkick Moves Past Its Clay Travis Era",
+          "link": "https://www.nytimes.com/2026/09/16/business/outkick-sports-fox-clay-travis.html",
+          "content": "Fox is revamping the sports site following the exit of its founder, Clay Travis. It’s hiring a writer who resigned from The Seattle Times over a column about transgender athle"
         },
         {
-          "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
-          "link": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
-          "content": "Federal prosecutors said proceeds from the sale of Iranian oil flowed through Binance, the world’s largest crypto exchange, to finance terrorism."
+          "title": "How to read the Fed’s projections like a pro.",
+          "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/how-to-read-the-feds-projections-like-a-pro",
+          "content": ""
         },
         {
-          "title": "With Emmys Haul, Apple Joins the Big Leagues of TV",
-          "link": "https://www.nytimes.com/2026/09/15/business/media/apple-emmys-widows-bay.html",
-          "content": "The tech giant took home the most trophies this year, breaking the chokehold HBO and Netflix have had on the awards for more than two decades."
+          "title": "How the Fed’s move affects your finances.",
+          "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/how-the-feds-move-affects-your-finances",
+          "content": "The Federal Reserve is widely expected to increase its key rate by a quarter of a percentage point, but mortgages and other consumer loans have already trended higher."
         },
         {
-          "title": "Congress Has Proposed Many Bills for A.I. Regulation. Lawmakers Have Enacted Few.",
-          "link": "https://www.nytimes.com/2026/09/15/us/politics/congress-ai-regulation-bills.html",
-          "content": "For years, Democrats and Republicans have proposed bills to address the greatest threats posed by artificial intelligence. Many remain stymied by political disputes."
+          "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
+          "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
+          "content": "This month, the president threatened to halt a broad swath of trade if interest rates were not cut, once again putting pressure on the independent central bank."
         }
       ]
     }
