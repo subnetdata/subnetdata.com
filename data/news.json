@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-16T17:24:52.672Z",
+  "generatedAt": "2026-09-17T17:24:20.610Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple will let EU apps use less-alarming tracking-consent screens",
+          "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+          "content": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers "
+        },
         {
           "title": "With iOS 27, I’m actually using Siri again",
           "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
@@ -19,11 +24,6 @@
           "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
           "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
           "content": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The c"
-        },
-        {
-          "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-          "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-          "content": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Outkick Moves Past Its Clay Travis Era",
-          "link": "https://www.nytimes.com/2026/09/16/business/outkick-sports-fox-clay-travis.html",
-          "content": "Fox is revamping the sports site following the exit of its founder, Clay Travis. It’s hiring a writer who resigned from The Seattle Times over a column about transgender athle"
+          "title": "Fed Chairman Warsh Escapes Trump’s Ire Over Interest Rate Increase",
+          "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
+          "content": "The president blasted the rest of the Fed — and kept up his demand for a cut — but spared Fed Chairman Kevin M. Warsh from the criticism."
         },
         {
-          "title": "How to read the Fed’s projections like a pro.",
-          "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/how-to-read-the-feds-projections-like-a-pro",
-          "content": ""
+          "title": "Why Is It So Difficult To Regulate A.I.?",
+          "link": "https://www.nytimes.com/video/business/100000011155275/why-is-it-so-difficult-to-regulate-ai.html",
+          "content": "There has been considerable debate over regulating the artificial intelligence industry, but much of that effort has stalled. Cecilia Kang, a technology reporter for The New Y"
         },
         {
-          "title": "How the Fed’s move affects your finances.",
-          "link": "https://www.nytimes.com/live/2026/09/16/business/fed-meeting-warsh-interest-rates/how-the-feds-move-affects-your-finances",
-          "content": "The Federal Reserve is widely expected to increase its key rate by a quarter of a percentage point, but mortgages and other consumer loans have already trended higher."
+          "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
+          "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
+          "content": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel."
         },
         {
-          "title": "Trump’s Latest Threats Loom Over Fed’s Interest Rate Decision",
-          "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
-          "content": "This month, the president threatened to halt a broad swath of trade if interest rates were not cut, once again putting pressure on the independent central bank."
+          "title": "Trump Looks Isolated on Interest Rates",
+          "link": "https://www.nytimes.com/2026/09/17/business/dealbook/trump-fed-rates.html",
+          "content": "The Federal Reserve’s unanimous vote to raise its benchmark lending rate has rankled President Trump, who continues to demand lower borrowing costs."
         }
       ]
     }
