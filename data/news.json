@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:24:20.610Z",
+  "generatedAt": "2026-09-18T16:52:32.461Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+          "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+          "content": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and "
+        },
+        {
           "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
           "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
           "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
@@ -45,11 +50,6 @@
           "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
           "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
           "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
-        },
-        {
-          "title": "Microsoft 365 outage drags on, but things are improving",
-          "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-          "content": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Fed Chairman Warsh Escapes Trump’s Ire Over Interest Rate Increase",
-          "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
-          "content": "The president blasted the rest of the Fed — and kept up his demand for a cut — but spared Fed Chairman Kevin M. Warsh from the criticism."
+          "title": "Disney Hires Its First CTO Amid Industry Push to Embrace A.I.",
+          "link": "https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html",
+          "content": "Karandeep Anand, an expert in building artificial intelligence and consumer technology products, will become Disney’s first chief technology officer."
         },
         {
-          "title": "Why Is It So Difficult To Regulate A.I.?",
-          "link": "https://www.nytimes.com/video/business/100000011155275/why-is-it-so-difficult-to-regulate-ai.html",
-          "content": "There has been considerable debate over regulating the artificial intelligence industry, but much of that effort has stalled. Cecilia Kang, a technology reporter for The New Y"
+          "title": "Who Is Howard Buffett, the New Berkshire Hathaway Chairman?",
+          "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-son-howard-berkshire-hathaway.html",
+          "content": "Mr. Buffett, 71, is succeeding his father, Warren, but will not be running the company’s day-to-day operations."
         },
         {
-          "title": "China Stockpiled Oil, and Now It Could Dominate the Energy Landscape",
-          "link": "https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html",
-          "content": "The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel."
+          "title": "What Set Off the Rise in Interest Rates? Mainly, the Iran War.",
+          "link": "https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html",
+          "content": "The Federal Reserve is trying to catch up with the leap in bond rates as the Middle East conflict unnerves world markets."
         },
         {
-          "title": "Trump Looks Isolated on Interest Rates",
-          "link": "https://www.nytimes.com/2026/09/17/business/dealbook/trump-fed-rates.html",
-          "content": "The Federal Reserve’s unanimous vote to raise its benchmark lending rate has rankled President Trump, who continues to demand lower borrowing costs."
+          "title": "Use of GLP-1s Like Ozempic Is Forcing Food Companies to Adapt",
+          "link": "https://www.nytimes.com/2026/09/18/business/ozempic-glp1-drugs-reshape-food-habits.html",
+          "content": "People on medications for weight loss are buying less food, shrinking their portion sizes and purchasing smaller clothes. Businesses are trying to adjust."
         }
       ]
     }
