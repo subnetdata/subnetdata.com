@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-18T16:52:32.461Z",
+  "generatedAt": "2026-09-19T16:11:00.637Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "In India, the new iPhone can arrive faster than a pizza",
+          "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+          "content": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps."
+        },
         {
           "title": "Apple will let EU apps use less-alarming tracking-consent screens",
           "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
@@ -19,11 +24,6 @@
           "title": "macOS 27: new Siri takes on AI productivity apps",
           "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
           "content": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent."
-        },
-        {
-          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-          "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-          "content": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The c"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Disney Hires Its First CTO Amid Industry Push to Embrace A.I.",
-          "link": "https://www.nytimes.com/2026/09/18/business/media/disney-ai-technology-karandeep-anand.html",
-          "content": "Karandeep Anand, an expert in building artificial intelligence and consumer technology products, will become Disney’s first chief technology officer."
+          "title": "CNN, MS NOW and Politico Barred From White House After Trump Announces Ban",
+          "link": "https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html",
+          "content": "The prohibition on certain journalists was a stark escalation in President Trump’s war on the media, and will probably face a legal challenge."
         },
         {
-          "title": "Who Is Howard Buffett, the New Berkshire Hathaway Chairman?",
-          "link": "https://www.nytimes.com/2026/09/18/business/warren-buffett-son-howard-berkshire-hathaway.html",
-          "content": "Mr. Buffett, 71, is succeeding his father, Warren, but will not be running the company’s day-to-day operations."
+          "title": "10 Ways to Explain Why Interest Rates Are So High",
+          "link": "https://www.nytimes.com/2026/09/19/business/dealbook/why-are-interest-rates-high.html",
+          "content": "If you can’t pin down why something’s happening, you don’t have much hope of fixing it."
         },
         {
-          "title": "What Set Off the Rise in Interest Rates? Mainly, the Iran War.",
-          "link": "https://www.nytimes.com/2026/09/18/business/bonds-interest-rates-fed-iran-war.html",
-          "content": "The Federal Reserve is trying to catch up with the leap in bond rates as the Middle East conflict unnerves world markets."
+          "title": "A Borrower’s Timeline of the Public Service Loan Forgiveness Quagmire",
+          "link": "https://www.nytimes.com/2026/09/19/business/public-service-loan-forgiveness-buybacks.html",
+          "content": "One county lawyer’s repayment saga stretches nearly 20 years, though she’s tried 22 times over the past 20 months to erase her debt."
         },
         {
-          "title": "Use of GLP-1s Like Ozempic Is Forcing Food Companies to Adapt",
-          "link": "https://www.nytimes.com/2026/09/18/business/ozempic-glp1-drugs-reshape-food-habits.html",
-          "content": "People on medications for weight loss are buying less food, shrinking their portion sizes and purchasing smaller clothes. Businesses are trying to adjust."
+          "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
+          "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+          "content": "Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction."
         }
       ]
     }
