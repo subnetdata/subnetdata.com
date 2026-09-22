@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-21T18:25:04.444Z",
+  "generatedAt": "2026-09-22T17:28:44.091Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+          "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+          "content": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+        },
         {
           "title": "In India, the new iPhone can arrive faster than a pizza",
           "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
@@ -19,11 +24,6 @@
           "title": "With iOS 27, I’m actually using Siri again",
           "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
           "content": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
-        },
-        {
-          "title": "macOS 27: new Siri takes on AI productivity apps",
-          "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-          "content": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Paramount to Settle States’ Lawsuit, Clearing Way for Warner Bros. Merger",
-          "link": "https://www.nytimes.com/2026/09/21/business/paramount-warner-bros-ellison.html",
-          "content": "By resolving a lawsuit filed by a group of states, the media mogul David Ellison removed the last major hurdle he faced in buying Warner Bros. Discovery."
+          "title": "How Paramount Won Warner Bros.",
+          "link": "https://www.nytimes.com/2026/09/22/business/paramount-warner-bros-ellison-bonta.html",
+          "content": "Inside the settlement talks between the media mogul David Ellison and the coalition of states seeking to block his $111 billion deal."
         },
         {
-          "title": "Trump and Xi Meet Amid an Uneasy U.S.-China Trade Truce",
-          "link": "https://www.nytimes.com/2026/09/21/business/economy/trump-xi-china-trade.html",
-          "content": "Beyond warm meetings between their leaders, the countries are engaging in tit-for-tat measures that call into question the stability of their arrangement."
+          "title": "Ella Langley’s ‘Choosin’ Texas’ Topples Mariah Carey’s Chart Record",
+          "link": "https://www.nytimes.com/2026/09/22/arts/music/ella-langley-choosin-texas-chart-record.html",
+          "content": "The country ballad holds the No. 1 spot on the Billboard chart for a 23rd nonconsecutive week, besting the record set by “All I Want for Christmas Is You.”"
         },
         {
-          "title": "Here’s the latest.",
-          "link": "https://www.nytimes.com/live/2026/09/21/business/trump-white-house-cnn-politico-msnow/heres-the-latest",
-          "content": ""
+          "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
+          "link": "https://www.nytimes.com/2026/09/22/health/aca-obamacare-vance-fraud.html",
+          "content": "Vice President JD Vance said the measure would save the government $2.2 billion."
         },
         {
-          "title": "Bessent and China Hail Progress on A.I. Talks. Now Comes the Hard Part.",
-          "link": "https://www.nytimes.com/2026/09/21/business/dealbook/bessent-china-ai-talks.html",
-          "content": "Artificial intelligence and more are expected to be big issues at this week’s summit between President Trump and Xi Jinping, China’s top leader."
+          "title": "Trump Is Back on TV, Briefly, as Many Networks Carry His U.N. Speech Live",
+          "link": "https://www.nytimes.com/2026/09/22/business/media/trump-tv-un-speech.html",
+          "content": "A suspension of pool coverage remains in effect. But the in-house United Nations broadcaster provided a feed of the president’s remarks."
         }
       ]
     }
