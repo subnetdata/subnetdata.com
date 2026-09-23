@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-22T17:28:44.091Z",
+  "generatedAt": "2026-09-23T17:38:23.778Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple could take on Whoop with a new fitness tracker, report says",
+          "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+          "content": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices."
+        },
         {
           "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
           "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
@@ -19,11 +24,6 @@
           "title": "Apple will let EU apps use less-alarming tracking-consent screens",
           "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
           "content": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers "
-        },
-        {
-          "title": "With iOS 27, I’m actually using Siri again",
-          "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-          "content": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How Paramount Won Warner Bros.",
-          "link": "https://www.nytimes.com/2026/09/22/business/paramount-warner-bros-ellison-bonta.html",
-          "content": "Inside the settlement talks between the media mogul David Ellison and the coalition of states seeking to block his $111 billion deal."
+          "title": "Fox News Finds Itself at Odds With Trump on Press Ban",
+          "link": "https://www.nytimes.com/2026/09/23/business/media/fox-trump-press-pool-ban.html",
+          "content": "The home of Sean Hannity and Laura Ingraham has joined rival networks in suspending its coverage of pooled presidential events."
         },
         {
-          "title": "Ella Langley’s ‘Choosin’ Texas’ Topples Mariah Carey’s Chart Record",
-          "link": "https://www.nytimes.com/2026/09/22/arts/music/ella-langley-choosin-texas-chart-record.html",
-          "content": "The country ballad holds the No. 1 spot on the Billboard chart for a 23rd nonconsecutive week, besting the record set by “All I Want for Christmas Is You.”"
+          "title": "Bessent ‘Inadvertently’ Failed to Report Holdings of JPMorgan Stock",
+          "link": "https://www.nytimes.com/2026/09/23/business/bessent-jp-morgan-stock.html",
+          "content": "Treasury Secretary Scott Bessent’s finances were reviewed by the inspector general after Mr. Bessent incorrectly listed at least $100,000 of the stock, which was owned by his "
         },
         {
-          "title": "Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud",
-          "link": "https://www.nytimes.com/2026/09/22/health/aca-obamacare-vance-fraud.html",
-          "content": "Vice President JD Vance said the measure would save the government $2.2 billion."
+          "title": "Trump Officials May Undo Nursing Home Mandates for Reporting Covid",
+          "link": "https://www.nytimes.com/2026/09/23/business/covid-nursing-homes-trump.html",
+          "content": "The agency led by Dr. Mehmet Oz is proposing an end to weekly tracking of respiratory infections at the facilities where thousands of elderly residents died in the pandemic."
         },
         {
-          "title": "Trump Is Back on TV, Briefly, as Many Networks Carry His U.N. Speech Live",
-          "link": "https://www.nytimes.com/2026/09/22/business/media/trump-tv-un-speech.html",
-          "content": "A suspension of pool coverage remains in effect. But the in-house United Nations broadcaster provided a feed of the president’s remarks."
+          "title": "Trump’s Diesel Dilemma",
+          "link": "https://www.nytimes.com/2026/09/23/business/dealbook/trump-diesel-dilemma.html",
+          "content": "Calls to ban U.S. exports of the fuel are dividing Republicans. The energy crisis is also dominating discussions at the United Nations."
         }
       ]
     }
