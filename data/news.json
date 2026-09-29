@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-28T19:56:43.723Z",
+  "generatedAt": "2026-09-29T18:24:42.014Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
+          "link": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+          "content": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using."
+        },
         {
           "title": "Apple could take on Whoop with a new fitness tracker, report says",
           "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
@@ -19,11 +24,6 @@
           "title": "In India, the new iPhone can arrive faster than a pizza",
           "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
           "content": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps."
-        },
-        {
-          "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-          "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-          "content": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers "
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+          "content": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies."
+        },
         {
           "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
           "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
@@ -45,11 +50,6 @@
           "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
           "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
           "content": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flo"
-        },
-        {
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-          "content": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Could Homeownership Reverse the Decline in Birthrates?",
-          "link": "https://www.nytimes.com/2026/09/28/us/home-mortgage-program-birthrate-decline.html",
-          "content": "Researchers looked back at the baby-boom era and found that federal mortgage programs played a part in the country’s population upswing after World War II."
+          "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
+          "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
+          "content": "Saudi authorities had taken the pipeline offline this month after it was damaged in a drone attack by an Iranian-backed Iraqi militia."
         },
         {
-          "title": "Two of China’s EV Makers Announce a Deal as Auto Industry Moves Toward Consolidation",
-          "link": "https://www.nytimes.com/2026/09/28/business/china-ev-geely-nio.html",
-          "content": "Two of the country’s leading makers of electric vehicles announced they are merging their battery swapping and charging operations."
+          "title": "Black Voting Groups Prepare for Disinformation Campaigns in the Midterms",
+          "link": "https://www.nytimes.com/2026/09/29/business/media/black-voters-disinformation-midterm-elections.html",
+          "content": "A new “propaganda playbook” aims to demystify common techniques used to target Black Americans, long a powerful voting bloc, with election-related disinformation."
         },
         {
-          "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
-          "link": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
-          "content": "The increase comes four months after the chip giant added $80 billion to its buyback program, bringing the total remaining authorized amount to $235 billion."
+          "title": "Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens",
+          "link": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html",
+          "content": "The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration."
         },
         {
-          "title": "Could A.I. Safety Risks Derail the Sector’s I.P.O. Prospects?",
-          "link": "https://www.nytimes.com/2026/09/28/business/dealbook/ai-safety-risks-ipo.html",
-          "content": "Big liability questions lie ahead for the artificial intelligence labs Anthropic and OpenAI as they push ahead with plans to go public."
+          "title": "Sunkist Fruit Gems, Bar Mitzvah Staple, Get 2nd Chance After Discontinuation",
+          "link": "https://www.nytimes.com/2026/09/29/business/sunkist-fruit-gems-candy-candyrific.html",
+          "content": "The company said that Candyrific of Louisville, Ky., will produce the jelly candy that comes in a rainbow of colors and citrus flavors and is used in Jewish traditions."
         }
       ]
     }
