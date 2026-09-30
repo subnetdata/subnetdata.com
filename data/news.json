@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-09-29T18:24:42.014Z",
+  "generatedAt": "2026-09-30T18:14:03.401Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple Pay finally launches in India after years on the sidelines",
+          "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+          "content": "Some of India's largest banks are holding off on supporting Apple Pay initially."
+        },
         {
           "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
           "link": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
@@ -19,11 +24,6 @@
           "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
           "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
           "content": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
-        },
-        {
-          "title": "In India, the new iPhone can arrive faster than a pizza",
-          "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-          "content": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps."
         }
       ]
     },
@@ -34,7 +34,7 @@
         {
           "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
           "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-          "content": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies."
+          "content": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
         },
         {
           "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Tankers Are Loading Oil Again From a Vital Saudi Pipeline",
-          "link": "https://www.nytimes.com/2026/09/29/business/oil-saudi-east-west-pipeline.html",
-          "content": "Saudi authorities had taken the pipeline offline this month after it was damaged in a drone attack by an Iranian-backed Iraqi militia."
+          "title": "Fed’s Watchdog Finds No Misconduct or Illegal Activity in Costly Renovations",
+          "link": "https://www.nytimes.com/2026/09/30/business/fed-renovations-trump-powell-report.html",
+          "content": "A new report by the Federal Reserve’s independent inspector general concluded that a nearly $2.5 billion construction project was poorly managed but made no referrals to the U"
         },
         {
-          "title": "Black Voting Groups Prepare for Disinformation Campaigns in the Midterms",
-          "link": "https://www.nytimes.com/2026/09/29/business/media/black-voters-disinformation-midterm-elections.html",
-          "content": "A new “propaganda playbook” aims to demystify common techniques used to target Black Americans, long a powerful voting bloc, with election-related disinformation."
+          "title": "E.E.O.C. Sues Harvard for Data on Diversity in Hiring Practices",
+          "link": "https://www.nytimes.com/2026/09/30/business/economy/harvard-eeoc-diversity-hiring.html",
+          "content": "The Equal Employment Opportunity Commission filed a lawsuit asking a judge to compel the university to provide information on hiring practices that the agency said discriminat"
         },
         {
-          "title": "Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens",
-          "link": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html",
-          "content": "The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration."
+          "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+          "link": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+          "content": "100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment."
         },
         {
-          "title": "Sunkist Fruit Gems, Bar Mitzvah Staple, Get 2nd Chance After Discontinuation",
-          "link": "https://www.nytimes.com/2026/09/29/business/sunkist-fruit-gems-candy-candyrific.html",
-          "content": "The company said that Candyrific of Louisville, Ky., will produce the jelly candy that comes in a rainbow of colors and citrus flavors and is used in Jewish traditions."
+          "title": "Medical Records Firm Uses AI Tool to Expose Flaws that Threaten Patient Privacy",
+          "link": "https://www.nytimes.com/2026/09/30/business/ai-epic-health-records-privacy.html",
+          "content": "Epic’s engineers deployed an Anthropic tool that exposed security risks that could allow undetected access to millions of patient records."
         }
       ]
     }
