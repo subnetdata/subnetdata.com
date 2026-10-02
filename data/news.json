@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-01T18:39:18.731Z",
+  "generatedAt": "2026-10-02T18:09:30.243Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+          "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+          "content": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices."
+        },
         {
           "title": "Apple Pay finally launches in India after years on the sidelines",
           "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
@@ -19,11 +24,6 @@
           "title": "Apple could take on Whoop with a new fitness tracker, report says",
           "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
           "content": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices."
-        },
-        {
-          "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-          "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-          "content": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
-          "link": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
-          "content": "The move follows recent reports detailing how A7, a Russian financial firm, used shell companies around the world to move funds on behalf of restricted Russian businesses."
+          "title": "Here’s the latest.",
+          "link": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
+          "content": ""
         },
         {
-          "title": "What to Know About Trump Accounts as More Than 60 Million Children Are Auto-Enrolled",
-          "link": "https://www.nytimes.com/2026/10/01/business/trump-accounts-auto-enrollment.html",
-          "content": "The Trump administration may have just signed up your child — and more than 60 million others — for a 530A savings account (if you haven’t already done so)."
+          "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
+          "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
+          "content": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers."
         },
         {
-          "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
-          "link": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
-          "content": "An ad produced by the manufacturing company SKF Group featured a digital version of the Swedish American actress, who died in 1990. Not all viewers found the replica convincin"
+          "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
+          "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
+          "content": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials."
         },
         {
-          "title": "As Mortgage Rates Hit Highest Level Since 2023, Buyers Look at ARMs",
-          "link": "https://www.nytimes.com/2026/10/01/business/adjustable-mortgage-rates.html",
-          "content": "The average 30-year, fixed-rate home loan rose to 7.28 percent, up from 6.34 percent a year ago. More buyers are now turning to adjustable-rate mortgages."
+          "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
+          "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
+          "content": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately."
         }
       ]
     }
