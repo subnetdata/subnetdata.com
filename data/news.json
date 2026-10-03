@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-02T18:09:30.243Z",
+  "generatedAt": "2026-10-03T16:55:39.328Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+          "content": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, "
+        },
         {
           "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
           "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
@@ -19,11 +24,6 @@
           "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
           "link": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
           "content": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using."
-        },
-        {
-          "title": "Apple could take on Whoop with a new fitness tracker, report says",
-          "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
-          "content": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Here’s the latest.",
-          "link": "https://www.nytimes.com/live/2026/10/02/business/jobs-report-economy/heres-the-latest",
-          "content": ""
+          "title": "As A.I. Agents Begin Shopping, Brands Are Changing Their Sales Pitch",
+          "link": "https://www.nytimes.com/2026/10/03/business/dealbook/ai-agent-marketing.html",
+          "content": "Faced with bots immune to traditional marketing tactics, marketers are racing to win them over with logic and data."
         },
         {
-          "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
-          "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
-          "content": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers."
+          "title": "Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring",
+          "link": "https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html",
+          "content": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up."
         },
         {
-          "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
-          "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-fed-interest-rates.html",
-          "content": "The odds of an interest rate change at the Federal Reserve’s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials."
+          "title": "Weight Loss Drugs Give Restaurants a New Hurdle: Diners Who Eat Less",
+          "link": "https://www.nytimes.com/2026/10/03/business/restaurants-glp1-weight-loss.html",
+          "content": "Fewer orders and higher costs are squeezing restaurants big and small as people on the weight-loss drugs eat and drink less when dining out."
         },
         {
-          "title": "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
-          "link": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html",
-          "content": "The Group of 7, which includes Britain, France and Japan, announced the release of 100 million barrels over four months, effective immediately."
+          "title": "White House Filing Claims President Has Authority to Bar News Outlets",
+          "link": "https://www.nytimes.com/2026/10/02/business/trump-white-house-ban-cnn-politico-ms-now.html",
+          "content": "The Trump administration again defended the decision to bar CNN, MS NOW and Politico from the White House and to exclude journalists from the pool that covers the president in"
         }
       ]
     }
