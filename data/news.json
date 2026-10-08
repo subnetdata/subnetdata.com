@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-10-07T19:09:44.652Z",
+  "generatedAt": "2026-10-08T19:06:00.098Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+          "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+          "content": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
+        },
+        {
+          "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+          "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+          "content": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
+        },
         {
           "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
           "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
@@ -14,16 +24,6 @@
           "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
           "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
           "content": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices."
-        },
-        {
-          "title": "Apple Pay finally launches in India after years on the sidelines",
-          "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-          "content": "Some of India's largest banks are holding off on supporting Apple Pay initially."
-        },
-        {
-          "title": "Still running iOS 26? Update your iPhones, iPads, and Macs for this urgent security fix",
-          "link": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
-          "content": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using."
         }
       ]
     },
@@ -31,6 +31,16 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+          "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+          "content": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro."
+        },
+        {
+          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+          "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+          "content": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+        },
         {
           "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
           "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
@@ -40,16 +50,6 @@
           "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
           "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
           "content": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and "
-        },
-        {
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-          "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-        },
-        {
-          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-          "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-          "content": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flo"
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Fed Minutes Show Officials Saw More Work to Do to Quell Inflation",
-          "link": "https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html",
-          "content": "Policymakers grew increasingly concerned about inflation risks at their most recent meeting in September."
+          "title": "Judge Extends Pause on Trump’s Ban Against CNN, MS NOW and Politico",
+          "link": "https://www.nytimes.com/2026/10/08/business/media/cnn-msnow-politico-media-ban-trump.html",
+          "content": "The judge overseeing the case said that the pause would extend until next week, and promised to decide whether to further extend it by Tuesday."
         },
         {
-          "title": "6 Broken Bathrooms Force Flight to Make an Urgent Landing",
-          "link": "https://www.nytimes.com/2026/10/07/travel/american-airlines-flight-broken-bathrooms-landing.html",
-          "content": "An American Airlines flight was diverted to New York on Tuesday because of an “inadequate number of operational lavatories” — two, on a plane that normally has eight."
+          "title": "Shifting Eating Habits Have PepsiCo Investors Seeking Operational Changes",
+          "link": "https://www.nytimes.com/2026/10/08/business/pepsico-earnings-splitting.html",
+          "content": "Even though sales rose in the most recent quarter, the beverage and snack company is under increasing pressure to expand its business in North America, as consumers cut costs "
         },
         {
-          "title": "Can Bergdorf Goodman Return to Its Golden Age?",
-          "link": "https://www.nytimes.com/2026/10/07/business/bergdorf-goodman.html",
-          "content": "Bergdorf Goodman, which has survived two bankruptcies in six years, is getting back to its white-glove origins."
+          "title": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
+          "link": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
+          "content": "The average 30-year fixed-rate mortgage rose to 7.4 percent, putting more pressure on Americans struggling to afford to buy a home."
         },
         {
-          "title": "Trump Administration Delays Threaten Funding for HIV Research",
-          "link": "https://www.nytimes.com/2026/10/07/health/hiv-research-delay-cuts-hhs-nih.html",
-          "content": "The networks also develop treatments and preventions for other infectious diseases and were instrumental in testing the Covid vaccine."
+          "title": "A.I. Fueled More Resilient Global Growth, W.T.O. Says",
+          "link": "https://www.nytimes.com/2026/10/08/business/economy/wto-global-trade-resilient.html",
+          "content": "The World Trade Organization said that the drag on global trade from the war in the Middle East was more than offset by spending on goods related to artificial intelligence."
         }
       ]
     }
