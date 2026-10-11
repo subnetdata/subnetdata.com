@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-10T17:34:47.908Z",
+  "generatedAt": "2026-10-11T17:52:08.518Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "content": "Is Apple hoping to get into the AI-generated podcast business?"
+        },
         {
           "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
           "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
@@ -19,11 +24,6 @@
           "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
           "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
           "content": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, "
-        },
-        {
-          "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-          "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-          "content": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+        },
         {
           "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
           "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
@@ -45,11 +50,6 @@
           "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
           "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
           "content": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
-        },
-        {
-          "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-          "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-          "content": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and "
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "What’s Dragging Down A.I. Efficiency? The ‘Verification Tax.’",
-          "link": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
-          "content": "As artificial intelligence automates office tasks, it is also creating a new type of human work."
+          "title": "A Contagious Aversion to Overhead Lights",
+          "link": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
+          "content": "Plus: How far to go for a colleague, and now your chance to give someone advice."
         },
         {
-          "title": "Big Controversy Upends a Contest About Microscopic Videos",
-          "link": "https://www.nytimes.com/2026/10/09/science/nikon-microscopic-videos-ai.html",
-          "content": "Nikon announced that it had disqualified the winner of its Small World in Motion competition over how A.I. was used in his submission."
+          "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
+          "link": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
+          "content": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach."
         },
         {
-          "title": "Target Says It’s Not Working With ICE Amid Uproar Over Parking Lot Use",
-          "link": "https://www.nytimes.com/2026/10/09/nyregion/target-parking-lot-ice.html",
-          "content": "The retailer came under attack for being a staging area for immigration officers after Thursday’s shooting in New York City."
+          "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
+          "link": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
+          "content": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns."
         },
         {
-          "title": "Trump Sends Obamacare ‘Refund’ Checks Ahead of Midterm Elections",
-          "link": "https://www.nytimes.com/2026/10/09/business/trump-obamacare-refund-checks.html",
-          "content": "The $500 checks are accompanied by a letter signed by the president that criticizes the Biden administration for overcharging Americans for health insurance."
+          "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+          "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+          "content": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump."
         }
       ]
     }
