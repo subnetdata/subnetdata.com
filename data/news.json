@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-11T17:52:08.518Z",
+  "generatedAt": "2026-10-12T21:30:27.776Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Will the HomeView be Apple’s first smart home success?",
+          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "content": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+        },
         {
           "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
           "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
@@ -19,11 +24,6 @@
           "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
           "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
           "content": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
-        },
-        {
-          "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-          "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-          "content": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, "
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft president says UK is best placed to drive AI regulation",
+          "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "content": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
+        },
         {
           "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
           "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
@@ -45,11 +50,6 @@
           "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
           "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
           "content": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
-        },
-        {
-          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-          "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-          "content": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "A Contagious Aversion to Overhead Lights",
-          "link": "https://www.nytimes.com/2026/10/11/business/office-lighting-work-advice.html",
-          "content": "Plus: How far to go for a colleague, and now your chance to give someone advice."
+          "title": "How American Retirees at Different Incomes Rely on Social Security",
+          "link": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
+          "content": "Social Security funds are on track to run short by 2032, which would mean a reduction in benefits. Here’s how four hypothetical households rely on the program in retirement."
         },
         {
-          "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
-          "link": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
-          "content": "Jeremy Strong in “The Social Reckoning,” Jesse Eisenberg in “The Social Network” and the real Meta executive are all playing parts. But only one has changed his approach."
+          "title": "Europeans Have a Love-Hate Relationship With Chinese Cars",
+          "link": "https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html",
+          "content": "Consumers across the continent increasingly want to buy low-cost Chinese vehicles. Policymakers are seeking to slow them down."
         },
         {
-          "title": "San Francisco Is Still Pushing to Turn Offices Into Homes",
-          "link": "https://www.nytimes.com/2026/10/11/business/san-francisco-housing-conversions.html",
-          "content": "The city has not completed a single office-to-housing conversion, despite hopes to meet housing demand and inject life into empty downtowns."
+          "title": "Strikes Put Saudi Arabia’s Economy Under Pressure",
+          "link": "https://www.nytimes.com/2026/10/12/business/dealbook/saudi-arabia-strikes-energy-airport.html",
+          "content": "Deadly attacks on the main Saudi airport add to the challenges facing the country, as it seeks to maintain energy production and keep major events on track."
         },
         {
-          "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
-          "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
-          "content": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump."
+          "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
+          "link": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
+          "content": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee sai"
         }
       ]
     }
