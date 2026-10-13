@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-12T21:30:27.776Z",
+  "generatedAt": "2026-10-13T19:41:27.318Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "Will the HomeView be Apple’s first smart home success?",
-          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-          "content": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date."
+          "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+          "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+          "content": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use."
         },
         {
-          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-          "content": "Is Apple hoping to get into the AI-generated podcast business?"
+          "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+          "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+          "content": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."
         },
         {
-          "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-          "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-          "content": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
+          "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+          "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+          "content": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps."
         },
         {
-          "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-          "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-          "content": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner."
+          "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+          "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+          "content": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How American Retirees at Different Incomes Rely on Social Security",
-          "link": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
-          "content": "Social Security funds are on track to run short by 2032, which would mean a reduction in benefits. Here’s how four hypothetical households rely on the program in retirement."
+          "title": "Judy Markey, Frank and Funny Voice on Chicago Radio, Dies at 82",
+          "link": "https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html",
+          "content": "She and Kathy O’Malley — known as “the Girlfriends” — were the rare female hosts in a major market. Their freewheeling segments included “Sex Thursday.”"
         },
         {
-          "title": "Europeans Have a Love-Hate Relationship With Chinese Cars",
-          "link": "https://www.nytimes.com/2026/10/12/business/europe-china-evs-hybrids.html",
-          "content": "Consumers across the continent increasingly want to buy low-cost Chinese vehicles. Policymakers are seeking to slow them down."
+          "title": "War Collides With Saudi Ambition at a Gathering of Oil Powers",
+          "link": "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
+          "content": "The tone of the WPC Energy Congress in Riyadh this week was defiant even as delegates were forced to redirect travel or address the audience from afar."
         },
         {
-          "title": "Strikes Put Saudi Arabia’s Economy Under Pressure",
-          "link": "https://www.nytimes.com/2026/10/12/business/dealbook/saudi-arabia-strikes-energy-airport.html",
-          "content": "Deadly attacks on the main Saudi airport add to the challenges facing the country, as it seeks to maintain energy production and keep major events on track."
+          "title": "Rising Interest Rates Bite Some Wall St. Banks",
+          "link": "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
+          "content": "JPMorgan released surprisingly spotty earnings results for the third quarter, while Goldman Sachs and Citi posted better-than-expected results, reflecting a choppy trading env"
         },
         {
-          "title": "Robert E. Hall and Michael Woodford Awarded Nobel for Economics",
-          "link": "https://www.nytimes.com/2026/10/12/business/nobel-prize-economics.html",
-          "content": "Robert E. Hall and Michael Woodford were awarded the prize for insights that helped policymakers become “better equipped to deal with shocks in the economy,” the committee sai"
+          "title": "Vance, Altman, Musk, Mamdani, Bieber and More at the DealBook Summit",
+          "link": "https://www.nytimes.com/2026/10/13/business/dealbook/dealbook-summit-lineup.html",
+          "content": "The conference on Nov. 18 will bring together the biggest names in business, politics, culture and more"
         }
       ]
     }
