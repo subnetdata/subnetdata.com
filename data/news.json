@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-13T19:41:27.318Z",
+  "generatedAt": "2026-10-14T17:43:36.524Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+          "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the ca"
+        },
         {
           "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
           "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
@@ -19,11 +24,6 @@
           "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
           "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
           "content": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps."
-        },
-        {
-          "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-          "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
-          "content": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Judy Markey, Frank and Funny Voice on Chicago Radio, Dies at 82",
-          "link": "https://www.nytimes.com/2026/10/13/business/media/judy-markey-dead.html",
-          "content": "She and Kathy O’Malley — known as “the Girlfriends” — were the rare female hosts in a major market. Their freewheeling segments included “Sex Thursday.”"
+          "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+          "link": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+          "content": "The streamer’s share price is down more than 40 percent over the last year as the company has struggled with stalling engagement."
         },
         {
-          "title": "War Collides With Saudi Ambition at a Gathering of Oil Powers",
-          "link": "https://www.nytimes.com/2026/10/13/business/saudi-arabia-houthi-oil.html",
-          "content": "The tone of the WPC Energy Congress in Riyadh this week was defiant even as delegates were forced to redirect travel or address the audience from afar."
+          "title": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
+          "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
+          "content": "Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory."
         },
         {
-          "title": "Rising Interest Rates Bite Some Wall St. Banks",
-          "link": "https://www.nytimes.com/2026/10/13/business/bank-earnings-jpmorgan-chase-interest-rates.html",
-          "content": "JPMorgan released surprisingly spotty earnings results for the third quarter, while Goldman Sachs and Citi posted better-than-expected results, reflecting a choppy trading env"
+          "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On?",
+          "link": "https://www.nytimes.com/2026/10/14/business/starshield-spacex-ukraine-starlink-satellites-musk.html",
+          "content": "For years, Ukraine’s armed forces have relied on satellite communication services developed by Elon Musk’s SpaceX. Recent restrictions have hampered its war effort."
         },
         {
-          "title": "Vance, Altman, Musk, Mamdani, Bieber and More at the DealBook Summit",
-          "link": "https://www.nytimes.com/2026/10/13/business/dealbook/dealbook-summit-lineup.html",
-          "content": "The conference on Nov. 18 will bring together the biggest names in business, politics, culture and more"
+          "title": "5 Costs Americans Are Paying More for as Inflation Rises",
+          "link": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
+          "content": "Consumers are paying more for everyday goods and services, like food, computers and streaming."
         }
       ]
     }
