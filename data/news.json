@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-18T16:17:59.696Z",
+  "generatedAt": "2026-10-19T18:55:59.263Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+          "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+          "content": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate ob"
+        },
         {
           "title": "Meta launches an open-weight AI model that runs on Macs",
           "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
@@ -19,11 +24,6 @@
           "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
           "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
           "content": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use."
-        },
-        {
-          "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-          "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
-          "content": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Elizabeth Holmes Film Opens to Over 2,000 Sold-Out Shows",
-          "link": "https://www.nytimes.com/2026/10/18/business/media/box-office-elizabeth-holmes-netflix.html",
-          "content": "“You Can See Everything,” a documentary about the Theranos founder, made a big splash for a movie not yet in wide release. And Netflix had a box office milestone."
+          "title": "Christiane Amanpour Says She Is Leaving CNN After 43 Years",
+          "link": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
+          "content": "The chief international anchor, one of the most famous names in broadcast news, started as an assistant at the network in 1983."
         },
         {
-          "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
-          "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
-          "content": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence."
+          "title": "Jon Stewart to Stay at ‘The Daily Show’ Through the 2028 Election",
+          "link": "https://www.nytimes.com/2026/10/19/business/media/jon-stewart-daily-show.html",
+          "content": "Ratings have surged since Mr. Stewart returned over two years ago to host the show on Monday nights."
         },
         {
-          "title": "Oklahoma Families Faced the Hottest Summer Ever and an Electricity Crisis",
-          "link": "https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html",
-          "content": "Record heat and a rising demand for electricity are closing in on Oklahoma families trying to keep the lights on and the AC running."
+          "title": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
+          "link": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
+          "content": "The Future Investment Initiative, a centerpiece of Saudi efforts to diversify its economy from its reliance on the energy industry, was set to begin next week."
         },
         {
-          "title": "United’s C.E.O. Says It Should Cost More Not to Sit in the Middle Seat",
-          "link": "https://www.nytimes.com/2026/10/18/business/scott-kirby-united-airlines.html",
-          "content": "Scott Kirby of United Airlines said that “it’s expensive to fly airplanes” and that airfares may have further to rise."
+          "title": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
+          "link": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html",
+          "content": "The Black unemployment rate climbed a percentage point to 7 percent in September, almost double the rate for white workers."
         }
       ]
     }
