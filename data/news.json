@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T18:55:59.263Z",
+  "generatedAt": "2026-10-20T17:42:30.038Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+          "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "content": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+        },
+        {
           "title": "Microsoft president says UK is best placed to drive AI regulation",
           "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
           "content": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
@@ -45,11 +50,6 @@
           "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
           "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
           "content": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro."
-        },
-        {
-          "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-          "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-          "content": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Christiane Amanpour Says She Is Leaving CNN After 43 Years",
-          "link": "https://www.nytimes.com/2026/10/19/business/media/cnn-christiane-amanpour.html",
-          "content": "The chief international anchor, one of the most famous names in broadcast news, started as an assistant at the network in 1983."
+          "title": "Heading to France? Amid Recent Unrest, Here’s What to Know",
+          "link": "https://www.nytimes.com/2026/10/20/travel/france-travel-riots.html",
+          "content": "Rioting over affordability and public education has swept through Paris and other French cities, and there may be more to come."
         },
         {
-          "title": "Jon Stewart to Stay at ‘The Daily Show’ Through the 2028 Election",
-          "link": "https://www.nytimes.com/2026/10/19/business/media/jon-stewart-daily-show.html",
-          "content": "Ratings have surged since Mr. Stewart returned over two years ago to host the show on Monday nights."
+          "title": "Trump Tariffs on Canada Spark Latest Lawsuit Over Trade Powers",
+          "link": "https://www.nytimes.com/2026/10/20/business/trump-tariffs-canada-lawsuit.html",
+          "content": "Once again, the president’s ability to wage a trade war without Congress will come before a court that has repeatedly ruled against him."
         },
         {
-          "title": "Saudi Arabia Postpones Its FII Investment Event After Houthi Attacks",
-          "link": "https://www.nytimes.com/2026/10/19/business/saudi-investment-fii-houthis.html",
-          "content": "The Future Investment Initiative, a centerpiece of Saudi efforts to diversify its economy from its reliance on the energy industry, was set to begin next week."
+          "title": "A ‘Doom Loop’ Threatens France as Populism Confronts Markets",
+          "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html",
+          "content": "The turmoil shows the profound challenges facing governments stuck between unhappy citizens and wary bond investors."
         },
         {
-          "title": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
-          "link": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html",
-          "content": "The Black unemployment rate climbed a percentage point to 7 percent in September, almost double the rate for white workers."
+          "title": "Investors in Anticipation Over Musk’s Next Big SpaceX Deal",
+          "link": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+          "content": "Ahead of SpaceX’s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla."
         }
       ]
     }
