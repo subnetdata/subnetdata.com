@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:48:47.867Z",
+  "generatedAt": "2026-10-22T17:48:40.194Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+          "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+          "content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+        },
+        {
           "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
           "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
           "content": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
@@ -45,11 +50,6 @@
           "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
           "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
           "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
-        },
-        {
-          "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
-          "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
-          "content": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "U.S. to Tap Heating Oil Reserves Ahead of Midterm Elections",
-          "link": "https://www.nytimes.com/2026/10/21/business/heating-oil-emergency-reserve-prices.html",
-          "content": "The Trump administration will release 315,000 barrels of heating oil, but analysts say the amount is too small to make much of a difference."
+          "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
+          "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
+          "content": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in s"
         },
         {
-          "title": "France Riots Expose the Rage Aimed at Dior, Hermès and Other Luxury Brands",
-          "link": "https://www.nytimes.com/2026/10/21/style/france-riots-luxury-dior-hermes.html",
-          "content": "The looting of stores belonging to brands like Dior, Celine and Hermès has exposed a crack in the glossy facade."
+          "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+          "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+          "content": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems."
         },
         {
-          "title": "Alaska’s Journalists Join Forces to Cover the Midterms",
-          "link": "https://www.nytimes.com/2026/10/21/business/media/alaska-journalists-sullivan-peltola-senate.html",
-          "content": "The state’s challenging geography and newspapers’ broader economic struggles have stretched reporters in Alaska, just as its competitive U.S. Senate race has grabbed national "
+          "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+          "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+          "content": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven."
         },
         {
-          "title": "How The New York Times Reports on A.I. Images",
-          "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
-          "content": "A Times reporter and editors discuss the challenges of sifting through what’s real and what’s not in pursuit of the news."
+          "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+          "link": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
+          "content": "The move is the latest illustration of a company saying it believes it can be more efficient with fewer workers because of artificial intelligence."
         }
       ]
     }
