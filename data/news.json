@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:48:40.194Z",
+  "generatedAt": "2026-10-23T17:38:27.200Z",
   "sources": [
     {
       "name": "Apple",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-          "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-          "content": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in s"
+          "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
+          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+          "content": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk."
         },
         {
-          "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-          "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-          "content": "A critical security flaw in the programming language underpinning much of the web has prompted a global rush to patch vulnerable systems."
+          "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+          "content": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for."
         },
         {
-          "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-          "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-          "content": "The midterms are the first elections in which artificial intelligence is integrated into every major social media platform. Efforts to blunt its harms are uneven."
+          "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+          "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
+          "content": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory."
         },
         {
-          "title": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
-          "link": "https://www.nytimes.com/2026/10/22/business/barclays-job-cuts-ai.html",
-          "content": "The move is the latest illustration of a company saying it believes it can be more efficient with fewer workers because of artificial intelligence."
+          "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
+          "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
+          "content": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues."
         }
       ]
     }
