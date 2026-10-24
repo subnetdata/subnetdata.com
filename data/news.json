@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-23T17:38:27.200Z",
+  "generatedAt": "2026-10-24T16:23:49.994Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "These clever apps show off the iPhone Duo’s potential",
+          "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "content": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldab"
+        },
         {
           "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
           "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
@@ -19,11 +24,6 @@
           "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
           "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
           "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the ca"
-        },
-        {
-          "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
-          "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
-          "content": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Global Oil Price Hits $117 a Barrel, Highest Since April",
-          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
-          "content": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk."
+          "title": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
+          "link": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
+          "content": "A postman’s son from Kentucky, he worked hard to lose his accent but never forgot his Appalachian roots. “The best stories come from west of the Potomac,” he said."
         },
         {
-          "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
-          "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
-          "content": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for."
+          "title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
+          "link": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
+          "content": "Surveys show workers and executives have different views on A.I."
         },
         {
-          "title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
-          "link": "https://www.nytimes.com/2026/10/23/business/economy/us-japan-chip-deal.html",
-          "content": "President Trump’s novel deal-making is on display in upstate New York, where the administration is funneling Japanese funds into a government-owned chip factory."
+          "title": "Attention, Passengers: High Airfares May Be Here to Stay",
+          "link": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
+          "content": "Ticket prices jumped after fuel costs spiked because of the war with Iran, but airlines say even an end to the conflict will not bring fares back down quickly."
         },
         {
-          "title": "How Worried Should We Be About the Economy? Let’s Look at 2008.",
-          "link": "https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html",
-          "content": "It’s not impossible to spot the characteristics of a brewing financial crisis. We can look to 2008 for clues."
+          "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
+          "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
+          "content": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it."
         }
       ]
     }
