@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:23:49.994Z",
+  "generatedAt": "2026-10-25T16:55:35.671Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,6 +32,11 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        },
+        {
           "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
           "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
           "content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
@@ -45,11 +50,6 @@
           "title": "Microsoft president says UK is best placed to drive AI regulation",
           "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
           "content": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
-        },
-        {
-          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-          "content": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
-          "link": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
-          "content": "A postman’s son from Kentucky, he worked hard to lose his accent but never forgot his Appalachian roots. “The best stories come from west of the Potomac,” he said."
+          "title": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
+          "link": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
+          "content": "Bill Owens, who left the show after clashing with CBS executives, is joining Newpress, which publishes work from creators on YouTube."
         },
         {
-          "title": "C.E.O.s Say the A.I. Rollout Is Going Well. Employees Feel Differently.",
-          "link": "https://www.nytimes.com/2026/10/24/business/dealbook/ceos-say-the-ai-rollout-is-going-well-employees-feel-differently.html",
-          "content": "Surveys show workers and executives have different views on A.I."
+          "title": "My Co-Worker Is Losing It Over My Religion",
+          "link": "https://www.nytimes.com/2026/10/25/business/my-co-worker-is-losing-it-over-my-religion.html",
+          "content": "Plus: Reader responses to a woman returning to the office after two decades of self-employment."
         },
         {
-          "title": "Attention, Passengers: High Airfares May Be Here to Stay",
-          "link": "https://www.nytimes.com/2026/10/24/business/airlines-ticket-prices.html",
-          "content": "Ticket prices jumped after fuel costs spiked because of the war with Iran, but airlines say even an end to the conflict will not bring fares back down quickly."
+          "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
+          "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
+          "content": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market."
         },
         {
-          "title": "5 Takeaways From Our Investigation of Trump’s Waivers for Polluters",
-          "link": "https://www.nytimes.com/2026/10/24/climate/takeaways-trump-waivers-chemical-pollution.html",
-          "content": "Chemical plants and other industrial facilities had been required to curb their toxic emissions. A New York Times investigation shows how they got out of it."
+          "title": "The Long Life of the ‘Snacking Occasion’",
+          "link": "https://www.nytimes.com/2026/10/25/business/the-long-life-of-the-snacking-occasiong-glp1.html",
+          "content": "As eating habits shift, the food industry is promoting any opportunity to nibble."
         }
       ]
     }
