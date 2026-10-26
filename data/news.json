@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-25T16:55:35.671Z",
+  "generatedAt": "2026-10-26T18:58:34.778Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+          "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+          "content": "The new iPad mini features a thinner and lighter design than its predecessor."
+        },
         {
           "title": "These clever apps show off the iPhone Duo’s potential",
           "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
@@ -19,11 +24,6 @@
           "title": "Meta launches an open-weight AI model that runs on Macs",
           "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
           "content": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
-        },
-        {
-          "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-          "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-          "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the ca"
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft offers buyouts to around 60,000 employees",
+          "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+          "content": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
+        },
         {
           "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
           "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -45,11 +50,6 @@
           "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
           "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
           "content": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
-        },
-        {
-          "title": "Microsoft president says UK is best placed to drive AI regulation",
-          "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-          "content": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
-          "link": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
-          "content": "Bill Owens, who left the show after clashing with CBS executives, is joining Newpress, which publishes work from creators on YouTube."
+          "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
+          "link": "https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html",
+          "content": "Manufacturers and their customers are using materials made without the clouds of dust that have sickened workers in quartz-cutting shops."
         },
         {
-          "title": "My Co-Worker Is Losing It Over My Religion",
-          "link": "https://www.nytimes.com/2026/10/25/business/my-co-worker-is-losing-it-over-my-religion.html",
-          "content": "Plus: Reader responses to a woman returning to the office after two decades of self-employment."
+          "title": "DraftKings Faces Growing Pressure Over How It Targets Customers",
+          "link": "https://www.nytimes.com/2026/10/26/business/draftkings-new-york-louisiana-blumenthal.html",
+          "content": "In Congress and in several states, officials have been questioning online gambling companies about their use of artificial intelligence."
         },
         {
-          "title": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
-          "link": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
-          "content": "At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market."
+          "title": "Brazilian Markets Convulse After Unexpected Election Result",
+          "link": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
+          "content": "President Luiz Inácio Lula da Silva’s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win."
         },
         {
-          "title": "The Long Life of the ‘Snacking Occasion’",
-          "link": "https://www.nytimes.com/2026/10/25/business/the-long-life-of-the-snacking-occasiong-glp1.html",
-          "content": "As eating habits shift, the food industry is promoting any opportunity to nibble."
+          "title": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+          "link": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
+          "content": "The race to build artificial intelligence infrastructure is consuming increasingly enormous amounts of cash at the biggest tech companies."
         }
       ]
     }
