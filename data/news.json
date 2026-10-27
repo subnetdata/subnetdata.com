@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-26T18:58:34.778Z",
+  "generatedAt": "2026-10-27T18:29:49.129Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+          "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+          "content": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity."
+        },
+        {
+          "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+          "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+          "content": "The latest Apple software update for iPhones and iPads includes new features and important security updates."
+        },
+        {
+          "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+          "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+          "content": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
+        },
+        {
           "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
           "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
           "content": "The new iPad mini features a thinner and lighter design than its predecessor."
-        },
-        {
-          "title": "These clever apps show off the iPhone Duo’s potential",
-          "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-          "content": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldab"
-        },
-        {
-          "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-          "link": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-          "content": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate ob"
-        },
-        {
-          "title": "Meta launches an open-weight AI model that runs on Macs",
-          "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-          "content": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
-          "link": "https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html",
-          "content": "Manufacturers and their customers are using materials made without the clouds of dust that have sickened workers in quartz-cutting shops."
+          "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
+          "link": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+          "content": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies."
         },
         {
-          "title": "DraftKings Faces Growing Pressure Over How It Targets Customers",
-          "link": "https://www.nytimes.com/2026/10/26/business/draftkings-new-york-louisiana-blumenthal.html",
-          "content": "In Congress and in several states, officials have been questioning online gambling companies about their use of artificial intelligence."
+          "title": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
+          "link": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
+          "content": "The Communist Party uses a “national team” of state-owned investment funds to stem the market rout. But this time, investors are not sure it will work."
         },
         {
-          "title": "Brazilian Markets Convulse After Unexpected Election Result",
-          "link": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
-          "content": "President Luiz Inácio Lula da Silva’s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win."
+          "title": "Who Stands to Gain From an Anthropic I.P.O.",
+          "link": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
+          "content": "Wall Street banks and chipmakers are among those poised to capitalize on the artificial intelligence giant’s public trading debut."
         },
         {
-          "title": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-          "link": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
-          "content": "The race to build artificial intelligence infrastructure is consuming increasingly enormous amounts of cash at the biggest tech companies."
+          "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
+          "link": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
+          "content": "Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige."
         }
       ]
     }
