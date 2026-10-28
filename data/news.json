@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-27T18:29:49.129Z",
+  "generatedAt": "2026-10-28T18:35:45.314Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple launches its new touchscreen MacBook Pro",
+          "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+          "content": "Apple's new touchscreen MacBook Pro starts at $2,899."
+        },
         {
           "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
           "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
@@ -19,11 +24,6 @@
           "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
           "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
           "content": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
-        },
-        {
-          "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-          "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-          "content": "The new iPad mini features a thinner and lighter design than its predecessor."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
-          "link": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
-          "content": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies."
+          "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
+          "link": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
+          "content": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel."
         },
         {
-          "title": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
-          "link": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
-          "content": "The Communist Party uses a “national team” of state-owned investment funds to stem the market rout. But this time, investors are not sure it will work."
+          "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
+          "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
+          "content": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move."
         },
         {
-          "title": "Who Stands to Gain From an Anthropic I.P.O.",
-          "link": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
-          "content": "Wall Street banks and chipmakers are among those poised to capitalize on the artificial intelligence giant’s public trading debut."
+          "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
+          "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
+          "content": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques."
         },
         {
-          "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
-          "link": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
-          "content": "Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige."
+          "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
+          "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
+          "content": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly."
         }
       ]
     }
