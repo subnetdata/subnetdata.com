@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-28T18:35:45.314Z",
+  "generatedAt": "2026-10-29T18:45:03.332Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+          "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+          "content": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+        },
         {
           "title": "Apple launches its new touchscreen MacBook Pro",
           "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
@@ -19,11 +24,6 @@
           "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
           "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
           "content": "The latest Apple software update for iPhones and iPads includes new features and important security updates."
-        },
-        {
-          "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-          "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-          "content": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking."
         }
       ]
     },
@@ -32,24 +32,24 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+          "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+          "content": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the ma"
+        },
+        {
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores "
+        },
+        {
+          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+          "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+          "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92."
+        },
+        {
           "title": "Microsoft offers buyouts to around 60,000 employees",
           "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
           "content": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
-        },
-        {
-          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-          "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-        },
-        {
-          "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-          "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-          "content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
-        },
-        {
-          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-          "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-          "content": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "An ‘Endless’ Cruise Around the World Is Suspended, Leaving Passengers Stranded",
-          "link": "https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html",
-          "content": "The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel."
+          "title": "Inflation Accelerated in October, PCE Index Shows",
+          "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
+          "content": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady."
         },
         {
-          "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-          "link": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-          "content": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move."
+          "title": "U.S. GDP Increased 3.4% in Third Quarter",
+          "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
+          "content": "The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy."
         },
         {
-          "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
-          "link": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
-          "content": "Long before its baroque décor and class identity became midterm talking points, this durable restaurant chain survived some withering critiques."
+          "title": "Microsoft Up, Google Down. A Tale of Two Hyperscalers.",
+          "link": "https://www.nytimes.com/2026/10/29/business/dealbook/microsoft-google-ai-hyperscalers.html",
+          "content": "Investors are showing little patience for lavish spending and meager returns on companies’ artificial intelligence bets."
         },
         {
-          "title": "How the Fed’s Interest Rate Decision Affects Credit Cards, Loans and More",
-          "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
-          "content": "The Federal Reserve left its benchmark rate untouched, but a December hike could make holiday borrowing more costly."
+          "title": "Its Investors Say Kalshi Is Worth $40 Billion. Is an I.P.O. Next?",
+          "link": "https://www.nytimes.com/2026/10/29/business/dealbook/kalshi-fundraising-ipo.html",
+          "content": "The prediction market raised $1 billion in a new funding round and landed a market value almost double that of rival Polymarket. But legal challenges to its business persist."
         }
       ]
     }
