@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-30T18:21:26.476Z",
+  "generatedAt": "2026-10-31T17:28:18.342Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "I took two iPhones on vacation. The Duo won me over.",
+          "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+          "content": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
+        },
         {
           "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
           "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
@@ -19,11 +24,6 @@
           "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
           "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
           "content": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity."
-        },
-        {
-          "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-          "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-          "content": "The latest Apple software update for iPhones and iPads includes new features and important security updates."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Cracks are emerging in the AI spending boom",
+          "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "content": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of t"
+        },
         {
           "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
           "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
@@ -45,11 +50,6 @@
           "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
           "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
           "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92."
-        },
-        {
-          "title": "Microsoft offers buyouts to around 60,000 employees",
-          "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-          "content": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Binance was Hacked. What Protections Exist for Crypto Customers?",
-          "link": "https://www.nytimes.com/2026/10/30/business/binances-hack-customer-protections.html",
-          "content": "The company said it was going to reimburse customers who have losses from the theft."
+          "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
+          "link": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
+          "content": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them."
         },
         {
-          "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-          "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-          "content": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds."
+          "title": "How Binance’s $6.3 Billion Hack Went Down",
+          "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+          "content": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
         },
         {
-          "title": "Meta Settles Social Media Addiction Case, Avoiding Trial",
-          "link": "https://www.nytimes.com/2026/10/30/business/meta-settlement-child-addiction-suit.html",
-          "content": "The case, brought by an 18-year-old Mississippi woman and set for trial next week, was the fourth of nine bellwether personal injury lawsuits."
+          "title": "The New Hot Job in Law Doesn’t Require a J.D.",
+          "link": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
+          "content": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. s"
         },
         {
-          "title": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
-          "link": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
-          "content": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses."
+          "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
+          "link": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
+          "content": "After chicken, consumers are buying more beef, while pork, turkey and soy products remain flat."
         }
       ]
     }
