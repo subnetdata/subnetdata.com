@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-10-31T17:28:18.342Z",
+  "generatedAt": "2026-11-01T18:13:02.469Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "content": "Apple's new CEO defended the company's current position in the AI landscape."
+        },
         {
           "title": "I took two iPhones on vacation. The Duo won me over.",
           "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
@@ -19,11 +24,6 @@
           "title": "Apple launches its new touchscreen MacBook Pro",
           "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
           "content": "Apple's new touchscreen MacBook Pro starts at $2,899."
-        },
-        {
-          "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-          "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-          "content": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
-          "link": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
-          "content": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them."
+          "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+          "link": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+          "content": "South Korea’s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started."
         },
         {
-          "title": "How Binance’s $6.3 Billion Hack Went Down",
-          "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-          "content": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
+          "title": "ACLU’s Anthony Romero Says CEOs Are ‘Ducking the Hard Issues’",
+          "link": "https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html",
+          "content": "Anthony Romero has led the American Civil Liberties Union since 2001. He worries that Americans have fewer rights now."
         },
         {
-          "title": "The New Hot Job in Law Doesn’t Require a J.D.",
-          "link": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
-          "content": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. s"
+          "title": "As Political Ad Spending Skyrockets, Broadcast TV Remains King",
+          "link": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
+          "content": "Even though marketers have increasingly shifted their dollars to other media, local stations are reaping a bonanza during these midterm elections. Nowhere is this is more evid"
         },
         {
-          "title": "Pick Another Protein? Americans Still Want Beef, Despite the Price.",
-          "link": "https://www.nytimes.com/2026/10/31/business/beef-prices-protein.html",
-          "content": "After chicken, consumers are buying more beef, while pork, turkey and soy products remain flat."
+          "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
+          "link": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+          "content": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101."
         }
       ]
     }
