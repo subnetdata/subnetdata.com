@@ -1,17 +1,22 @@
 {
-  "generatedAt": "2026-11-01T18:13:02.469Z",
+  "generatedAt": "2026-11-02T22:03:14.629Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+          "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+          "content": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked."
+        },
+        {
           "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
           "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
           "content": "Apple's new CEO defended the company's current position in the AI landscape."
         },
         {
-          "title": "I took two iPhones on vacation. The Duo won me over.",
+          "title": "I took two iPhones on vacation — the Duo won me over",
           "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
           "content": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
         },
@@ -19,11 +24,6 @@
           "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
           "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
           "content": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
-        },
-        {
-          "title": "Apple launches its new touchscreen MacBook Pro",
-          "link": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-          "content": "Apple's new touchscreen MacBook Pro starts at $2,899."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
-          "link": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
-          "content": "South Korea’s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started."
+          "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
+          "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
+          "content": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment."
         },
         {
-          "title": "ACLU’s Anthony Romero Says CEOs Are ‘Ducking the Hard Issues’",
-          "link": "https://www.nytimes.com/2026/11/01/business/anthony-romero-aclu.html",
-          "content": "Anthony Romero has led the American Civil Liberties Union since 2001. He worries that Americans have fewer rights now."
+          "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+          "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+          "content": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on "
         },
         {
-          "title": "As Political Ad Spending Skyrockets, Broadcast TV Remains King",
-          "link": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
-          "content": "Even though marketers have increasingly shifted their dollars to other media, local stations are reaping a bonanza during these midterm elections. Nowhere is this is more evid"
+          "title": "He Pioneered a Groundbreaking Idea and Was Met With Corporate Wrath",
+          "link": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+          "content": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement."
         },
         {
-          "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
-          "link": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
-          "content": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101."
+          "title": "Trump’s Tariffs Are On the Ballot in Michigan",
+          "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+          "content": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach."
         }
       ]
     }
