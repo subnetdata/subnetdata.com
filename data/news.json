@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-02T22:03:14.629Z",
+  "generatedAt": "2026-11-03T19:55:09.645Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
-          "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-          "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-          "content": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked."
+          "title": "Apple restricts dating apps and AI companions to users 18 and up",
+          "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+          "content": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
         },
         {
-          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-          "content": "Apple's new CEO defended the company's current position in the AI landscape."
+          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+          "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+          "content": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
         },
         {
-          "title": "I took two iPhones on vacation — the Duo won me over",
-          "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-          "content": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max."
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+          "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+          "content": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
         },
         {
-          "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-          "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-          "content": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+          "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+          "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+          "content": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-          "link": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-          "content": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment."
+          "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+          "link": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+          "content": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy."
         },
         {
-          "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
-          "link": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-          "content": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on "
+          "title": "Gaming Out the Prospect of a Blue Wave ",
+          "link": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
+          "content": "Business executives and investors are preparing for a Democratic sweep and the ramifications for policy on data centers, cryptocurrency and more."
         },
         {
-          "title": "He Pioneered a Groundbreaking Idea and Was Met With Corporate Wrath",
-          "link": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-          "content": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement."
+          "title": "How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections",
+          "link": "https://www.nytimes.com/2026/11/03/business/media/midterm-elections-networks-cable.html",
+          "content": "Viewers will be flooded with options, including 13 straight hours of NBC footage and a continuous livestream of Steve Kornacki and his big board."
         },
         {
-          "title": "Trump’s Tariffs Are On the Ballot in Michigan",
-          "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-          "content": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president’s erratic approach."
+          "title": "The Soaring Cost of Diesel Is Bankrupting Small Trucking Companies",
+          "link": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
+          "content": "For small trucking firms operating with little margin for error, high fuel costs can make the difference between survival and bankruptcy."
         }
       ]
     }
