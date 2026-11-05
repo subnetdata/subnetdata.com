@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-04T20:12:18.614Z",
+  "generatedAt": "2026-11-05T20:25:59.011Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple is reportedly cutting budgets for its internal AI usage",
+          "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "content": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
+        },
         {
           "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
           "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
@@ -19,11 +24,6 @@
           "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
           "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
           "content": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
-        },
-        {
-          "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-          "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-          "content": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
-          "link": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
-          "content": "The war in Iran, efforts to promote fossil fuels and attacks on renewable energy contributed to higher prices for gas and electricity that drove voter discontent."
+          "title": "Passengers Tell of Fear After Bomb Threats Hit European Flights",
+          "link": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+          "content": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, P"
         },
         {
-          "title": "A Lawsuit Says the McRib Is Lacking Something You Might Expect It to Have",
-          "link": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
-          "content": "A judge in Chicago ruled that the class-action lawsuit could proceed."
+          "title": "Parents Sue Google Over A.I. Safety Risks on School Chromebooks",
+          "link": "https://www.nytimes.com/2026/11/05/technology/ai-safety-school-chromebooks-google-lawsuit.html",
+          "content": "A student made plans to end her life after chatting with Google’s artificial intelligence, a new lawsuit claims, amid mounting concerns about online harms to children."
         },
         {
-          "title": "America’s Trade Deficit Remained Elevated in September",
-          "link": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-          "content": "The gap between U.S. exports and imports, which remained at a relatively high level in September, has defied efforts by President Trump to decrease it with tariffs."
+          "title": "Stocks Erase Post-Midterm Elections Rally, Dragged Down by Tech",
+          "link": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html",
+          "content": "The S&P 500 slumped to its worst daily decline in more than a year, dragged down by the technology sector as investors fretted about the durability of the A.I. build-out."
         },
         {
-          "title": "The Business Fallout From a Blue Wave",
-          "link": "https://www.nytimes.com/2026/11/04/business/dealbook/business-fallout-blue-wave.html",
-          "content": "Investors are already picking the winners and the losers after Democrats glided to a landslide victory in the midterm elections."
+          "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
+          "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
+          "content": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay."
         }
       ]
     }
