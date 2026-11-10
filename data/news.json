@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-09T22:49:32.609Z",
+  "generatedAt": "2026-11-10T20:08:49.114Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+          "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+          "content": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles."
+        },
         {
           "title": "The Duo apps are coming, says Apple",
           "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
@@ -19,11 +24,6 @@
           "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
           "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
           "content": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
-        },
-        {
-          "title": "Apple restricts dating apps and AI companions to users 18 and up",
-          "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-          "content": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Boeing Will Cut 5% of Commercial Plane Employees",
-          "link": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
-          "content": "The company said it needed fewer workers because production was increasing more slowly than previously expected."
+          "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive",
+          "link": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+          "content": "Wachtell partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry into the chip maker’s chief executive."
         },
         {
-          "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
-          "link": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
-          "content": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing."
+          "title": "Weil Gotshal Partners Vote to Shut Down After Nearly a Century",
+          "link": "https://www.nytimes.com/2026/11/10/business/weil-gotshal-shut-down.html",
+          "content": "The large law firm, known for its powerful bankruptcy practice, started coming apart as prominent partners moved to other firms."
         },
         {
-          "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-          "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-          "content": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached"
+          "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+          "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+          "content": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chi"
         },
         {
-          "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
-          "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
-          "content": "The global benchmark price is down roughly $20 a barrel since late October, when it traded for around $113."
+          "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
+          "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
+          "content": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages."
         }
       ]
     }
