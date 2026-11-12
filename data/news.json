@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-11T19:57:03.895Z",
+  "generatedAt": "2026-11-12T20:36:16.788Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+          "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+          "content": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
+        },
         {
           "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
           "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
@@ -19,11 +24,6 @@
           "title": "Apple is reportedly cutting budgets for its internal AI usage",
           "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
           "content": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
-        },
-        {
-          "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-          "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-          "content": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
         }
       ]
     },
@@ -31,6 +31,11 @@
       "name": "Microsoft",
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
+        {
+          "title": "Microsoft’s Outlook email hit by new outage",
+          "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+          "content": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users."
+        },
         {
           "title": "Cracks are emerging in the AI spending boom",
           "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
@@ -45,11 +50,6 @@
           "title": "Microsoft recorded $10 billion in revenue from OpenAI",
           "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
           "content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores "
-        },
-        {
-          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-          "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-          "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
-          "link": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
-          "content": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
+          "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
+          "link": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+          "content": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology."
         },
         {
-          "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-          "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-          "content": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspe"
+          "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+          "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+          "content": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank op"
         },
         {
-          "title": "Silicon Valley Tech Allies Support Jensen Huang",
-          "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-          "content": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure."
+          "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
+          "link": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
+          "content": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report."
         },
         {
-          "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-          "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-          "content": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been."
+          "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
+          "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
+          "content": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve."
         }
       ]
     }
