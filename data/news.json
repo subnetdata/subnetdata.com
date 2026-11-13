@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:36:16.788Z",
+  "generatedAt": "2026-11-13T20:13:05.972Z",
   "sources": [
     {
       "name": "Apple",
@@ -32,9 +32,9 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
-          "title": "Microsoft’s Outlook email hit by new outage",
-          "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-          "content": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users."
+          "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
+          "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+          "content": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service."
         },
         {
           "title": "Cracks are emerging in the AI spending boom",
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "SpaceX Plans $74 Billion Investment to Build Data Centers in Texas and Arizona",
-          "link": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
-          "content": "Elon Musk’s rocket and artificial intelligence company has spent billions to develop the giant warehouses full of computer servers that power the technology."
+          "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
+          "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
+          "content": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central "
         },
         {
-          "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-          "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-          "content": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank op"
+          "title": "Microsoft’s Global Outage and Fixes: What We Know",
+          "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+          "content": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
         },
         {
-          "title": "What Do You Want to Know About New York Times Journalism and A.I.?",
-          "link": "https://www.nytimes.com/2026/11/12/insider/nyt-journalism-ai.html",
-          "content": "New York Times journalists want to answer your questions about how we’re using artificial intelligence in our report."
+          "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
+          "link": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
+          "content": "Many East Asians said that he had swagger and seemed like a superhero. Now there are worries that the spy scandal turns into hyper scrutiny against them."
         },
         {
-          "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
-          "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
-          "content": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve."
+          "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+          "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+          "content": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out."
         }
       ]
     }
