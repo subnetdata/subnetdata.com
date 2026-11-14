@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-13T20:13:05.972Z",
+  "generatedAt": "2026-11-14T18:36:53.021Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
+        {
+          "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+          "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "content": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day."
+        },
         {
           "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
           "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
@@ -19,11 +24,6 @@
           "title": "The Duo apps are coming, says Apple",
           "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
           "content": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily."
-        },
-        {
-          "title": "Apple is reportedly cutting budgets for its internal AI usage",
-          "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-          "content": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
         }
       ]
     },
@@ -32,9 +32,14 @@
       "humanUrl": "https://techcrunch.com/tag/microsoft/",
       "items": [
         {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        },
+        {
           "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
           "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-          "content": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service."
+          "content": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service."
         },
         {
           "title": "Cracks are emerging in the AI spending boom",
@@ -45,11 +50,6 @@
           "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
           "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
           "content": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the ma"
-        },
-        {
-          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-          "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-          "content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores "
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Why Jensen Huang Was Essential to Nvidia’s Rise",
-          "link": "https://www.nytimes.com/video/business/100000011275611/why-jensen-huang-was-essential-to-nvidias-rise.html",
-          "content": "Jensen Huang was the driving force at Nvidia, with 60 direct reports and no clear succession plan. Tripp Mickle, one of our technology reporters, examines Mr. Huang’s central "
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+          "content": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades."
         },
         {
-          "title": "Microsoft’s Global Outage and Fixes: What We Know",
-          "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-          "content": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services."
+          "title": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
+          "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
+          "content": "So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be."
         },
         {
-          "title": "Asian Americans Share Disappointment and Fear After Jensen Huang Scandal",
-          "link": "https://www.nytimes.com/2026/11/13/us/jensen-huang-nvidia-asian-americans.html",
-          "content": "Many East Asians said that he had swagger and seemed like a superhero. Now there are worries that the spy scandal turns into hyper scrutiny against them."
+          "title": "5 Big Questions as C.E.O.s Meet in China",
+          "link": "https://www.nytimes.com/2026/11/14/business/dealbook/questions-china-us-apec-summit.html",
+          "content": "President Trump and U.S. tech executives are expected to gather for a major summit in Shenzhen next week. On the agenda: a stalled trade war, expanding export controls, and su"
         },
         {
-          "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-          "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-          "content": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out."
+          "title": "This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say",
+          "link": "https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html",
+          "content": "The victim, who believed his financial assets had been compromised, was the target of an online fraud scheme and believed he had to buy the precious metal, the authorities sai"
         }
       ]
     }
