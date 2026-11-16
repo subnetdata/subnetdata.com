@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-15T19:12:48.097Z",
+  "generatedAt": "2026-11-16T22:41:28.608Z",
   "sources": [
     {
       "name": "Apple",
       "humanUrl": "https://techcrunch.com/tag/apple/",
       "items": [
         {
+          "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+          "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+          "content": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and"
+        },
+        {
+          "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+          "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+          "content": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements."
+        },
+        {
+          "title": "Apple launches new app to study how people use AI for health",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "content": "Apple's new app for a study will answer everyday medical questions."
+        },
+        {
           "title": "Got an iPhone Duo? These 9 settings make it easier to use",
           "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
           "content": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day."
-        },
-        {
-          "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-          "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-          "content": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
-        },
-        {
-          "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-          "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-          "content": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles."
-        },
-        {
-          "title": "The Duo apps are coming, says Apple",
-          "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-          "content": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily."
         }
       ]
     },
@@ -58,24 +58,24 @@
       "humanUrl": "https://www.nytimes.com/section/business",
       "items": [
         {
-          "title": "Megaspeed Says Alice Huang Left Company in August 2025",
-          "link": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-          "content": "The Singaporean company’s disclosure added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she w"
+          "title": "United Halts Flights as It Addresses ‘Widespread System Outage’",
+          "link": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+          "content": "The disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period."
         },
         {
-          "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
-          "link": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
-          "content": "Incidents involving Microsoft’s Outlook and the Federal Aviation Administration this past week demonstrated our dependence on fragile technology."
+          "title": "Bessent Takes Hawkish Turn in White House Debate on China",
+          "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+          "content": "The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology."
         },
         {
-          "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
-          "link": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
-          "content": "The Nvidia chief executive’s resignation shocked people in his birthplace, where he is called “the people’s dad.”"
+          "title": "Trump Nominates Budget Deputy for Nonpartisan Federal Watchdog Role",
+          "link": "https://www.nytimes.com/2026/11/16/business/trump-gao-watchdog-nominee-eric-ueland.html",
+          "content": "The move could put a top administration official in charge of an oversight agency that has faulted the White House for past violations of the law."
         },
         {
-          "title": "A Human Reads the Anthropic I.P.O. Filing",
-          "link": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
-          "content": "The prospectus is unparalleled in its willingness to discuss existential risk. But does honesty bring comfort?"
+          "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+          "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+          "content": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market."
         }
       ]
     }
